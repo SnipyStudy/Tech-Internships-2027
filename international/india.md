@@ -15,7 +15,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Apps Associates](https://www.dreamworkhq.com/c/appsassociates.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - IT Development](https://www.dreamworkhq.com/job/951b459e-b8bd-4f8c-836f-585335272ee5?utm_source=github&utm_campaign=gh-tech-internships) | Hyderabad, Telangana, India |  | 1d |
+| **[Apps Associates](https://www.dreamworkhq.com/c/appsassociates.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - IT Development](https://www.dreamworkhq.com/job/0bf1b876-6c45-4d2c-bee1-422d302b1494?utm_source=github&utm_campaign=gh-tech-internships) | Hyderabad, Telangana, India |  | 1d |
 | **[Automationanywhere](https://www.dreamworkhq.com/c/automationanywhere.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Development Engineer in Test Intern (SDET Intern)](https://www.dreamworkhq.com/job/6f59c1d7-4ae6-4a5a-ba52-7919699ba2c2?utm_source=github&utm_campaign=gh-tech-internships) | IN Bengaluru |  | 5d |
 | **[Merklescience](https://www.dreamworkhq.com/c/merklescience.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer(Intern)- Backend](https://www.dreamworkhq.com/job/55340783-b58b-401e-93d7-fcf4d31b5436?utm_source=github&utm_campaign=gh-tech-internships) | Bangalore (Hybrid) |  | 11d |
 | **[Tesla](https://www.dreamworkhq.com/c/tesla.com?utm_source=github&utm_campaign=gh-tech-internships)** | [ASIC RTL Design Intern](https://www.dreamworkhq.com/job/c82785ee-5103-4206-ba74-be2168001ac7?utm_source=github&utm_campaign=gh-tech-internships) | Bengaluru Urban, Ka |  | 13d |
