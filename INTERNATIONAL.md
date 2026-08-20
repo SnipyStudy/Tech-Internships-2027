@@ -2,19 +2,19 @@
 
 [← US internships](README.md)
 
-**904 country-located roles** across **59 countries** · **2 explicitly global remote** · Updated **2026-08-20**
+**901 country-located roles** across **59 countries** · **2 explicitly global remote** · Updated **2026-08-20**
 
 This is the international view of the same verified-open internship corpus. Countries are based on the location in the company posting; unknown locations are excluded instead of being guessed. Every country has its own page so the list stays readable as coverage grows.
 
 | Country | Open roles |
 | --- | ---: |
 | [Singapore](international/singapore.md) | 130 |
-| [China](international/china.md) | 81 |
-| [Germany](international/germany.md) | 67 |
-| [Canada](international/canada.md) | 66 |
+| [China](international/china.md) | 80 |
+| [Germany](international/germany.md) | 66 |
+| [Canada](international/canada.md) | 65 |
 | [Malaysia](international/malaysia.md) | 43 |
-| [Vietnam](international/vietnam.md) | 42 |
-| [Netherlands](international/netherlands.md) | 39 |
+| [Vietnam](international/vietnam.md) | 43 |
+| [Netherlands](international/netherlands.md) | 38 |
 | [Italy](international/italy.md) | 31 |
 | [United Kingdom](international/united-kingdom.md) | 31 |
 | [Spain](international/spain.md) | 26 |

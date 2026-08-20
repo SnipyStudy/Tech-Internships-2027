@@ -2,17 +2,17 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md)
 
-**39 currently open roles** · Updated **2026-08-20**
+**38 currently open roles** · Updated **2026-08-20**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-21) · 21 roles
+- [Engineering](#engineering-20) · 20 roles
 - [Data Science](#data-science-14) · 14 roles
 - [Other](#other-4) · 4 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (21)
+### Engineering (20)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
@@ -25,7 +25,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[Vanderlande](https://www.dreamworkhq.com/c/vanderlande.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship/Graduation: Improving Engineering Productivity with AI](https://www.dreamworkhq.com/job/abbac6e6-098b-4201-8dcc-898b23e88c66?utm_source=github&utm_campaign=gh-tech-internships) | Veghel |  | 11d |
 | **[Imc](https://www.dreamworkhq.com/c/imc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/f3eba291-e79c-4e7d-8dce-9a334cd1f05f?utm_source=github&utm_campaign=gh-tech-internships) | Amsterdam, Netherlands |  | 14d |
 | **[Imc](https://www.dreamworkhq.com/c/imc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Hardware Engineer Intern](https://www.dreamworkhq.com/job/f866878d-45b7-455e-ace7-2acc6676dd35?utm_source=github&utm_campaign=gh-tech-internships) | Amsterdam, Netherlands |  | 14d |
-| **[Damen](https://www.dreamworkhq.com/c/damen.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Solution Developer](https://www.dreamworkhq.com/job/b16af6f7-decb-4619-8c4a-795d7ef599da?utm_source=github&utm_campaign=gh-tech-internships) | Gorinchem |  | 27d |
 | **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern for Manufacturing IT](https://www.dreamworkhq.com/job/7212f154-c1c8-407d-87fa-e3459e5af026?utm_source=github&utm_campaign=gh-tech-internships) | Nijmegen |  | 28d |
 | **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship/Thesis – Signal Processing and AI for autonomous driving](https://www.dreamworkhq.com/job/4b766517-c83f-4a93-afb5-6686d4e60c28?utm_source=github&utm_campaign=gh-tech-internships) | Eindhoven |  | 28d |
 | **[EURES Netherlands (Professional)](https://www.dreamworkhq.com/c/netpoint.nl?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Intern](https://www.dreamworkhq.com/job/6a840d39-ac41-4429-8219-6a57b9493e5e?utm_source=github&utm_campaign=gh-tech-internships) | Noord-Holland, Netherlands (Hybrid) |  | 28d |

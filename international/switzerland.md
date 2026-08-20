@@ -28,7 +28,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Roche](https://www.dreamworkhq.com/c/roche.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship/Thesis in Global Engineering Automation](https://www.dreamworkhq.com/job/a3c74b32-e851-4907-95ca-919570846259?utm_source=github&utm_campaign=gh-tech-internships) | Basel |  | 1d |
+| **[Roche](https://www.dreamworkhq.com/c/roche.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship/Thesis in Global Engineering Automation](https://www.dreamworkhq.com/job/a3c74b32-e851-4907-95ca-919570846259?utm_source=github&utm_campaign=gh-tech-internships) | Basel |  | 2d |
 | **[Gravisrobotics](https://www.dreamworkhq.com/c/gravisrobotics.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Machine Learning Intern, Autonomy](https://www.dreamworkhq.com/job/ee269a41-a6b0-4935-9a9c-8b9e4d3035be?utm_source=github&utm_campaign=gh-tech-internships) | Zurich |  | 6d |
 | **[Specialized](https://www.dreamworkhq.com/c/specialized.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Compliance Engineering – Internship (Master's Level)](https://www.dreamworkhq.com/job/5530364c-3da7-4227-b0f7-f587b2ca2587?utm_source=github&utm_campaign=gh-tech-internships) | Switzerland, Cham (Office) |  | 9d |
 | **[Anybotics](https://www.dreamworkhq.com/c/anybotics.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineering Internship - AI Platform](https://www.dreamworkhq.com/job/fb5f0108-8b5b-4deb-a587-becb900a2b15?utm_source=github&utm_campaign=gh-tech-internships) | Zurich, Switzerland |  | 23d |

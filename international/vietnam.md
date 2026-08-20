@@ -2,17 +2,17 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md)
 
-**42 currently open roles** · Updated **2026-08-20**
+**43 currently open roles** · Updated **2026-08-20**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-31) · 31 roles
+- [Engineering](#engineering-32) · 32 roles
 - [Security](#security-7) · 7 roles
 - [Other](#other-4) · 4 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (31)
+### Engineering (32)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
@@ -20,8 +20,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[EAF\] AI Engineer Intern (6-month fulltime Internship)](https://www.dreamworkhq.com/job/e12686eb-01d3-4381-a28e-cad2d8d243b2?utm_source=github&utm_campaign=gh-tech-internships) | Thành phố Hồ Chí Minh, Hồ Chí Minh, Vietnam |  | 1d |
 | **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[Internship Program Q4\] Automation Tester Intern (Selenium)](https://www.dreamworkhq.com/job/c16d7f0f-0753-4926-979e-bbd14a5db8bc?utm_source=github&utm_campaign=gh-tech-internships) | Ho Chi Minh, , Vietnam |  | 1d |
 | **[Hitachi](https://www.dreamworkhq.com/c/hitachi.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Embedded Internship](https://www.dreamworkhq.com/job/803f7a33-e40f-4815-9d48-aae4aae55594?utm_source=github&utm_campaign=gh-tech-internships) | Ho Chi Minh City, Ho Chi Minh, Vietnam (Hybrid) |  | 1d |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[EEC\] Intern for Embedded Software](https://www.dreamworkhq.com/job/168b6d0d-d9ad-48de-b39a-7964f2a4a75e?utm_source=github&utm_campaign=gh-tech-internships) | Ho Chi Minh city, Ho Chi Minh City, Vietnam |  | 3d |
 | **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[EAE\] Intern for Embedded System](https://www.dreamworkhq.com/job/f3a258f7-fac6-4efe-9128-940e2caf3914?utm_source=github&utm_campaign=gh-tech-internships) | Thành phố Hồ Chí Minh, Hồ Chí Minh, Vietnam |  | 3d |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[EEC\] Intern for Embedded Software](https://www.dreamworkhq.com/job/168b6d0d-d9ad-48de-b39a-7964f2a4a75e?utm_source=github&utm_campaign=gh-tech-internships) | Ho Chi Minh city, Ho Chi Minh City, Vietnam |  | 3d |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[EPM\] Intern for DevOps Engineer](https://www.dreamworkhq.com/job/9252c61e-7f7d-416e-830e-d42cc16e3b4a?utm_source=github&utm_campaign=gh-tech-internships) | Tân Bình, Thành phố Hồ Chí Minh, Vietnam |  | 3d |
 | **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[BSV\] Embedded Test Engineer Intern (Matlab/Simulink)](https://www.dreamworkhq.com/job/5dc55258-58b1-42a9-8bc6-4ac30a05c689?utm_source=github&utm_campaign=gh-tech-internships) | Ho Chi Minh, , Vietnam |  | 7d |
 | **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[SX/EIT-MM\] Data & AI / AI Agent Engineer Intern](https://www.dreamworkhq.com/job/70b5fd0a-d6bf-4126-8f8d-09143a97dd6a?utm_source=github&utm_campaign=gh-tech-internships) | Thành phố Hồ Chí Minh, Hồ Chí Minh, Vietnam |  | 7d |
 | **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[EMN\] Electrical Design Engineer Intern (6-month fulltime Internship)](https://www.dreamworkhq.com/job/22e694c3-1b90-46a6-bcd7-de6f75a8bbd3?utm_source=github&utm_campaign=gh-tech-internships) | Thành phố Hồ Chí Minh, Hồ Chí Minh, Vietnam |  | 7d |
@@ -35,13 +36,13 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[Internship Program Q4\] AI Engineer Intern](https://www.dreamworkhq.com/job/6e5674b9-e876-4277-af96-1d49e554d35d?utm_source=github&utm_campaign=gh-tech-internships) | Ho Chi Minh, , Vietnam |  | 12d |
 | **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[Internship Program Q4\] DevOps Intern](https://www.dreamworkhq.com/job/551bdfd2-72f7-4344-b6c0-da3174feb613?utm_source=github&utm_campaign=gh-tech-internships) | Ho Chi Minh, , Vietnam |  | 12d |
 | **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[Internship Program Q4\] Fullstack Engineer Intern (Java/NodeJS/Python…](https://www.dreamworkhq.com/job/14830566-99e8-4867-9b35-e825da65c36e?utm_source=github&utm_campaign=gh-tech-internships) | Ho Chi Minh, , Vietnam |  | 12d |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[BD\] AI Software QA Intern (Next-Gen & AI-Driven Testing \| 6-month I…](https://www.dreamworkhq.com/job/0a1770b0-4629-4882-99e5-d14660def3b5?utm_source=github&utm_campaign=gh-tech-internships) | Ho Chi Minh, , Vietnam |  | 18d |
 | **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[BD\] JavaScript Developer Intern (6-month fulltime internship)](https://www.dreamworkhq.com/job/b920c4e5-78b1-49cd-a6e7-13159c068446?utm_source=github&utm_campaign=gh-tech-internships) | Ho Chi Minh, , Vietnam |  | 18d |
 | **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[BD\] AI Engineer Intern (6-month fulltime Internship)](https://www.dreamworkhq.com/job/05309b33-b21e-4720-a39e-2c132c520f16?utm_source=github&utm_campaign=gh-tech-internships) | Ho Chi Minh, , Vietnam |  | 18d |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[BD\] AI Software QA Intern (Next-Gen & AI-Driven Testing \| 6-month I…](https://www.dreamworkhq.com/job/0a1770b0-4629-4882-99e5-d14660def3b5?utm_source=github&utm_campaign=gh-tech-internships) | Ho Chi Minh, , Vietnam |  | 18d |
 | **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[BGSV/PJ-NE\] Software Engineer Intern (Python, JavaScript/TypeScript,…](https://www.dreamworkhq.com/job/0697b024-b3ad-4656-961e-ecc0f9b3438b?utm_source=github&utm_campaign=gh-tech-internships) | Ho Chi Minh, , Vietnam |  | 18d |
 | **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Hanoi - Embedded Intern](https://www.dreamworkhq.com/job/c4c14650-fe99-45c8-bead-e178ad8d1f30?utm_source=github&utm_campaign=gh-tech-internships) | Hanoi, , Vietnam |  | 29d |
-| **[Geocomply 2](https://www.dreamworkhq.com/c/geocomply.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern (Fullstack)](https://www.dreamworkhq.com/job/6c6790f7-6953-426b-b99f-d3fd0f4180e4?utm_source=github&utm_campaign=gh-tech-internships) | Ho Chi Minh, Vietnam (Hybrid) |  | 1mo |
 | **[Geocomply 2](https://www.dreamworkhq.com/c/geocomply.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern (Mobile)](https://www.dreamworkhq.com/job/22460a81-f25a-4883-9db9-e36bd8dc0323?utm_source=github&utm_campaign=gh-tech-internships) | Ho Chi Minh, Vietnam (Hybrid) |  | 1mo |
+| **[Geocomply 2](https://www.dreamworkhq.com/c/geocomply.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern (Fullstack)](https://www.dreamworkhq.com/job/6c6790f7-6953-426b-b99f-d3fd0f4180e4?utm_source=github&utm_campaign=gh-tech-internships) | Ho Chi Minh, Vietnam (Hybrid) |  | 1mo |
 | **[Opswat](https://www.dreamworkhq.com/c/opswat.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/86883dec-a0f7-4f89-94d0-17dbb45d007a?utm_source=github&utm_campaign=gh-tech-internships) | Ho Chi Minh City, Ho Chi Minh City, Vietnam | $220K–$280K | 1mo |
 | **[Hitachi](https://www.dreamworkhq.com/c/hitachi.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Talented AI Engineer Internship Program](https://www.dreamworkhq.com/job/dc87156c-4b99-430c-9f73-bf116bb7cbf2?utm_source=github&utm_campaign=gh-tech-internships) | (DEAI DS) VN Danang City (Hybrid) |  | 1mo |
 | **[Geocomply 2](https://www.dreamworkhq.com/c/geocomply.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern (Backend)](https://www.dreamworkhq.com/job/c169a09a-569e-4137-8bac-d67bb6ebc1f0?utm_source=github&utm_campaign=gh-tech-internships) | Ho Chi Minh, Vietnam (Hybrid) |  | 1mo |

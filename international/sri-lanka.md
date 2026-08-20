@@ -17,9 +17,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 | --- | --- | --- | --- | --- |
 | **[Zebra](https://www.dreamworkhq.com/c/zebra.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2026(6 months) Internship(Sri Lanka) -Software Engineering](https://www.dreamworkhq.com/job/e5d45b1a-c4c9-44d6-97ab-da25da1781cb?utm_source=github&utm_campaign=gh-tech-internships) | Colombo, Sri Lanka (Hybrid) |  | 1d |
 | **[Zebra](https://www.dreamworkhq.com/c/zebra.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2026(6 months) Internship (Sri Lanka) -Software Engineering](https://www.dreamworkhq.com/job/c1dff3ce-0754-4ddc-b8ad-e97a842f4981?utm_source=github&utm_campaign=gh-tech-internships) | Colombo, Sri Lanka (Hybrid) |  | 1d |
+| **[LSEG](https://www.dreamworkhq.com/c/lseg.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Engineering Intern - DevOps](https://www.dreamworkhq.com/job/7805d6e2-6a67-45b3-8e84-096df17c9cbe?utm_source=github&utm_campaign=gh-tech-internships) | Colombo, Sri Lanka |  | 15d |
 | **[LSEG](https://www.dreamworkhq.com/c/lseg.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Engineering Intern - Software Engineer](https://www.dreamworkhq.com/job/f96aa532-fd5c-4acf-b0c9-085a4674f0eb?utm_source=github&utm_campaign=gh-tech-internships) | Colombo, Sri Lanka |  | 15d |
 | **[LSEG](https://www.dreamworkhq.com/c/lseg.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Engineering Intern - Hardware Acceleration](https://www.dreamworkhq.com/job/0a87e6ee-0b56-4e02-9e77-115143367cdc?utm_source=github&utm_campaign=gh-tech-internships) | Colombo, Sri Lanka |  | 15d |
-| **[LSEG](https://www.dreamworkhq.com/c/lseg.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Engineering Intern - DevOps](https://www.dreamworkhq.com/job/7805d6e2-6a67-45b3-8e84-096df17c9cbe?utm_source=github&utm_campaign=gh-tech-internships) | Colombo, Sri Lanka |  | 15d |
 
 ### Other (1)
 

@@ -2,13 +2,13 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md)
 
-**67 currently open roles** · Updated **2026-08-20**
+**66 currently open roles** · Updated **2026-08-20**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-47) · 47 roles
 - [Data Science](#data-science-14) · 14 roles
-- [Other](#other-6) · 6 roles
+- [Other](#other-5) · 5 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -46,8 +46,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[STARK Group](https://www.dreamworkhq.com/c/stark.tech?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineering Intern (All genders)](https://www.dreamworkhq.com/job/7ae66867-96f5-4954-ae7d-c74c68bf8f50?utm_source=github&utm_campaign=gh-tech-internships) | Munich |  | 1mo |
 | **[Tesla](https://www.dreamworkhq.com/c/tesla.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Firmware & Validation Intern – Power Electronics PIL/SIL (m/f/d)](https://www.dreamworkhq.com/job/f9e890da-1a63-4cad-9737-373fc4dd7e51?utm_source=github&utm_campaign=gh-tech-internships) | Freiburg Im Breisgau |  | 1mo |
 | **[Apple](https://www.dreamworkhq.com/c/apple.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SoC Performance Modeling Internship - Platform Architecture (m/f/d)](https://www.dreamworkhq.com/job/90ca535f-3411-4ed0-a57e-69c1498076e2?utm_source=github&utm_campaign=gh-tech-internships) | Munich |  | 1mo |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Dev Engineer Intern Machine Learning, Amazon Robotics](https://www.dreamworkhq.com/job/72a0f3c2-bbd6-41d3-b6ee-e5424e69aa62?utm_source=github&utm_campaign=gh-tech-internships) | DE, BE, Berlin |  | 1mo |
 | **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Dev Engineer internship - Embedded Development](https://www.dreamworkhq.com/job/50c5af79-6f0b-43e8-904d-046542a7af0f?utm_source=github&utm_campaign=gh-tech-internships) | DE, BE, Berlin |  | 1mo |
+| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Dev Engineer Intern Machine Learning, Amazon Robotics](https://www.dreamworkhq.com/job/72a0f3c2-bbd6-41d3-b6ee-e5424e69aa62?utm_source=github&utm_campaign=gh-tech-internships) | DE, BE, Berlin |  | 1mo |
 | **[BASF](https://www.dreamworkhq.com/c/basf.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship / Thesis Automation and Information Technology (m/f/d)](https://www.dreamworkhq.com/job/bd814081-8284-4c09-bcec-d22c36516120?utm_source=github&utm_campaign=gh-tech-internships) | Germany |  | 1mo |
 | **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern (f/m/d) - QA Automation Developer Support](https://www.dreamworkhq.com/job/91e5f865-0cd7-46d4-9a2f-1cf1e02aeec7?utm_source=github&utm_campaign=gh-tech-internships) | Europe, Germany, Walldorf (Hybrid) |  | 1mo |
 | **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP Globalization iXp Intern (f/m/d) - User Assistance Developer](https://www.dreamworkhq.com/job/67bc50f5-5711-40b3-a643-d16724e25a55?utm_source=github&utm_campaign=gh-tech-internships) | Europe, Germany, St. Leon-Rot (Hybrid) |  | 1mo |
@@ -83,7 +83,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[1000](https://www.dreamworkhq.com/c/1000company.com.br?utm_source=github&utm_campaign=gh-tech-internships)** | [Analytics & Insights Internship (m/f/d)](https://www.dreamworkhq.com/job/3589728d-6b9e-4de2-9baf-051c221a5ca5?utm_source=github&utm_campaign=gh-tech-internships) | Schwalbach Am Taunus | $34K | 1mo |
 | **[Reonic](https://www.dreamworkhq.com/c/reonic.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Go-to-Market AI & Data Intern (AI x Greentech) (m/f/d)](https://www.dreamworkhq.com/job/9a8cb6a8-bc87-4c2e-b21a-baf40ccacc22?utm_source=github&utm_campaign=gh-tech-internships) | Berlin |  | 2mo |
 
-### Other (6)
+### Other (5)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
@@ -91,7 +91,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[Kinexon](https://www.dreamworkhq.com/c/kinexon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Product Management & AI Automation](https://www.dreamworkhq.com/job/70703452-bcc5-4687-a481-0f98209185ce?utm_source=github&utm_campaign=gh-tech-internships) | Munich (Hybrid) |  | 5d |
 | **[BMW AG](https://www.dreamworkhq.com/c/bmw.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Working Student or Internship Automotive Cyber Security (f/m/x)](https://www.dreamworkhq.com/job/12f05768-1ed6-4f26-b99e-2b683b522d6f?utm_source=github&utm_campaign=gh-tech-internships) | — (Hybrid) |  | 9d |
 | **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Working Student/Intern (f/m/d) - Security Engineering Team (CPIT)](https://www.dreamworkhq.com/job/9c3206ca-d12b-42b2-8a38-c1cd8c5cb0ad?utm_source=github&utm_campaign=gh-tech-internships) | Europe, Germany, Walldorf (Hybrid) |  | 21d |
-| **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP Signavio iXp Intern (f/m/d) - User Experience Design](https://www.dreamworkhq.com/job/636fc142-5b33-4347-bd84-99544e69bfb9?utm_source=github&utm_campaign=gh-tech-internships) | Europe, Germany, Berlin (Hybrid) |  | 1mo |
 | **[Tacto](https://www.dreamworkhq.com/c/tacto.ai?utm_source=github&utm_campaign=gh-tech-internships)** | [(Intern) Product Engineer](https://www.dreamworkhq.com/job/2b5d2036-dd7a-48d8-b23f-ad70f192e49c?utm_source=github&utm_campaign=gh-tech-internships) | Munich |  | 2mo |
 
 <!-- TABLE_END -->
