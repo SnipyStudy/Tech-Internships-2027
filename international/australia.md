@@ -2,20 +2,21 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
-**10 currently open roles** · Updated **2026-08-21**
+**11 currently open roles** · Updated **2026-08-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-7) · 7 roles
+- [Engineering](#engineering-8) · 8 roles
 - [Other](#other-3) · 3 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (7)
+### Engineering (8)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[PARts Australia](https://www.dreamworkhq.com/c/partsaustralia.com.au?utm_source=github&utm_campaign=gh-tech-internships)** | [Automotive Data Engineering Intern - World leading technology platform](https://www.dreamworkhq.com/job/f5e73bbc-75e1-415c-9029-7142852281e8?utm_source=github&utm_campaign=gh-tech-internships) | Sydney NSW (Hybrid) |  | 6d |
+| **[Alcon](https://www.dreamworkhq.com/c/alcon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineering Intern](https://www.dreamworkhq.com/job/e3505825-fe06-4b34-a70f-21adae6a4f67?utm_source=github&utm_campaign=gh-tech-internships) | Mulgrave |  | 0d |
+| **[PARts Australia](https://www.dreamworkhq.com/c/partsaustralia.com.au?utm_source=github&utm_campaign=gh-tech-internships)** | [Automotive Data Engineering Intern - World leading technology platform](https://www.dreamworkhq.com/job/f5e73bbc-75e1-415c-9029-7142852281e8?utm_source=github&utm_campaign=gh-tech-internships) | Sydney NSW (Hybrid) |  | 7d |
 | **[Esri](https://www.dreamworkhq.com/c/esri.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineering Internship - Survey123](https://www.dreamworkhq.com/job/2da9f67a-7731-469b-aa03-9a8968f91a83?utm_source=github&utm_campaign=gh-tech-internships) | Melbourne, AU |  | 11d |
 | **[Esri](https://www.dreamworkhq.com/c/esri.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Engineering Internship - Survey123](https://www.dreamworkhq.com/job/11cec61f-f30f-4fa8-8b49-afbdde5887cb?utm_source=github&utm_campaign=gh-tech-internships) | Melbourne, AU |  | 11d |
 | **[Colliers](https://www.dreamworkhq.com/c/colliers.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Colliers Engineering & Design \| Graduate & Internship SA 2026](https://www.dreamworkhq.com/job/6bd83e8a-c1da-4f3b-9c4a-a406e74b5622?utm_source=github&utm_campaign=gh-tech-internships) | Adelaide, SA, Australia |  | 1mo |
@@ -28,7 +29,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **[SEEK Grad](https://www.dreamworkhq.com/c/aurecongroup.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2026/27 CommBank Summer Intern Program Technology & AI Engineering Data…](https://www.dreamworkhq.com/job/26af3da7-89a9-47b5-8a03-1151d7c543c2?utm_source=github&utm_campaign=gh-tech-internships) | Sydney NSW (Hybrid) |  | 6d |
-| **[SEEK Grad](https://www.dreamworkhq.com/c/aurecongroup.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2026/27 CommBank Summer Intern Program: Technology & AI - Advanced Anal…](https://www.dreamworkhq.com/job/8ba3388c-b6ca-42c9-9349-25d95e8380fd?utm_source=github&utm_campaign=gh-tech-internships) | Sydney NSW (Hybrid) |  | 6d |
+| **[SEEK Grad](https://www.dreamworkhq.com/c/aurecongroup.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2026/27 CommBank Summer Intern Program: Technology & AI - Advanced Anal…](https://www.dreamworkhq.com/job/8ba3388c-b6ca-42c9-9349-25d95e8380fd?utm_source=github&utm_campaign=gh-tech-internships) | Sydney NSW (Hybrid) |  | 7d |
 | **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP Creative Design &amp; Multimedia Internship](https://www.dreamworkhq.com/job/639d0d5f-57ad-4723-b264-d8359abaa5d6?utm_source=github&utm_campaign=gh-tech-internships) | Asia-Pacific, Australia, Sydney (Hybrid) |  | 1mo |
 
 <!-- TABLE_END -->
