@@ -1,35 +1,34 @@
 # Tech internships in Malaysia
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
 
-**43 currently open roles** · Updated **2026-08-21**
+**42 currently open roles** · Updated **2026-08-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-33) · 33 roles
+- [Engineering](#engineering-32) · 32 roles
 - [Data Science](#data-science-6) · 6 roles
 - [Other](#other-4) · 4 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (33)
+### Engineering (32)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[SWIFT](https://www.dreamworkhq.com/c/swift.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software/Systems Engineer - Intern](https://www.dreamworkhq.com/job/9a4ac17c-3c12-4256-af64-7895e011a562?utm_source=github&utm_campaign=gh-tech-internships) | Kuala Lumpur, Malaysia |  | 0d |
+| **[SWIFT](https://www.dreamworkhq.com/c/swift.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software/Systems Engineer - Intern](https://www.dreamworkhq.com/job/9a4ac17c-3c12-4256-af64-7895e011a562?utm_source=github&utm_campaign=gh-tech-internships) | Kuala Lumpur, Malaysia |  | 1d |
 | **[Keysight](https://www.dreamworkhq.com/c/keysight.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Firmware Engineering Intern](https://www.dreamworkhq.com/job/8c8d01fd-8e83-4fb7-bf1c-405ef35b3038?utm_source=github&utm_campaign=gh-tech-internships) | Penang, Malaysia |  | 1d |
 | **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Software Developer, Assurance (Financial Services) (October 20…](https://www.dreamworkhq.com/job/3ea70cee-6bc7-489e-931c-f8f0133d22ee?utm_source=github&utm_campaign=gh-tech-internships) | Kuala Lumpur |  | 2d |
 | **[Jabil Circuit](https://www.dreamworkhq.com/c/jabil.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Software Development Services](https://www.dreamworkhq.com/job/38d316d1-fbc9-4243-99ac-8b576d052086?utm_source=github&utm_campaign=gh-tech-internships) | Penang |  | 2d |
 | **[Western Digital](https://www.dreamworkhq.com/c/westerndigital.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Software Development (Embedded)](https://www.dreamworkhq.com/job/418d45a3-a6aa-4a45-950f-aeb4de0d6512?utm_source=github&utm_campaign=gh-tech-internships) | Petaling Jaya, Selangor, Malaysia |  | 2d |
-| **[Intel](https://www.dreamworkhq.com/c/intel.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Systems Software Development Engineer](https://www.dreamworkhq.com/job/1d9b7860-a932-41c6-8d1e-caf8bcfc98e6?utm_source=github&utm_campaign=gh-tech-internships) | Malaysia, Penang |  | 2d |
+| **[Intel](https://www.dreamworkhq.com/c/intel.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Systems Software Development Engineer](https://www.dreamworkhq.com/job/1d9b7860-a932-41c6-8d1e-caf8bcfc98e6?utm_source=github&utm_campaign=gh-tech-internships) | Malaysia, Penang |  | 3d |
 | **[Intel](https://www.dreamworkhq.com/c/intel.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI/ML Software Development Intern](https://www.dreamworkhq.com/job/f528862f-8551-4a7d-9a83-3ec64cf188ed?utm_source=github&utm_campaign=gh-tech-internships) | Malaysia, Kulim |  | 3d |
 | **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship in Product Engineering](https://www.dreamworkhq.com/job/e2bb315b-0179-4010-b8d2-39ed34b2b5cd?utm_source=github&utm_campaign=gh-tech-internships) | Batu Kawan, Penang, Malaysia |  | 6d |
 | **[Continental](https://www.dreamworkhq.com/c/continental.com?utm_source=github&utm_campaign=gh-tech-internships)** | [IT Internship - Process Automation & Software Development](https://www.dreamworkhq.com/job/a2740ca5-2a34-4650-8515-8fbd88b622cc?utm_source=github&utm_campaign=gh-tech-internships) | Petaling Jaya, Selangor, Malaysia (Hybrid) |  | 10d |
-| **[Keysight](https://www.dreamworkhq.com/c/keysight.com?utm_source=github&utm_campaign=gh-tech-internships)** | [R&D Embedded Software Intern](https://www.dreamworkhq.com/job/36d7b0fe-d21a-49ec-b086-33adcbdac9db?utm_source=github&utm_campaign=gh-tech-internships) | Penang, Malaysia |  | 11d |
 | **[Western Digital](https://www.dreamworkhq.com/c/westerndigital.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Software Engineering](https://www.dreamworkhq.com/job/deffe3ce-f276-4f87-b383-d6f923a8cb0d?utm_source=github&utm_campaign=gh-tech-internships) | Petaling Jaya, Selangor, Malaysia |  | 14d |
 | **[Western Digital](https://www.dreamworkhq.com/c/westerndigital.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Firmware Engineering](https://www.dreamworkhq.com/job/4392d3fb-de1e-4e11-aaa8-5bbdea861e12?utm_source=github&utm_campaign=gh-tech-internships) | Petaling Jaya, Selangor, Malaysia |  | 15d |
-| **[Western Digital](https://www.dreamworkhq.com/c/westerndigital.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern- Firmware Engineering](https://www.dreamworkhq.com/job/de8e760d-d9d0-464b-adbe-70d91e2993ab?utm_source=github&utm_campaign=gh-tech-internships) | Petaling Jaya, Selangor, Malaysia |  | 16d |
-| **[Western Digital](https://www.dreamworkhq.com/c/westerndigital.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Firmware Engineering](https://www.dreamworkhq.com/job/6c2cf7d1-9e7b-4ca8-b379-1869a22461a5?utm_source=github&utm_campaign=gh-tech-internships) | Petaling Jaya, Selangor, Malaysia |  | 16d |
+| **[Western Digital](https://www.dreamworkhq.com/c/westerndigital.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern- Firmware Engineering](https://www.dreamworkhq.com/job/de8e760d-d9d0-464b-adbe-70d91e2993ab?utm_source=github&utm_campaign=gh-tech-internships) | Petaling Jaya, Selangor, Malaysia |  | 17d |
+| **[Western Digital](https://www.dreamworkhq.com/c/westerndigital.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Firmware Engineering](https://www.dreamworkhq.com/job/6c2cf7d1-9e7b-4ca8-b379-1869a22461a5?utm_source=github&utm_campaign=gh-tech-internships) | Petaling Jaya, Selangor, Malaysia |  | 17d |
 | **[Rytbank](https://www.dreamworkhq.com/c/rytbank.my?utm_source=github&utm_campaign=gh-tech-internships)** | [Site Reliability Engineer Intern](https://www.dreamworkhq.com/job/8cf6cbb8-c0d8-4760-b788-adea48a6b995?utm_source=github&utm_campaign=gh-tech-internships) | Kuala Lumpur |  | 17d |
 | **[Avanade](https://www.dreamworkhq.com/c/avanade.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/fe42ca52-fb39-4761-81c0-accd02d78128?utm_source=github&utm_campaign=gh-tech-internships) | Kuala Lumpur, Exchange 106 |  | 17d |
 | **[Keysight](https://www.dreamworkhq.com/c/keysight.com?utm_source=github&utm_campaign=gh-tech-internships)** | [R&D Firmware Intern](https://www.dreamworkhq.com/job/d5a48f9a-15b0-431d-bc2d-69f5f428ec60?utm_source=github&utm_campaign=gh-tech-internships) | Penang, Malaysia |  | 18d |
@@ -55,8 +54,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **[Wppmedia](https://www.dreamworkhq.com/c/wppmedia.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Data & Analytics](https://www.dreamworkhq.com/job/b12e2d03-a0cd-496f-b652-1e7dd7c584d2?utm_source=github&utm_campaign=gh-tech-internships) | Kuala Lumpur, Malaysia |  | 1d |
-| **[Zurich Insurance](https://www.dreamworkhq.com/c/zurich.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Science &amp; AI Internship](https://www.dreamworkhq.com/job/aeedae37-40a1-4afd-bdac-b911771b29ec?utm_source=github&utm_campaign=gh-tech-internships) | Malaysia |  | 1d |
-| **[Western Digital](https://www.dreamworkhq.com/c/westerndigital.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Data Science](https://www.dreamworkhq.com/job/aec44ab6-ef81-4bbe-8793-3fffb2ec6c8f?utm_source=github&utm_campaign=gh-tech-internships) | Bayan Lepas, Penang, Malaysia |  | 16d |
+| **[Zurich Insurance](https://www.dreamworkhq.com/c/zurich.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Science &amp; AI Internship](https://www.dreamworkhq.com/job/aeedae37-40a1-4afd-bdac-b911771b29ec?utm_source=github&utm_campaign=gh-tech-internships) | Malaysia |  | 2d |
+| **[Western Digital](https://www.dreamworkhq.com/c/westerndigital.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Data Science](https://www.dreamworkhq.com/job/aec44ab6-ef81-4bbe-8793-3fffb2ec6c8f?utm_source=github&utm_campaign=gh-tech-internships) | Bayan Lepas, Penang, Malaysia |  | 17d |
 | **[Teleport Careers](https://www.dreamworkhq.com/c/teleport.it?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Commercial Data Analyst](https://www.dreamworkhq.com/job/46333a46-b838-4b06-8859-59a80aa2ad36?utm_source=github&utm_campaign=gh-tech-internships) | Kuala Lumpur, Federal Territory of Kuala Lu… (Hybrid) |  | 1mo |
 | **[Jabil Circuit](https://www.dreamworkhq.com/c/jabil.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Data Science](https://www.dreamworkhq.com/job/be1b2269-5024-42f7-92cb-f4754995e6c3?utm_source=github&utm_campaign=gh-tech-internships) | Penang |  | 1mo |
 | **[Evonik](https://www.dreamworkhq.com/c/evonik.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Visualization & Analytics](https://www.dreamworkhq.com/job/455f1dc0-948a-4c8c-a25f-fb71df515ce3?utm_source=github&utm_campaign=gh-tech-internships) | Selangor (Hybrid) |  | 1mo |
@@ -65,8 +64,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Logicalis](https://www.dreamworkhq.com/c/logicalis.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SOC Intern](https://www.dreamworkhq.com/job/68d04c4d-4077-45be-a4bc-d26eeb14456a?utm_source=github&utm_campaign=gh-tech-internships) | Kuala Lumpur, MY |  | 21d |
-| **[SWIFT](https://www.dreamworkhq.com/c/swift.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Management Intern](https://www.dreamworkhq.com/job/713c32d0-0ff4-4769-a1d5-f5808f3b0e1b?utm_source=github&utm_campaign=gh-tech-internships) | Kuala Lumpur, Malaysia (Hybrid) |  | 21d |
+| **[Logicalis](https://www.dreamworkhq.com/c/logicalis.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SOC Intern](https://www.dreamworkhq.com/job/68d04c4d-4077-45be-a4bc-d26eeb14456a?utm_source=github&utm_campaign=gh-tech-internships) | Kuala Lumpur, MY |  | 22d |
+| **[SWIFT](https://www.dreamworkhq.com/c/swift.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Management Intern](https://www.dreamworkhq.com/job/713c32d0-0ff4-4769-a1d5-f5808f3b0e1b?utm_source=github&utm_campaign=gh-tech-internships) | Kuala Lumpur, Malaysia (Hybrid) |  | 22d |
 | **[Djeholdings](https://www.dreamworkhq.com/c/edelman.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern](https://www.dreamworkhq.com/job/25aea68f-4c98-4230-87d6-87a85bd87d28?utm_source=github&utm_campaign=gh-tech-internships) | Kuala Lumpur, Malaysia (Hybrid) |  | 28d |
 | **[Teleport Careers](https://www.dreamworkhq.com/c/teleport.it?utm_source=github&utm_campaign=gh-tech-internships)** | [Product & Technology - Teleport Malaysia Internship Program 2026](https://www.dreamworkhq.com/job/f7b0ec65-0954-4ed8-9c68-8323cfbcf1f1?utm_source=github&utm_campaign=gh-tech-internships) | Kuala Lumpur, Federal Territory of Kuala Lu… (Hybrid) |  | 1mo |
 

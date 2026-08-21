@@ -1,6 +1,6 @@
 # Tech internships in Brazil
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
 
 **22 currently open roles** · Updated **2026-08-21**
 
@@ -16,11 +16,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern - Digital Solution Advisor - BAIP Specialist for SAP Dig…](https://www.dreamworkhq.com/job/38776902-ae54-407c-a2a0-bfc89c0ba42c?utm_source=github&utm_campaign=gh-tech-internships) | Latin America, Brazil, São Paulo (Hybrid) |  | 6d |
-| **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern - AI Solution Advisory](https://www.dreamworkhq.com/job/47ae7222-e975-47af-af37-64e2abb58c20?utm_source=github&utm_campaign=gh-tech-internships) | Latin America, Brazil, São Leopoldo (Hybrid) |  | 6d |
+| **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern - Digital Solution Advisor - BAIP Specialist for SAP Dig…](https://www.dreamworkhq.com/job/38776902-ae54-407c-a2a0-bfc89c0ba42c?utm_source=github&utm_campaign=gh-tech-internships) | Latin America, Brazil, São Paulo (Hybrid) |  | 7d |
+| **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern - AI Solution Advisory](https://www.dreamworkhq.com/job/47ae7222-e975-47af-af37-64e2abb58c20?utm_source=github&utm_campaign=gh-tech-internships) | Latin America, Brazil, São Leopoldo (Hybrid) |  | 7d |
 | **[RedBull](https://www.dreamworkhq.com/c/redbull.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Business Intelligence Intern (LATAM)](https://www.dreamworkhq.com/job/01b0a0a6-b0cd-4498-8d14-b064827b423f?utm_source=github&utm_campaign=gh-tech-internships) | São Paulo, SP, Brazil (Hybrid) |  | 9d |
-| **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern- Data Intelligence Profiling](https://www.dreamworkhq.com/job/c08d9f71-8a25-43dd-8a11-e729eed1371b?utm_source=github&utm_campaign=gh-tech-internships) | Latin America, Brazil, São Paulo (Hybrid) |  | 16d |
-| **[Mastercard](https://www.dreamworkhq.com/c/mastercard.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Associate Consultant Intern, Performance Analytics/ Business Experiment…](https://www.dreamworkhq.com/job/3cbb61ae-0730-4ca6-83b7-d3ce6f737c5f?utm_source=github&utm_campaign=gh-tech-internships) | Sao Paulo, Brazil |  | 18d |
+| **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern- Data Intelligence Profiling](https://www.dreamworkhq.com/job/c08d9f71-8a25-43dd-8a11-e729eed1371b?utm_source=github&utm_campaign=gh-tech-internships) | Latin America, Brazil, São Paulo (Hybrid) |  | 17d |
+| **[Mastercard](https://www.dreamworkhq.com/c/mastercard.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Associate Consultant Intern, Performance Analytics/ Business Experiment…](https://www.dreamworkhq.com/job/3cbb61ae-0730-4ca6-83b7-d3ce6f737c5f?utm_source=github&utm_campaign=gh-tech-internships) | Sao Paulo, Brazil |  | 19d |
 | **[Swiss Re](https://www.dreamworkhq.com/c/swissre.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Actuarial Portfolio Management Intern](https://www.dreamworkhq.com/job/fb1f3ad1-3219-4969-8dc4-3d782ec52814?utm_source=github&utm_campaign=gh-tech-internships) | Brazil (Hybrid) |  | 1mo |
 | **[Shifttechnology](https://www.dreamworkhq.com/c/shift-technology.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Scientist Intern (English Speaker)](https://www.dreamworkhq.com/job/50ccbf40-dae0-4e86-8161-3a692aaed456?utm_source=github&utm_campaign=gh-tech-internships) | Brazil - Sao Paulo (Hybrid) |  | 1mo |
 | **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Business Intelligence Intern, Amazon University Talent Acquisition](https://www.dreamworkhq.com/job/f6e9d104-0fd8-49e4-8188-f8130a71a98b?utm_source=github&utm_campaign=gh-tech-internships) | BR, SP, Sao Paulo |  | 1mo |
@@ -32,7 +32,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Vtex](https://www.dreamworkhq.com/c/vtex.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Summer Internship 2027 \| Software Engineering](https://www.dreamworkhq.com/job/f7cef614-f7cd-4121-9b32-6c79a6b22b43?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Brazil) |  | 17d |
+| **[Vtex](https://www.dreamworkhq.com/c/vtex.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Summer Internship 2027 \| Software Engineering](https://www.dreamworkhq.com/job/f7cef614-f7cd-4121-9b32-6c79a6b22b43?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Brazil) |  | 18d |
 | **[Legrand Group Opportunities Joi…](https://www.dreamworkhq.com/c/legrandgroup.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Hardware Engineer](https://www.dreamworkhq.com/job/139910e7-0f05-498a-8a2a-3a5adcb98035?utm_source=github&utm_campaign=gh-tech-internships) | Blumenau, SC, Brazil |  | 23d |
 | **[Cadence Design Systems](https://www.dreamworkhq.com/c/cadence.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern: Software Engineering Jasper R&D](https://www.dreamworkhq.com/job/7abff087-25e4-4ec0-b82f-817ce746779d?utm_source=github&utm_campaign=gh-tech-internships) | BELO HORIZONTE |  | 28d |
 | **[Legrand Group Opportunities Joi…](https://www.dreamworkhq.com/c/legrandgroup.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern DevOps](https://www.dreamworkhq.com/job/395cd100-6a4b-43c2-8e73-08831971b3f0?utm_source=github&utm_campaign=gh-tech-internships) | Blumenau, SC, Brazil |  | 1mo |
