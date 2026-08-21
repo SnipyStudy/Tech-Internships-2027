@@ -1,6 +1,6 @@
 # Tech internships in Mexico
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
 **16 currently open roles** · Updated **2026-08-21**
 
@@ -16,8 +16,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Micron](https://www.dreamworkhq.com/c/micron.com?utm_source=github&utm_campaign=gh-tech-internships)** | [DRAM Design Engineer (Intern)](https://www.dreamworkhq.com/job/3ebc9fb8-5f4a-4bb2-aaae-f12d8d5bee8c?utm_source=github&utm_campaign=gh-tech-internships) | Jalisco, Mexico |  | 3d |
 | **[Micron](https://www.dreamworkhq.com/c/micron.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Verification Engineer Intern](https://www.dreamworkhq.com/job/6f49f517-fdd2-478c-8eab-efa342c6b5cd?utm_source=github&utm_campaign=gh-tech-internships) | Jalisco, Mexico |  | 3d |
+| **[Micron](https://www.dreamworkhq.com/c/micron.com?utm_source=github&utm_campaign=gh-tech-internships)** | [DRAM Design Engineer (Intern)](https://www.dreamworkhq.com/job/7e72cff1-c224-4748-81aa-c789cda13434?utm_source=github&utm_campaign=gh-tech-internships) | Jalisco, Mexico |  | 3d |
 | **[Freudenberg](https://www.dreamworkhq.com/c/freudenberg.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Digitalization & Data Automation Intern](https://www.dreamworkhq.com/job/6468b344-bb4c-4cc9-afb4-3fb629a5021d?utm_source=github&utm_campaign=gh-tech-internships) | Queretaro |  | 5d |
 | **[1000](https://www.dreamworkhq.com/c/1000company.com.br?utm_source=github&utm_campaign=gh-tech-internships)** | [IT Data & Analytics Engineering Internship - Interlomas](https://www.dreamworkhq.com/job/cc683f7c-da61-40ca-9d40-da8fc53c3efd?utm_source=github&utm_campaign=gh-tech-internships) | MEXICO CITY GENERAL OFFICE |  | 11d |
 | **[Intel](https://www.dreamworkhq.com/c/intel.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer (Intern)](https://www.dreamworkhq.com/job/df02b0b2-9dc3-4711-b4d0-d766c8b2bf1a?utm_source=github&utm_campaign=gh-tech-internships) | Mexico, Guadalajara |  | 12d |

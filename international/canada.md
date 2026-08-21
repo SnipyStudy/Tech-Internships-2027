@@ -1,19 +1,19 @@
 # Tech internships in Canada
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
-**69 currently open roles** · Updated **2026-08-21**
+**70 currently open roles** · Updated **2026-08-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-50) · 50 roles
+- [Engineering](#engineering-52) · 52 roles
 - [Data Science](#data-science-8) · 8 roles
 - [Design](#design-5) · 5 roles
-- [Other](#other-6) · 6 roles
+- [Other](#other-5) · 5 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (50)
+### Engineering (52)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
@@ -24,15 +24,17 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[RTX (Raytheon)](https://www.dreamworkhq.com/c/rtx.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Winter 2027 - Model-based Definition (MBD) Computer-aided …](https://www.dreamworkhq.com/job/b3feb253-e8d9-4bbb-9d8c-f8c56a82e176?utm_source=github&utm_campaign=gh-tech-internships) | CA-ON-MISSISSAUGA-P22M01 ~ 1801 Courtney Pa… | $30K–$50K | 0d |
 | **[RTX (Raytheon)](https://www.dreamworkhq.com/c/rtx.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Stage - Hiver 2027 - Robotique et Automatisation dans le secteur manufa…](https://www.dreamworkhq.com/job/bbc01a2d-2559-4876-8ab9-a6360c287f8f?utm_source=github&utm_campaign=gh-tech-internships) | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victo… |  | 1d |
 | **[Autodesk](https://www.dreamworkhq.com/c/autodesk.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, AI Developer/ Stagiaire en développement IA](https://www.dreamworkhq.com/job/4d05915a-702f-49f3-855d-f70c4983f6e2?utm_source=github&utm_campaign=gh-tech-internships) | Montreal, QC, CAN (Hybrid) |  | 1d |
+| **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [May 2027 - Cloud, Data and AI - Summer Intern - Vancouver](https://www.dreamworkhq.com/job/f8d0eee8-b5d6-472d-a125-2063bd30bee5?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Vancouver) | $44K–$51K | 2d |
+| **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [May 2027 - Cloud, Data and AI - Summer Intern - Toronto](https://www.dreamworkhq.com/job/35a93f0e-a923-40cf-a6af-041956449994?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Toronto) | $44K–$51K | 2d |
 | **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [May 2027 - Cloud, Data and AI - Summer Intern - Calgary](https://www.dreamworkhq.com/job/0fe2dc51-6203-4a70-8343-a3c85bdb664f?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Calgary) |  | 2d |
 | **[RTX (Raytheon)](https://www.dreamworkhq.com/c/rtx.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Stage - Hiver 2027 - Gestion de projets et développement d'outils d'ana…](https://www.dreamworkhq.com/job/58531ac2-99c5-472f-ae54-c9c40a9421e8?utm_source=github&utm_campaign=gh-tech-internships) | CA-QC-LONGUEUIL-J01 ~ 1000 Blvd Marie-Victo… |  | 3d |
 | **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern - AI Engineer](https://www.dreamworkhq.com/job/7ef3110c-5447-467b-bfd6-83e13229e1fd?utm_source=github&utm_campaign=gh-tech-internships) | North America, Canada, Montreal (Hybrid) |  | 7d |
-| **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern - Java Developer, Cloud Development](https://www.dreamworkhq.com/job/29f1d950-adaf-4e5c-8aad-5241234c49bc?utm_source=github&utm_campaign=gh-tech-internships) | North America, Canada, Montreal (Hybrid) |  | 10d |
 | **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern - Customer Innovation Services - Software Developer](https://www.dreamworkhq.com/job/234834dc-1758-432b-a5b8-7aaf6ec3069d?utm_source=github&utm_campaign=gh-tech-internships) | North America, Canada, Montreal (Hybrid) |  | 10d |
+| **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern - Java Developer, Cloud Development](https://www.dreamworkhq.com/job/29f1d950-adaf-4e5c-8aad-5241234c49bc?utm_source=github&utm_campaign=gh-tech-internships) | North America, Canada, Montreal (Hybrid) |  | 10d |
 | **[Autodesk](https://www.dreamworkhq.com/c/autodesk.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Software Developer, Stagiaire en Développement Logiciel](https://www.dreamworkhq.com/job/68cc17b6-1ab6-4c7c-8b37-9ad540ae5d90?utm_source=github&utm_campaign=gh-tech-internships) | Montreal, QC, CAN (Hybrid) |  | 10d |
 | **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern - Data and Platform, Technical Support \[Vancouver\]](https://www.dreamworkhq.com/job/dabf1ec7-2576-4155-b765-b1057de485f8?utm_source=github&utm_campaign=gh-tech-internships) | North America, Canada, Vancouver (Hybrid) |  | 11d |
-| **[Ciena](https://www.dreamworkhq.com/c/ciena.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Developer in Test Automation Intern](https://www.dreamworkhq.com/job/787ce391-4d75-43ff-a1c1-dd21c3926129?utm_source=github&utm_campaign=gh-tech-internships) | Ottawa | $39K–$53K | 12d |
 | **[Ciena](https://www.dreamworkhq.com/c/ciena.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Developer Intern - Fall 2026](https://www.dreamworkhq.com/job/3cd97e33-6248-4f69-bdb7-f548886feb00?utm_source=github&utm_campaign=gh-tech-internships) | Ottawa | $38K–$53K | 12d |
+| **[Ciena](https://www.dreamworkhq.com/c/ciena.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Developer in Test Automation Intern](https://www.dreamworkhq.com/job/787ce391-4d75-43ff-a1c1-dd21c3926129?utm_source=github&utm_campaign=gh-tech-internships) | Ottawa | $39K–$53K | 12d |
 | **[Alayacare](https://www.dreamworkhq.com/c/alayacare.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Developer](https://www.dreamworkhq.com/job/1d014acc-54ad-40e3-bb43-a24631436fcb?utm_source=github&utm_campaign=gh-tech-internships) | Montréal, Quebec, Canada (Hybrid) |  | 13d |
 | **[Autodesk](https://www.dreamworkhq.com/c/autodesk.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Stagiaire en Développement Cloud, Intern Cloud Developer – FCAP](https://www.dreamworkhq.com/job/901938cc-d2dc-46cf-a606-884499dd22ca?utm_source=github&utm_campaign=gh-tech-internships) | Montreal, QC, CAN (Hybrid) |  | 14d |
 | **[Autodesk](https://www.dreamworkhq.com/c/autodesk.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Stagiaire en Développement Cloud, Intern Cloud Developer](https://www.dreamworkhq.com/job/b177537a-2937-4235-bff3-391fa4319c22?utm_source=github&utm_campaign=gh-tech-internships) | Montreal, QC, CAN (Hybrid) |  | 14d |
@@ -48,7 +50,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[Magna](https://www.dreamworkhq.com/c/magna.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Solutions Developer Co-op (4 months) - Starting September](https://www.dreamworkhq.com/job/c46f298f-d604-43cd-827f-1f16ba52c915?utm_source=github&utm_campaign=gh-tech-internships) | Milton, Ontario, CA | $58K–$69K | 1mo |
 | **[Amgen](https://www.dreamworkhq.com/c/amgen.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Undergraduate Co-op Student – Software Engineer – Large Molecule Discov…](https://www.dreamworkhq.com/job/474dad25-abb8-4275-a81a-344eef4f113b?utm_source=github&utm_campaign=gh-tech-internships) | Canada - Burnaby | $33K–$39K | 1mo |
 | **[Xsolla](https://www.dreamworkhq.com/c/xsolla.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI-First Engineering Intern](https://www.dreamworkhq.com/job/38124542-5d06-47a5-a052-9c35107c0aab?utm_source=github&utm_campaign=gh-tech-internships) | Montreal | $30K–$38K | 1mo |
-| **[Hitachi](https://www.dreamworkhq.com/c/hitachi.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Analyst Intern (Fall 2026, 8 months)](https://www.dreamworkhq.com/job/13f02317-a54b-406a-b92b-37fa3985303b?utm_source=github&utm_campaign=gh-tech-internships) | Toronto, Ontario, Canada (Hybrid) | $35K–$46K | 1mo |
+| **[Hitachi](https://www.dreamworkhq.com/c/hitachi.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Analyst Intern (Fall 2026, 8 months)](https://www.dreamworkhq.com/job/e9b5e515-c624-4fe6-abbf-87b78da7f831?utm_source=github&utm_campaign=gh-tech-internships) | Toronto, Ontario, Canada (Hybrid) | $35K–$46K | 1mo |
 | **[Ciena](https://www.dreamworkhq.com/c/ciena.com?utm_source=github&utm_campaign=gh-tech-internships)** | [WaveLogic Systems Design Architecture Intern (8-12 months)](https://www.dreamworkhq.com/job/d4627aec-48b1-4d97-a9e6-7d939b9302b0?utm_source=github&utm_campaign=gh-tech-internships) | Ottawa | $38K–$52K | 1mo |
 | **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Robotics - Software Development Engineer Intern - 2026 - Toronto](https://www.dreamworkhq.com/job/c3ee22e6-9411-4590-917d-2967c42bb50e?utm_source=github&utm_campaign=gh-tech-internships) | CA, ON, Toronto |  | 1mo |
 | **[Huawei Canada](https://www.dreamworkhq.com/c/huawei.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Co-op Software Engineer - AI System & Infrastructure](https://www.dreamworkhq.com/job/537095d1-6dea-4682-900f-44adadf85506?utm_source=github&utm_campaign=gh-tech-internships) | Vancouver, British Columbia, Canada | $58K–$104K | 1mo |
@@ -72,10 +74,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Rbcglobal1](https://www.dreamworkhq.com/c/rbcglobalgroup.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Winter - GRM, Portfolio Risk Data & AI Analyst Intern (4 Months)](https://www.dreamworkhq.com/job/e70e0e97-123c-4259-9eeb-de901a9cf81d?utm_source=github&utm_campaign=gh-tech-internships) | TORONTO, Ontario, Canada (Hybrid) |  | 0d |
+| **[Rbcglobal1](https://www.dreamworkhq.com/c/rbcglobalgroup.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Winter - GRM, Portfolio Risk Data & AI Analyst Intern (4 Months)](https://www.dreamworkhq.com/job/e70e0e97-123c-4259-9eeb-de901a9cf81d?utm_source=github&utm_campaign=gh-tech-internships) | TORONTO, Ontario, Canada (Hybrid) |  | 1d |
 | **[Investpsp](https://www.dreamworkhq.com/c/investpsp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, AI Solutions for External Manager Selection & Monitoring (May -…](https://www.dreamworkhq.com/job/417e7b0b-8766-4d57-a33e-ae634696707f?utm_source=github&utm_campaign=gh-tech-internships) | Montreal |  | 2d |
 | **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [May 2027 - Cloud, Data and AI - Summer Intern - Ottawa](https://www.dreamworkhq.com/job/e71c1917-1941-44f4-bf73-525975300279?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Ottawa) | $44K–$51K | 2d |
-| **[Rbcglobal1](https://www.dreamworkhq.com/c/rbcglobalgroup.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Winter - GRM, Data Scientist Intern (8 Months)](https://www.dreamworkhq.com/job/6d77a5dc-7791-4ffd-962a-0104c6228e0d?utm_source=github&utm_campaign=gh-tech-internships) | TORONTO, Ontario, Canada (Hybrid) |  | 2d |
+| **[Rbcglobal1](https://www.dreamworkhq.com/c/rbcglobalgroup.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Winter - GRM, Data Scientist Intern (8 Months)](https://www.dreamworkhq.com/job/6d77a5dc-7791-4ffd-962a-0104c6228e0d?utm_source=github&utm_campaign=gh-tech-internships) | TORONTO, Ontario, Canada (Hybrid) |  | 3d |
 | **[Rbcglobal1](https://www.dreamworkhq.com/c/rbcglobalgroup.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Winter – GRM, MCCR Policy AI Applications Intern (4 Months)](https://www.dreamworkhq.com/job/81946ff0-b869-40ce-b067-76c00132e46e?utm_source=github&utm_campaign=gh-tech-internships) | TORONTO, Ontario, Canada (Hybrid) |  | 3d |
 | **[Later](https://www.dreamworkhq.com/c/later.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data/Analytics Co-op](https://www.dreamworkhq.com/job/4e064072-b1d1-43e6-956f-c90057cfb3ac?utm_source=github&utm_campaign=gh-tech-internships) | Vancouver, British Columbia, Canada (Hybrid) | $35K | 19d |
 | **[Mckesson](https://www.dreamworkhq.com/c/mckesson.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI & Strategic Analytics Intern - Fall 2026](https://www.dreamworkhq.com/job/423704de-427a-4520-8054-3322508053fa?utm_source=github&utm_campaign=gh-tech-internships) | CAN, ON, Mississauga (Hybrid) | $37K–$46K | 1mo |
@@ -91,12 +93,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[Providence](https://www.dreamworkhq.com/c/dn9tckvz2rpxv.cloudfront.net?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Architect](https://www.dreamworkhq.com/job/7e36c507-8534-4247-a3be-e105082557f7?utm_source=github&utm_campaign=gh-tech-internships) | Edmonton, AB, Canada (Hybrid) |  | 1mo |
 | **[Cresta](https://www.dreamworkhq.com/c/cresta.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Design Intern for AI and Human Agents Platform](https://www.dreamworkhq.com/job/661295da-30d2-46fe-bebc-8101bcd18d2a?utm_source=github&utm_campaign=gh-tech-internships) | Toronto, Canada (Hybrid) | $62K–$104K | 3mo |
 
-### Other (6)
+### Other (5)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [May 2027 - Cyber and Privacy - Summer Intern - Toronto](https://www.dreamworkhq.com/job/9289977d-edf6-4273-94e1-53b007e24a24?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Toronto) | $44K–$51K | 1d |
-| **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [May 2027 - Cyber and Privacy - Summer Intern - Vancouver](https://www.dreamworkhq.com/job/d9f87985-367c-48e0-acdc-48a1412e674a?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Vancouver) | $44K–$51K | 2d |
 | **[Tenstorrent](https://www.dreamworkhq.com/c/tenstorrent.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Security Intern](https://www.dreamworkhq.com/job/fefaa26f-b12f-4915-b436-f3e5f3ed379a?utm_source=github&utm_campaign=gh-tech-internships) | Toronto, Ontario, Canada |  | 11d |
 | **[BMW AG](https://www.dreamworkhq.com/c/bmw.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Planning Intern (12 Months)](https://www.dreamworkhq.com/job/22ad444e-9fcb-4157-8ee4-5071dfe1e491?utm_source=github&utm_campaign=gh-tech-internships) | — | $47K–$49K | 27d |
 | **[Trend Micro](https://www.dreamworkhq.com/c/trendmicro.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Vulnerability Research Intern](https://www.dreamworkhq.com/job/9083d8bc-71e4-4f7c-a330-63ab377eaf78?utm_source=github&utm_campaign=gh-tech-internships) | Toronto |  | 28d |

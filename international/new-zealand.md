@@ -1,6 +1,6 @@
 # Tech internships in New Zealand
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
 **23 currently open roles** · Updated **2026-08-21**
 
@@ -15,8 +15,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Tait Communications](https://www.dreamworkhq.com/c/taitcommunications.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Junior Design Engineer (Summer Intern)](https://www.dreamworkhq.com/job/5f8ac68d-eff3-4c89-927c-e356257590e5?utm_source=github&utm_campaign=gh-tech-internships) | Christchurch, Canterbury |  | 0d |
 | **[Tait Communications](https://www.dreamworkhq.com/c/taitcommunications.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Junior Design Engineer - Summer Intern](https://www.dreamworkhq.com/job/39473f95-b2f4-401f-9975-588881f659aa?utm_source=github&utm_campaign=gh-tech-internships) | Christchurch, Canterbury |  | 0d |
+| **[Tait Communications](https://www.dreamworkhq.com/c/taitcommunications.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Junior Design Engineer (Summer Intern)](https://www.dreamworkhq.com/job/05c3c9d8-43ab-4d5e-9b69-010a3b9ff608?utm_source=github&utm_campaign=gh-tech-internships) | Christchurch, Canterbury |  | 0d |
 | **[ADInstruments](https://www.dreamworkhq.com/c/adinstruments.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/ebb3af7d-96ef-4e73-83b0-35d796e1871c?utm_source=github&utm_campaign=gh-tech-internships) | Dunedin Central, Otago |  | 0d |
 | **[Junior Learning](https://www.dreamworkhq.com/c/juniorlearning.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software QA & Game Design Intern](https://www.dreamworkhq.com/job/f51a12df-e4e4-4013-8661-bbc5926a242e?utm_source=github&utm_campaign=gh-tech-internships) | Newmarket, Auckland |  | 6d |
 | **[Autoline Pty Ltd](https://www.dreamworkhq.com/c/autoa.co.nz?utm_source=github&utm_campaign=gh-tech-internships)** | [Robotics and Mechatronics Summer Student Internship](https://www.dreamworkhq.com/job/064835bc-51c1-42a8-892b-4b8637afc6ae?utm_source=github&utm_campaign=gh-tech-internships) | Blenheim Central, Marlborough |  | 6d |

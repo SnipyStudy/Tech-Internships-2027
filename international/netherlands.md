@@ -1,6 +1,6 @@
 # Tech internships in Netherlands
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
 **37 currently open roles** · Updated **2026-08-21**
 
@@ -18,8 +18,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | --- | --- | --- | --- | --- |
 | **[ICSGBLCOR](https://www.dreamworkhq.com/c/ing.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internships - Software Engineering](https://www.dreamworkhq.com/job/0036ebc9-48b3-400f-bb61-64b32fdf42a6?utm_source=github&utm_campaign=gh-tech-internships) | HBP (Amsterdam - Haarlerbergpark) |  | 1d |
 | **[Optiverus](https://www.dreamworkhq.com/c/optiver.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Internship (2027 Start)](https://www.dreamworkhq.com/job/944108f4-2c86-47a9-8500-cb0c01212cee?utm_source=github&utm_campaign=gh-tech-internships) | Amsterdam, North Holland, Netherlands |  | 3d |
-| **[Tencent](https://www.dreamworkhq.com/c/tencent.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineer Intern](https://www.dreamworkhq.com/job/25cca676-f446-4a78-a6ad-de178b272c55?utm_source=github&utm_campaign=gh-tech-internships) | Netherlands-Amsterdam |  | 5d |
 | **[Tencent](https://www.dreamworkhq.com/c/tencent.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Product Engineer Intern — Game Development](https://www.dreamworkhq.com/job/b29e634b-8668-44f8-b215-79d1260264cb?utm_source=github&utm_campaign=gh-tech-internships) | Netherlands-Amsterdam |  | 5d |
+| **[Tencent](https://www.dreamworkhq.com/c/tencent.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineer Intern](https://www.dreamworkhq.com/job/25cca676-f446-4a78-a6ad-de178b272c55?utm_source=github&utm_campaign=gh-tech-internships) | Netherlands-Amsterdam |  | 5d |
 | **[EURES Netherlands](https://www.dreamworkhq.com/c/belastingdienst.nl?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern (Web)Developer](https://www.dreamworkhq.com/job/2b3fc49f-8fc2-464c-b141-fa3918458bf0?utm_source=github&utm_campaign=gh-tech-internships) | Noord-Brabant, Netherlands |  | 7d |
 | **[EURES Netherlands (Professional)](https://www.dreamworkhq.com/c/performation.nl?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern (Web)Developer](https://www.dreamworkhq.com/job/7190f3d6-04de-4285-b700-ba1958511eca?utm_source=github&utm_campaign=gh-tech-internships) | Noord-Brabant, Netherlands |  | 7d |
 | **[Vanderlande](https://www.dreamworkhq.com/c/vanderlande.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship/Graduation: Improving Engineering Productivity with AI](https://www.dreamworkhq.com/job/abbac6e6-098b-4201-8dcc-898b23e88c66?utm_source=github&utm_campaign=gh-tech-internships) | Veghel |  | 12d |

@@ -1,6 +1,6 @@
 # Tech internships in France
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
 **25 currently open roles** · Updated **2026-08-21**
 
@@ -34,9 +34,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[Sia](https://www.dreamworkhq.com/c/sia-partners.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Final Year Internship Consultant - Data Analyst](https://www.dreamworkhq.com/job/75a5b4a1-37f7-4342-90e6-d5a2570da11d?utm_source=github&utm_campaign=gh-tech-internships) | Paris, IDF, France | $26K | 2d |
 | **[Akur8](https://www.dreamworkhq.com/c/akur8.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data & Business Performance Internship](https://www.dreamworkhq.com/job/b6822d68-12d4-4bae-a940-30a6a82388d4?utm_source=github&utm_campaign=gh-tech-internships) | Paris (Hybrid) |  | 9d |
 | **[Teampicnic](https://www.dreamworkhq.com/c/teampicnicpostnl.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Commercial Data Analytics Intern (H/F)](https://www.dreamworkhq.com/job/8ca237fe-afd8-4269-aecc-f86760e1bf9e?utm_source=github&utm_campaign=gh-tech-internships) | Paris, Paris, France |  | 16d |
-| **[Sia](https://www.dreamworkhq.com/c/sia-partners.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Final year internship - Data Scientist & AI Consultant](https://www.dreamworkhq.com/job/480d9e8c-03db-41ea-a769-bc12531e3cf9?utm_source=github&utm_campaign=gh-tech-internships) | Paris, IDF, France |  | 23d |
-| **[Sia](https://www.dreamworkhq.com/c/sia-partners.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Final year internship - Marketing Data Scientist](https://www.dreamworkhq.com/job/a522e301-ccd9-4a47-8897-907ccca288a9?utm_source=github&utm_campaign=gh-tech-internships) | Paris, IDF, France |  | 23d |
 | **[Sia](https://www.dreamworkhq.com/c/sia-partners.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Final year internship - Operations Research Consultant](https://www.dreamworkhq.com/job/be62f5c1-7137-4113-bedd-62e9c7c5dc6c?utm_source=github&utm_campaign=gh-tech-internships) | Paris, IDF, France (Hybrid) |  | 23d |
+| **[Sia](https://www.dreamworkhq.com/c/sia-partners.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Final year internship - Marketing Data Scientist](https://www.dreamworkhq.com/job/a522e301-ccd9-4a47-8897-907ccca288a9?utm_source=github&utm_campaign=gh-tech-internships) | Paris, IDF, France |  | 23d |
+| **[Sia](https://www.dreamworkhq.com/c/sia-partners.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Final year internship - Data Scientist & AI Consultant](https://www.dreamworkhq.com/job/480d9e8c-03db-41ea-a769-bc12531e3cf9?utm_source=github&utm_campaign=gh-tech-internships) | Paris, IDF, France |  | 23d |
 | **[Joko](https://www.dreamworkhq.com/c/joko.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analyst Intern](https://www.dreamworkhq.com/job/e7245718-af04-48a4-ab00-b9cea9162081?utm_source=github&utm_campaign=gh-tech-internships) | Paris (Hybrid) |  | 1mo |
 | **[Shifttechnology](https://www.dreamworkhq.com/c/shift-technology.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Science internship - Spanish speaker (6months)](https://www.dreamworkhq.com/job/f915b0da-51ea-4121-98f5-80196a4f0d03?utm_source=github&utm_campaign=gh-tech-internships) | Remote (France - Remote) |  | 2mo |
 | **[Hellofresh](https://www.dreamworkhq.com/c/hellofresh.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Growth Strategy Data Analyst - Intern (M/F/N)](https://www.dreamworkhq.com/job/6a17f943-dff8-4636-b3a5-e8ea5ea07b12?utm_source=github&utm_campaign=gh-tech-internships) | Paris, Paris, France |  | 2mo |

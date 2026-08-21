@@ -1,20 +1,21 @@
 # Tech internships in United Kingdom
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
-**31 currently open roles** · Updated **2026-08-21**
+**32 currently open roles** · Updated **2026-08-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-21) · 21 roles
+- [Engineering](#engineering-22) · 22 roles
 - [Other](#other-10) · 10 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (21)
+### Engineering (22)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **[Cisco](https://www.dreamworkhq.com/c/cisco.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer - Intern](https://www.dreamworkhq.com/job/2a9bb754-57de-4074-a5dd-045bcf8ec5b5?utm_source=github&utm_campaign=gh-tech-internships) | Harpenden, United Kingdom |  | 0d |
 | **[Cloudflare](https://www.dreamworkhq.com/c/cloudflare.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern (Fall 2026)](https://www.dreamworkhq.com/job/fb3d30ed-8b9d-44f9-b4aa-a19bedf5b149?utm_source=github&utm_campaign=gh-tech-internships) | In-Office |  | 0d |
 | **[Xantium](https://www.dreamworkhq.com/c/xantium.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Quantitative Developer Intern](https://www.dreamworkhq.com/job/7534eac4-3e47-496f-b6c9-3b000895c9d0?utm_source=github&utm_campaign=gh-tech-internships) | London, England, New York, New York | $192K–$228K | 1d |
 | **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineering or SRE, PhD Intern, 2027](https://www.dreamworkhq.com/job/f2570c35-a0b6-4a2b-8ee0-5e1ff20a76b5?utm_source=github&utm_campaign=gh-tech-internships) | London, UK |  | 3d |
@@ -26,12 +27,12 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[Samsara](https://www.dreamworkhq.com/c/samsara.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineering Internship - London](https://www.dreamworkhq.com/job/0c1d3084-eee8-43c1-a738-845776f50fe1?utm_source=github&utm_campaign=gh-tech-internships) | London - UK2 (Hybrid) | $81K | 17d |
 | **[Palantir](https://www.dreamworkhq.com/c/palantir.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer, Internship - Infrastructure](https://www.dreamworkhq.com/job/72e4aa20-038f-4546-99cd-86fbf51e8fd4?utm_source=github&utm_campaign=gh-tech-internships) | London, United Kingdom (Hybrid) |  | 20d |
 | **[Palantir](https://www.dreamworkhq.com/c/palantir.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer, Internship](https://www.dreamworkhq.com/job/2ef58a2c-8345-48f0-b673-4d7e133dfa62?utm_source=github&utm_campaign=gh-tech-internships) | London, United Kingdom (Hybrid) |  | 20d |
-| **[Palantir](https://www.dreamworkhq.com/c/palantir.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Forward Deployed Software Engineer, Internship - UK Government](https://www.dreamworkhq.com/job/79cec26f-134b-4ac2-8c28-2bcee20d0202?utm_source=github&utm_campaign=gh-tech-internships) | London, United Kingdom (Hybrid) |  | 20d |
 | **[Palantir](https://www.dreamworkhq.com/c/palantir.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Forward Deployed Software Engineer, Internship - Commercial](https://www.dreamworkhq.com/job/8585971c-64ba-4f00-8abf-0ee107c01832?utm_source=github&utm_campaign=gh-tech-internships) | London, United Kingdom (Hybrid) |  | 20d |
+| **[Palantir](https://www.dreamworkhq.com/c/palantir.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Forward Deployed Software Engineer, Internship - UK Government](https://www.dreamworkhq.com/job/79cec26f-134b-4ac2-8c28-2bcee20d0202?utm_source=github&utm_campaign=gh-tech-internships) | London, United Kingdom (Hybrid) |  | 20d |
 | **[HP Inc.](https://www.dreamworkhq.com/c/hpwolf.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Browser Software Engineer Intern](https://www.dreamworkhq.com/job/1fcb1a89-066f-4f19-a827-62fc6180258f?utm_source=github&utm_campaign=gh-tech-internships) | Cambridge, Cambridgeshire, United Kingdom |  | 28d |
-| **[Jump Trading](https://www.dreamworkhq.com/c/jumptrading.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Campus Data Engineer (Intern)](https://www.dreamworkhq.com/job/fb1f0f2b-49c0-474b-b402-e6b2b9ef038e?utm_source=github&utm_campaign=gh-tech-internships) | London |  | 1mo |
-| **[Jump Trading](https://www.dreamworkhq.com/c/jumptrading.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Campus Software Engineer (Intern)](https://www.dreamworkhq.com/job/c8878afe-1d82-488a-b2dc-831a7b0f9ae1?utm_source=github&utm_campaign=gh-tech-internships) | London |  | 1mo |
 | **[Jump Trading](https://www.dreamworkhq.com/c/jumptrading.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Campus UI Software Engineer (Intern)](https://www.dreamworkhq.com/job/fb504b25-14f9-48f8-940b-5ebce104b970?utm_source=github&utm_campaign=gh-tech-internships) | London |  | 1mo |
+| **[Jump Trading](https://www.dreamworkhq.com/c/jumptrading.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Campus Software Engineer (Intern)](https://www.dreamworkhq.com/job/c8878afe-1d82-488a-b2dc-831a7b0f9ae1?utm_source=github&utm_campaign=gh-tech-internships) | London |  | 1mo |
+| **[Jump Trading](https://www.dreamworkhq.com/c/jumptrading.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Campus Data Engineer (Intern)](https://www.dreamworkhq.com/job/fb1f0f2b-49c0-474b-b402-e6b2b9ef038e?utm_source=github&utm_campaign=gh-tech-internships) | London |  | 1mo |
 | **[Squarepointcapital](https://www.dreamworkhq.com/c/squarepointcapital.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Software Developer - London - 2027](https://www.dreamworkhq.com/job/8917744d-7876-485d-bf58-c6be6732b32d?utm_source=github&utm_campaign=gh-tech-internships) | London |  | 2mo |
 | **[Deductive](https://www.dreamworkhq.com/c/deductive.ai?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern, London](https://www.dreamworkhq.com/job/f4c6f28f-5c86-467c-8a00-20cb4d33b707?utm_source=github&utm_campaign=gh-tech-internships) | London, UK |  | 2mo |
 | **[Apple](https://www.dreamworkhq.com/c/apple.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SoC Performance Modeling Internship - Platform Architecture](https://www.dreamworkhq.com/job/169d16b1-a1ea-4775-82c2-700411531b6e?utm_source=github&utm_campaign=gh-tech-internships) | London |  | 3mo |

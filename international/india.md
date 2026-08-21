@@ -1,26 +1,27 @@
 # Tech internships in India
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
-**26 currently open roles** · Updated **2026-08-21**
+**27 currently open roles** · Updated **2026-08-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-18) · 18 roles
+- [Engineering](#engineering-19) · 19 roles
 - [Other](#other-8) · 8 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (18)
+### Engineering (19)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **[Cisco](https://www.dreamworkhq.com/c/cisco.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer – Network/Embedded/Application Development (Summer In…](https://www.dreamworkhq.com/job/981ca258-c3f3-4259-ad47-27a63a5fb172?utm_source=github&utm_campaign=gh-tech-internships) | Bangalore, India (Hybrid) |  | 0d |
 | **[Instawork](https://www.dreamworkhq.com/c/instawork.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Hardware Intern — Robotics & AI](https://www.dreamworkhq.com/job/e0e6b4e0-a229-42e7-82ef-1728d68dd6a2?utm_source=github&utm_campaign=gh-tech-internships) | Bengaluru, Karnataka, India |  | 0d |
 | **[Momentumfinancialservicesgroup](https://www.dreamworkhq.com/c/momentumfinancialservicesgroup.com?utm_source=github&utm_campaign=gh-tech-internships)** | [QA Test Engineering Intern](https://www.dreamworkhq.com/job/5788d30c-7ec8-4a14-a6cd-deb9038d6dc6?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Hyderabad (Remote)) |  | 0d |
-| **[Honeywell](https://www.dreamworkhq.com/c/honeywell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Masters Software Eng](https://www.dreamworkhq.com/job/2ce276aa-45bc-4262-8b20-967a5543bbcc?utm_source=github&utm_campaign=gh-tech-internships) | Bengaluru, Karnataka, India |  | 0d |
 | **[Honeywell](https://www.dreamworkhq.com/c/honeywell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Masters Embedded Eng](https://www.dreamworkhq.com/job/34466e0d-98fb-4274-8373-4043279f2c11?utm_source=github&utm_campaign=gh-tech-internships) | Bengaluru, Karnataka, India |  | 0d |
+| **[Honeywell](https://www.dreamworkhq.com/c/honeywell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Masters Software Eng](https://www.dreamworkhq.com/job/2ce276aa-45bc-4262-8b20-967a5543bbcc?utm_source=github&utm_campaign=gh-tech-internships) | Bengaluru, Karnataka, India |  | 0d |
 | **[Towerresearchcapital](https://www.dreamworkhq.com/c/towerresearchcapital.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - AI/ML](https://www.dreamworkhq.com/job/47301f8e-96a6-441d-b66d-ac7d348e7098?utm_source=github&utm_campaign=gh-tech-internships) | gurgaon (Hybrid) |  | 0d |
-| **[Apps Associates](https://www.dreamworkhq.com/c/appsassociates.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - IT Development](https://www.dreamworkhq.com/job/0bf1b876-6c45-4d2c-bee1-422d302b1494?utm_source=github&utm_campaign=gh-tech-internships) | Hyderabad, Telangana, India |  | 2d |
+| **[Apps Associates](https://www.dreamworkhq.com/c/appsassociates.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - IT Development](https://www.dreamworkhq.com/job/ded16835-b5e2-49e6-8f86-af733cb676e1?utm_source=github&utm_campaign=gh-tech-internships) | Hyderabad, Telangana, India |  | 2d |
 | **[Automationanywhere](https://www.dreamworkhq.com/c/automationanywhere.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Development Engineer in Test Intern (SDET Intern)](https://www.dreamworkhq.com/job/6f59c1d7-4ae6-4a5a-ba52-7919699ba2c2?utm_source=github&utm_campaign=gh-tech-internships) | IN Bengaluru |  | 6d |
 | **[Enterpret](https://www.dreamworkhq.com/c/enterpret.com?utm_source=github&utm_campaign=gh-tech-internships)** | [\[Backend, Onsite\] Software Engineering Intern](https://www.dreamworkhq.com/job/a8d9107d-1452-45f8-8df4-92af7d9ec3f2?utm_source=github&utm_campaign=gh-tech-internships) | Bengaluru, Onsite |  | 10d |
 | **[Merklescience](https://www.dreamworkhq.com/c/merklescience.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer(Intern)- Backend](https://www.dreamworkhq.com/job/55340783-b58b-401e-93d7-fcf4d31b5436?utm_source=github&utm_campaign=gh-tech-internships) | Bangalore (Hybrid) |  | 12d |
