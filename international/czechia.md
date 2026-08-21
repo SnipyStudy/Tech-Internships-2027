@@ -1,8 +1,8 @@
 # Tech internships in Czechia
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
-**7 currently open roles** · Updated **2026-08-20**
+**7 currently open roles** · Updated **2026-08-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -18,7 +18,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[Accenture](https://www.dreamworkhq.com/c/accenture.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineer Intern](https://www.dreamworkhq.com/job/caf4f417-502c-4bb8-a186-485f3d97ba6d?utm_source=github&utm_campaign=gh-tech-internships) | Prague |  | 2d |
 | **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern - Cloud Software Developer (Privacy SaaS)](https://www.dreamworkhq.com/job/b5e39002-2a5e-4155-b0b9-df62e796d2fb?utm_source=github&utm_campaign=gh-tech-internships) | Europe, Czech Republic, Prague (Hybrid) |  | 7d |
 | **[Jobs Onsemi](https://www.dreamworkhq.com/c/onsemi.com?utm_source=github&utm_campaign=gh-tech-internships)** | [INTERN - Full Stack Developer](https://www.dreamworkhq.com/job/2d0c7693-65d9-46f3-9cf9-66b71eec9a1b?utm_source=github&utm_campaign=gh-tech-internships) | Roznov pod Radhostem, Vsetin, Czech Republic |  | 9d |
-| **[Ataccama](https://www.dreamworkhq.com/c/ataccama.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Frontend Engineer Intern (part-time)](https://www.dreamworkhq.com/job/f1cef63b-5401-472a-9773-edb2c4eb52db?utm_source=github&utm_campaign=gh-tech-internships) | Prague, Czechia |  | 19d |
+| **[Ataccama](https://www.dreamworkhq.com/c/ataccama.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Frontend Engineer Intern (part-time)](https://www.dreamworkhq.com/job/f1cef63b-5401-472a-9773-edb2c4eb52db?utm_source=github&utm_campaign=gh-tech-internships) | Prague, Czechia |  | 20d |
 | **[Novanta](https://www.dreamworkhq.com/c/novanta.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Tube sets & System test](https://www.dreamworkhq.com/job/6f6c8a30-ce9b-412e-bd77-092035488850?utm_source=github&utm_campaign=gh-tech-internships) | Brno (Hybrid) |  | 21d |
 
 ### Other (2)

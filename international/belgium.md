@@ -1,8 +1,8 @@
 # Tech internships in Belgium
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
-**16 currently open roles** · Updated **2026-08-20**
+**16 currently open roles** · Updated **2026-08-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -18,10 +18,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[GSKCareers](https://www.dreamworkhq.com/c/gsk.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: GenAI Data Analyst, Belgium – 2026](https://www.dreamworkhq.com/job/76a18bf2-8a17-4e72-b77a-5d9e9185e8cd?utm_source=github&utm_campaign=gh-tech-internships) | Belgium-Wavre |  | 1mo |
 | **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [School Internship in Data Consulting (2026-2027)](https://www.dreamworkhq.com/job/e8c8bff2-57b0-4fdc-ad0c-ce3ddfb9b683?utm_source=github&utm_campaign=gh-tech-internships) | Brussels (Hybrid) |  | 1mo |
 | **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [School Internship in Data Consulting - start now](https://www.dreamworkhq.com/job/2bfc215d-2083-4191-b083-2cce4da0c2f7?utm_source=github&utm_campaign=gh-tech-internships) | Brussels (Hybrid) |  | 1mo |
+| **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [School Internship in AI Agent Development in Deals M&A (2026-2027)](https://www.dreamworkhq.com/job/24dae90f-079f-4a72-b9b9-9e7db95d0245?utm_source=github&utm_campaign=gh-tech-internships) | Brussels (Hybrid) |  | 1mo |
 | **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [School Internship in Data Analytics in Deals M&A (2026-2027)](https://www.dreamworkhq.com/job/69f31dfc-9a60-47a5-9cff-5997d5f6236a?utm_source=github&utm_campaign=gh-tech-internships) | Brussels (Hybrid) |  | 1mo |
 | **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [School Internship in Data Analytics in Deals M&A - Start now](https://www.dreamworkhq.com/job/3ac23073-2b36-49d1-a892-8b7f553e3c21?utm_source=github&utm_campaign=gh-tech-internships) | Brussels (Hybrid) |  | 1mo |
 | **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [School Internship in AI Agent Development in Deals M&A - start now](https://www.dreamworkhq.com/job/981c61df-4c00-4e10-ae8f-2fd1814f91c7?utm_source=github&utm_campaign=gh-tech-internships) | Brussels (Hybrid) |  | 1mo |
-| **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [School Internship in AI Agent Development in Deals M&A (2026-2027)](https://www.dreamworkhq.com/job/24dae90f-079f-4a72-b9b9-9e7db95d0245?utm_source=github&utm_campaign=gh-tech-internships) | Brussels (Hybrid) |  | 1mo |
 | **[1000](https://www.dreamworkhq.com/c/1000company.com.br?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analyst Internship](https://www.dreamworkhq.com/job/859f49b2-7288-4a71-b682-68010b3dd3f8?utm_source=github&utm_campaign=gh-tech-internships) | Brussels | $31K | 1mo |
 | **[1000](https://www.dreamworkhq.com/c/1000company.com.br?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Science Internship](https://www.dreamworkhq.com/job/8e5672c0-6336-49a3-9641-290bef68f50c?utm_source=github&utm_campaign=gh-tech-internships) | Brussels | $31K | 1mo |
 | **[Artefact](https://www.dreamworkhq.com/c/artefact.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Science Intern - GenAI](https://www.dreamworkhq.com/job/e4815f5f-22de-43d4-a3c9-db4dfe0ff250?utm_source=github&utm_campaign=gh-tech-internships) | Brussels-Capital, Belgium |  | 2mo |

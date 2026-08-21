@@ -1,8 +1,8 @@
 # Tech internships in Switzerland
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
 
-**15 currently open roles** · Updated **2026-08-20**
+**15 currently open roles** · Updated **2026-08-21**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -16,10 +16,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **[Swisscom](https://www.dreamworkhq.com/c/swisscom.ch?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Business Intelligence and Data Analyst](https://www.dreamworkhq.com/job/42fb9c60-f7f8-4e16-a5ca-a4c389888f24?utm_source=github&utm_campaign=gh-tech-internships) | Zurich (Hybrid) |  | 0d |
-| **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Science PhD Intern, 2027](https://www.dreamworkhq.com/job/1649595f-a841-4c35-95fa-24166c19853d?utm_source=github&utm_campaign=gh-tech-internships) | Zürich, Switzerland |  | 2d |
+| **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Science PhD Intern, 2027](https://www.dreamworkhq.com/job/1649595f-a841-4c35-95fa-24166c19853d?utm_source=github&utm_campaign=gh-tech-internships) | Zürich, Switzerland |  | 3d |
 | **[Cc](https://www.dreamworkhq.com/c/chanel.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analyst Support Intern - January 2027](https://www.dreamworkhq.com/job/d5468a20-37a8-413b-abec-ee3f2b8384e2?utm_source=github&utm_campaign=gh-tech-internships) | Geneve (Hybrid) |  | 6d |
 | **[Swisscom](https://www.dreamworkhq.com/c/swisscom.ch?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Data Engineering Consulting](https://www.dreamworkhq.com/job/27fd7d80-b7d4-499f-9746-c51e765319c6?utm_source=github&utm_campaign=gh-tech-internships) | Zurich (Hybrid) |  | 27d |
-| **[Nestlé](https://www.dreamworkhq.com/c/nestlehealthscience.com?utm_source=github&utm_campaign=gh-tech-internships)** | [B2B Business Analytics Intern](https://www.dreamworkhq.com/job/241bebc1-8560-4600-927b-c8f14eee8888?utm_source=github&utm_campaign=gh-tech-internships) | Switzerland (Hybrid) |  | 27d |
+| **[Nestlé](https://www.dreamworkhq.com/c/nestlehealthscience.com?utm_source=github&utm_campaign=gh-tech-internships)** | [B2B Business Analytics Intern](https://www.dreamworkhq.com/job/241bebc1-8560-4600-927b-c8f14eee8888?utm_source=github&utm_campaign=gh-tech-internships) | Switzerland (Hybrid) |  | 28d |
 | **[Lombardodier](https://www.dreamworkhq.com/c/lombardodier.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Enhancing Financial Knowledge Access with Generative AI](https://www.dreamworkhq.com/job/f264ba82-55ab-42d6-8a09-28735a126ccf?utm_source=github&utm_campaign=gh-tech-internships) | Geneva |  | 1mo |
 | **[Lombardodier](https://www.dreamworkhq.com/c/lombardodier.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Data Scientist](https://www.dreamworkhq.com/job/d1b8c7a5-8e38-4d5b-816b-893f9654a7ec?utm_source=github&utm_campaign=gh-tech-internships) | Geneva (Hybrid) | $190K–$215K | 2mo |
 | **[Dialecticch](https://www.dreamworkhq.com/c/dialectic.ch?utm_source=github&utm_campaign=gh-tech-internships)** | [Data / ML / AI Intern](https://www.dreamworkhq.com/job/3171f855-afff-4881-8a5b-bd4dae095248?utm_source=github&utm_campaign=gh-tech-internships) | Zug, Switzerland |  | 2mo |
