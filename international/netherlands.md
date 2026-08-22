@@ -1,8 +1,8 @@
 # Tech internships in Netherlands
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**37 currently open roles** · Updated **2026-08-21**
+**37 currently open roles** · Updated **2026-08-22**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -18,8 +18,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | --- | --- | --- | --- | --- |
 | **[ICSGBLCOR](https://www.dreamworkhq.com/c/ing.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internships - Software Engineering](https://www.dreamworkhq.com/job/0036ebc9-48b3-400f-bb61-64b32fdf42a6?utm_source=github&utm_campaign=gh-tech-internships) | HBP (Amsterdam - Haarlerbergpark) |  | 1d |
 | **[Optiverus](https://www.dreamworkhq.com/c/optiver.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Internship (2027 Start)](https://www.dreamworkhq.com/job/944108f4-2c86-47a9-8500-cb0c01212cee?utm_source=github&utm_campaign=gh-tech-internships) | Amsterdam, North Holland, Netherlands |  | 3d |
-| **[Tencent](https://www.dreamworkhq.com/c/tencent.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Product Engineer Intern — Game Development](https://www.dreamworkhq.com/job/b29e634b-8668-44f8-b215-79d1260264cb?utm_source=github&utm_campaign=gh-tech-internships) | Netherlands-Amsterdam |  | 5d |
 | **[Tencent](https://www.dreamworkhq.com/c/tencent.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineer Intern](https://www.dreamworkhq.com/job/25cca676-f446-4a78-a6ad-de178b272c55?utm_source=github&utm_campaign=gh-tech-internships) | Netherlands-Amsterdam |  | 5d |
+| **[Tencent](https://www.dreamworkhq.com/c/tencent.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Product Engineer Intern — Game Development](https://www.dreamworkhq.com/job/b29e634b-8668-44f8-b215-79d1260264cb?utm_source=github&utm_campaign=gh-tech-internships) | Netherlands-Amsterdam |  | 5d |
 | **[EURES Netherlands](https://www.dreamworkhq.com/c/belastingdienst.nl?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern (Web)Developer](https://www.dreamworkhq.com/job/2b3fc49f-8fc2-464c-b141-fa3918458bf0?utm_source=github&utm_campaign=gh-tech-internships) | Noord-Brabant, Netherlands |  | 7d |
 | **[EURES Netherlands (Professional)](https://www.dreamworkhq.com/c/performation.nl?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern (Web)Developer](https://www.dreamworkhq.com/job/7190f3d6-04de-4285-b700-ba1958511eca?utm_source=github&utm_campaign=gh-tech-internships) | Noord-Brabant, Netherlands |  | 7d |
 | **[Vanderlande](https://www.dreamworkhq.com/c/vanderlande.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship/Graduation: Improving Engineering Productivity with AI](https://www.dreamworkhq.com/job/abbac6e6-098b-4201-8dcc-898b23e88c66?utm_source=github&utm_campaign=gh-tech-internships) | Veghel |  | 12d |
@@ -42,11 +42,11 @@ These roles are grouped by their posted work location. Check each listing for wo
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **[Fugro](https://www.dreamworkhq.com/c/fugro.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data & Analytics Internship](https://www.dreamworkhq.com/job/ec340b65-1fca-4f2d-8db7-fc2390863e34?utm_source=github&utm_campaign=gh-tech-internships) | Prismastraat 3 Nootdorp NL |  | 0d |
-| **[ICSGBLCOR](https://www.dreamworkhq.com/c/ing.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Workalong Internship – AI Agent Developer](https://www.dreamworkhq.com/job/3b7d8748-2b06-41fb-ae7c-847af56715d3?utm_source=github&utm_campaign=gh-tech-internships) | ACT (Amsterdam - Acanthus) (Hybrid) |  | 1d |
 | **[ICSGBLCOR](https://www.dreamworkhq.com/c/ing.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Artificial Intelligence Agent Developer](https://www.dreamworkhq.com/job/d08353e2-0615-4674-ad62-576104d83b6f?utm_source=github&utm_campaign=gh-tech-internships) | ACT (Amsterdam - Acanthus) (Hybrid) |  | 1d |
+| **[ICSGBLCOR](https://www.dreamworkhq.com/c/ing.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Workalong Internship – AI Agent Developer](https://www.dreamworkhq.com/job/3b7d8748-2b06-41fb-ae7c-847af56715d3?utm_source=github&utm_campaign=gh-tech-internships) | ACT (Amsterdam - Acanthus) (Hybrid) |  | 1d |
 | **[Philips](https://www.dreamworkhq.com/c/philips.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data & AI Reporting Analyst Intern (Customs Compliance)](https://www.dreamworkhq.com/job/f1a1d468-9376-41f4-8b2b-2eec12a3bd78?utm_source=github&utm_campaign=gh-tech-internships) | Best |  | 3d |
 | **[ICSGBLCOR](https://www.dreamworkhq.com/c/ing.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Artificial Intelligence Agent Developer](https://www.dreamworkhq.com/job/a2e32e53-1b07-4e93-afc9-eb2a7ae3741c?utm_source=github&utm_campaign=gh-tech-internships) | ACT (Amsterdam - Acanthus) (Hybrid) |  | 3d |
-| **[Myhrabc](https://www.dreamworkhq.com/c/cencora.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Data Science](https://www.dreamworkhq.com/job/5d571455-6478-4b4f-ae6e-7a0289a84c6a?utm_source=github&utm_campaign=gh-tech-internships) | WEMEA > Netherlands > Veghel Campus |  | 7d |
+| **[Myhrabc](https://www.dreamworkhq.com/c/cencora.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Data Science](https://www.dreamworkhq.com/job/5d571455-6478-4b4f-ae6e-7a0289a84c6a?utm_source=github&utm_campaign=gh-tech-internships) | WEMEA > Netherlands > Veghel Campus |  | 8d |
 | **[Bynder](https://www.dreamworkhq.com/c/bynder.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Customer Analytics Internship](https://www.dreamworkhq.com/job/c29ccb39-96a1-4255-972b-be6e1143f654?utm_source=github&utm_campaign=gh-tech-internships) | Amsterdam (Hybrid) |  | 11d |
 | **[Myhrabc](https://www.dreamworkhq.com/c/cencora.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Data](https://www.dreamworkhq.com/job/879fc4bf-3b08-460a-8a73-76ae2c7726e8?utm_source=github&utm_campaign=gh-tech-internships) | WEMEA > Netherlands > Veghel Campus |  | 12d |
 | **[Heineken](https://www.dreamworkhq.com/c/heineken.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Global CSLP Analytics](https://www.dreamworkhq.com/job/c41f86a5-9ae1-4205-97fd-4d694146bab7?utm_source=github&utm_campaign=gh-tech-internships) | — (Hybrid) |  | 14d |

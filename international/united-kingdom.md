@@ -1,8 +1,8 @@
 # Tech internships in United Kingdom
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**32 currently open roles** · Updated **2026-08-21**
+**32 currently open roles** · Updated **2026-08-22**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -30,9 +30,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[Palantir](https://www.dreamworkhq.com/c/palantir.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Forward Deployed Software Engineer, Internship - Commercial](https://www.dreamworkhq.com/job/8585971c-64ba-4f00-8abf-0ee107c01832?utm_source=github&utm_campaign=gh-tech-internships) | London, United Kingdom (Hybrid) |  | 20d |
 | **[Palantir](https://www.dreamworkhq.com/c/palantir.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Forward Deployed Software Engineer, Internship - UK Government](https://www.dreamworkhq.com/job/79cec26f-134b-4ac2-8c28-2bcee20d0202?utm_source=github&utm_campaign=gh-tech-internships) | London, United Kingdom (Hybrid) |  | 20d |
 | **[HP Inc.](https://www.dreamworkhq.com/c/hpwolf.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Browser Software Engineer Intern](https://www.dreamworkhq.com/job/1fcb1a89-066f-4f19-a827-62fc6180258f?utm_source=github&utm_campaign=gh-tech-internships) | Cambridge, Cambridgeshire, United Kingdom |  | 28d |
-| **[Jump Trading](https://www.dreamworkhq.com/c/jumptrading.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Campus UI Software Engineer (Intern)](https://www.dreamworkhq.com/job/fb504b25-14f9-48f8-940b-5ebce104b970?utm_source=github&utm_campaign=gh-tech-internships) | London |  | 1mo |
-| **[Jump Trading](https://www.dreamworkhq.com/c/jumptrading.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Campus Software Engineer (Intern)](https://www.dreamworkhq.com/job/c8878afe-1d82-488a-b2dc-831a7b0f9ae1?utm_source=github&utm_campaign=gh-tech-internships) | London |  | 1mo |
 | **[Jump Trading](https://www.dreamworkhq.com/c/jumptrading.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Campus Data Engineer (Intern)](https://www.dreamworkhq.com/job/fb1f0f2b-49c0-474b-b402-e6b2b9ef038e?utm_source=github&utm_campaign=gh-tech-internships) | London |  | 1mo |
+| **[Jump Trading](https://www.dreamworkhq.com/c/jumptrading.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Campus Software Engineer (Intern)](https://www.dreamworkhq.com/job/c8878afe-1d82-488a-b2dc-831a7b0f9ae1?utm_source=github&utm_campaign=gh-tech-internships) | London |  | 1mo |
+| **[Jump Trading](https://www.dreamworkhq.com/c/jumptrading.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Campus UI Software Engineer (Intern)](https://www.dreamworkhq.com/job/fb504b25-14f9-48f8-940b-5ebce104b970?utm_source=github&utm_campaign=gh-tech-internships) | London |  | 1mo |
 | **[Squarepointcapital](https://www.dreamworkhq.com/c/squarepointcapital.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Software Developer - London - 2027](https://www.dreamworkhq.com/job/8917744d-7876-485d-bf58-c6be6732b32d?utm_source=github&utm_campaign=gh-tech-internships) | London |  | 2mo |
 | **[Deductive](https://www.dreamworkhq.com/c/deductive.ai?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern, London](https://www.dreamworkhq.com/job/f4c6f28f-5c86-467c-8a00-20cb4d33b707?utm_source=github&utm_campaign=gh-tech-internships) | London, UK |  | 2mo |
 | **[Apple](https://www.dreamworkhq.com/c/apple.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SoC Performance Modeling Internship - Platform Architecture](https://www.dreamworkhq.com/job/169d16b1-a1ea-4775-82c2-700411531b6e?utm_source=github&utm_campaign=gh-tech-internships) | London |  | 3mo |

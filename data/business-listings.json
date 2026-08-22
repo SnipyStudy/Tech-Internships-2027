@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-21T23:57:22.425Z",
+  "generatedAt": "2026-08-22T00:12:27.715Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "business",
-  "count": 108,
+  "count": 109,
   "listings": [
     {
-      "id": "f53e3ab3-da25-4772-827d-39a8ff16392b",
+      "id": "de5e8099-6d68-4726-9826-6e026dbea178",
       "title": "Specific Stop Loss Claim Auditor Intern",
       "company": "Bbinsurance",
       "companyDomain": "brownandbrowninsurance.com",
@@ -16,9 +16,9 @@
       "salaryMin": 39520,
       "salaryMax": 39520,
       "salaryPeriod": "annual",
-      "postedAt": "2026-08-21T23:39:27.524Z",
+      "postedAt": "2026-08-21T23:39:27.515Z",
       "firstIndexedAt": "2026-08-21T18:37:48.924Z",
-      "url": "https://www.dreamworkhq.com/job/f53e3ab3-da25-4772-827d-39a8ff16392b?utm_source=github&utm_campaign=gh-tech-internships"
+      "url": "https://www.dreamworkhq.com/job/de5e8099-6d68-4726-9826-6e026dbea178?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "718601b3-a6a6-430a-b0e2-b86e322a7064",
@@ -34,21 +34,6 @@
       "postedAt": "2026-08-20T23:28:00.000Z",
       "firstIndexedAt": "2026-08-21T10:31:06.598Z",
       "url": "https://www.dreamworkhq.com/job/718601b3-a6a6-430a-b0e2-b86e322a7064?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "88d8163c-e204-460b-b0f2-1a41765a54d1",
-      "title": "Summer 2027 Undergrad Finance Intern",
-      "company": "AMD",
-      "companyDomain": "amd.com",
-      "location": "Austin, Texas, United States",
-      "functionPrimary": "Finance",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-20T23:28:00.000Z",
-      "firstIndexedAt": "2026-08-21T10:31:06.598Z",
-      "url": "https://www.dreamworkhq.com/job/88d8163c-e204-460b-b0f2-1a41765a54d1?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "aefae439-b591-4c75-ac19-bb652df5d988",
@@ -79,6 +64,21 @@
       "postedAt": "2026-08-20T23:28:00.000Z",
       "firstIndexedAt": "2026-08-21T10:31:06.598Z",
       "url": "https://www.dreamworkhq.com/job/6c221bad-927e-4033-b6d2-5fe7449994ec?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "88d8163c-e204-460b-b0f2-1a41765a54d1",
+      "title": "Summer 2027 Undergrad Finance Intern",
+      "company": "AMD",
+      "companyDomain": "amd.com",
+      "location": "Austin, Texas, United States",
+      "functionPrimary": "Finance",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-08-20T23:28:00.000Z",
+      "firstIndexedAt": "2026-08-21T10:31:06.598Z",
+      "url": "https://www.dreamworkhq.com/job/88d8163c-e204-460b-b0f2-1a41765a54d1?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "5275f6c9-bdb6-4841-a5fc-f6c4696336fc",
@@ -186,21 +186,6 @@
       "url": "https://www.dreamworkhq.com/job/031b386c-0c4f-4dca-a782-1b9588cb6ccb?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "cd5c6e9c-365d-447a-bb97-f99547c87275",
-      "title": "Finance Transformation Intern",
-      "company": "Ericsson",
-      "companyDomain": "ericsson.com",
-      "location": null,
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-18T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-20T16:33:47.621Z",
-      "url": "https://www.dreamworkhq.com/job/cd5c6e9c-365d-447a-bb97-f99547c87275?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "79fc623d-8018-4228-91db-3e628d82194f",
       "title": "Financial Analyst Intern",
       "company": "Ericsson",
@@ -214,6 +199,21 @@
       "postedAt": "2026-08-19T00:00:00.000Z",
       "firstIndexedAt": "2026-08-20T16:33:47.621Z",
       "url": "https://www.dreamworkhq.com/job/79fc623d-8018-4228-91db-3e628d82194f?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "cd5c6e9c-365d-447a-bb97-f99547c87275",
+      "title": "Finance Transformation Intern",
+      "company": "Ericsson",
+      "companyDomain": "ericsson.com",
+      "location": null,
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-08-18T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-20T16:33:47.621Z",
+      "url": "https://www.dreamworkhq.com/job/cd5c6e9c-365d-447a-bb97-f99547c87275?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "c9e2109e-3574-47cc-819f-a29bd2d49644",
@@ -381,8 +381,8 @@
       "url": "https://www.dreamworkhq.com/job/1e103a0e-e989-47bc-bfee-622bea6d8056?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "317000ca-d1a9-47c4-8580-551fa5044226",
-      "title": "Finance Co-op – US – Spring 2027",
+      "id": "75057c52-39e2-4965-90e5-1334c18f6261",
+      "title": "Finance Intern – US – Summer 2027",
       "company": "GE Aerospace",
       "companyDomain": "geaerospace.com",
       "location": "Evendale",
@@ -391,9 +391,9 @@
       "salaryMin": 37960,
       "salaryMax": 37960,
       "salaryPeriod": "annual",
-      "postedAt": "2026-08-17T09:12:05.454Z",
+      "postedAt": "2026-08-17T09:12:05.615Z",
       "firstIndexedAt": "2026-08-17T20:42:10.744Z",
-      "url": "https://www.dreamworkhq.com/job/317000ca-d1a9-47c4-8580-551fa5044226?utm_source=github&utm_campaign=gh-tech-internships"
+      "url": "https://www.dreamworkhq.com/job/75057c52-39e2-4965-90e5-1334c18f6261?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "5c37b096-eaa8-4b3c-a102-8540463906ab",
@@ -411,8 +411,8 @@
       "url": "https://www.dreamworkhq.com/job/5c37b096-eaa8-4b3c-a102-8540463906ab?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "75057c52-39e2-4965-90e5-1334c18f6261",
-      "title": "Finance Intern – US – Summer 2027",
+      "id": "317000ca-d1a9-47c4-8580-551fa5044226",
+      "title": "Finance Co-op – US – Spring 2027",
       "company": "GE Aerospace",
       "companyDomain": "geaerospace.com",
       "location": "Evendale",
@@ -421,9 +421,9 @@
       "salaryMin": 37960,
       "salaryMax": 37960,
       "salaryPeriod": "annual",
-      "postedAt": "2026-08-17T09:12:05.615Z",
+      "postedAt": "2026-08-17T09:12:05.454Z",
       "firstIndexedAt": "2026-08-17T20:42:10.744Z",
-      "url": "https://www.dreamworkhq.com/job/75057c52-39e2-4965-90e5-1334c18f6261?utm_source=github&utm_campaign=gh-tech-internships"
+      "url": "https://www.dreamworkhq.com/job/317000ca-d1a9-47c4-8580-551fa5044226?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "d8a75ff2-b694-48ec-8817-cfbe852b53a3",
@@ -516,36 +516,6 @@
       "url": "https://www.dreamworkhq.com/job/b1416f67-20e2-4908-99f7-ae39c699ebdc?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "ca33578e-d0b5-41aa-9efd-09411a281f5b",
-      "title": "Loan Review Intern",
-      "company": "Crowe",
-      "companyDomain": "crowe.com",
-      "location": "Chicago IL USA",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": 56160,
-      "salaryMax": 87360,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-08-20T15:35:21.510Z",
-      "firstIndexedAt": "2026-08-14T19:15:23.887Z",
-      "url": "https://www.dreamworkhq.com/job/ca33578e-d0b5-41aa-9efd-09411a281f5b?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "e8cecb48-1cf6-498c-9038-e67287a4651f",
-      "title": "Finance and Compliance Intern",
-      "company": "Crowe",
-      "companyDomain": "crowe.com",
-      "location": "Chicago IL USA",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": 56160,
-      "salaryMax": 87360,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-08-20T15:35:20.850Z",
-      "firstIndexedAt": "2026-08-14T19:15:23.887Z",
-      "url": "https://www.dreamworkhq.com/job/e8cecb48-1cf6-498c-9038-e67287a4651f?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "25b59410-d591-49b6-a684-ddffb5b2d123",
       "title": "Forensic Accounting Intern",
       "company": "Crowe",
@@ -574,6 +544,36 @@
       "postedAt": "2026-08-20T15:35:22.300Z",
       "firstIndexedAt": "2026-08-14T19:15:23.887Z",
       "url": "https://www.dreamworkhq.com/job/8a8cb680-ceae-48ce-8af3-87c5e5a8e3ea?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "e8cecb48-1cf6-498c-9038-e67287a4651f",
+      "title": "Finance and Compliance Intern",
+      "company": "Crowe",
+      "companyDomain": "crowe.com",
+      "location": "Chicago IL USA",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": 56160,
+      "salaryMax": 87360,
+      "salaryPeriod": "annual",
+      "postedAt": "2026-08-20T15:35:20.850Z",
+      "firstIndexedAt": "2026-08-14T19:15:23.887Z",
+      "url": "https://www.dreamworkhq.com/job/e8cecb48-1cf6-498c-9038-e67287a4651f?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "ca33578e-d0b5-41aa-9efd-09411a281f5b",
+      "title": "Loan Review Intern",
+      "company": "Crowe",
+      "companyDomain": "crowe.com",
+      "location": "Chicago IL USA",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": 56160,
+      "salaryMax": 87360,
+      "salaryPeriod": "annual",
+      "postedAt": "2026-08-20T15:35:21.510Z",
+      "firstIndexedAt": "2026-08-14T19:15:23.887Z",
+      "url": "https://www.dreamworkhq.com/job/ca33578e-d0b5-41aa-9efd-09411a281f5b?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "4cf3b343-5a75-490a-8ef8-76e1ea8ca896",
@@ -621,19 +621,19 @@
       "url": "https://www.dreamworkhq.com/job/923a3b1b-6366-4330-9579-bb78860aa6ee?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "2cca5f9e-cf80-4759-b665-1fce985aad15",
-      "title": "Tax Intern Summer 2027",
+      "id": "852edcfa-03aa-47d9-9a54-4985e0b4d630",
+      "title": "Audit Intern Summer 2027",
       "company": "Crowe",
       "companyDomain": "crowe.com",
       "location": "Chicago IL USA",
       "functionPrimary": "Finance",
-      "remoteType": "hybrid",
+      "remoteType": "onsite",
       "salaryMin": 56160,
       "salaryMax": 87360,
       "salaryPeriod": "annual",
-      "postedAt": "2026-08-20T15:35:22.856Z",
+      "postedAt": "2026-08-20T15:35:19.468Z",
       "firstIndexedAt": "2026-08-13T23:30:50.182Z",
-      "url": "https://www.dreamworkhq.com/job/2cca5f9e-cf80-4759-b665-1fce985aad15?utm_source=github&utm_campaign=gh-tech-internships"
+      "url": "https://www.dreamworkhq.com/job/852edcfa-03aa-47d9-9a54-4985e0b4d630?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "5227b5a8-9e68-4ade-9b7a-25b03aa16147",
@@ -651,19 +651,19 @@
       "url": "https://www.dreamworkhq.com/job/5227b5a8-9e68-4ade-9b7a-25b03aa16147?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "852edcfa-03aa-47d9-9a54-4985e0b4d630",
-      "title": "Audit Intern Summer 2027",
+      "id": "2cca5f9e-cf80-4759-b665-1fce985aad15",
+      "title": "Tax Intern Summer 2027",
       "company": "Crowe",
       "companyDomain": "crowe.com",
       "location": "Chicago IL USA",
       "functionPrimary": "Finance",
-      "remoteType": "onsite",
+      "remoteType": "hybrid",
       "salaryMin": 56160,
       "salaryMax": 87360,
       "salaryPeriod": "annual",
-      "postedAt": "2026-08-20T15:35:19.468Z",
+      "postedAt": "2026-08-20T15:35:22.856Z",
       "firstIndexedAt": "2026-08-13T23:30:50.182Z",
-      "url": "https://www.dreamworkhq.com/job/852edcfa-03aa-47d9-9a54-4985e0b4d630?utm_source=github&utm_campaign=gh-tech-internships"
+      "url": "https://www.dreamworkhq.com/job/2cca5f9e-cf80-4759-b665-1fce985aad15?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "0b84bd12-8ea8-43b4-a30a-779aca67d2e1",
@@ -831,126 +831,6 @@
       "url": "https://www.dreamworkhq.com/job/06aefad6-7919-4ad1-9e1b-4a83d0d72731?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "a1f63fa0-fc0e-4ee6-90db-1d5761ec54cc",
-      "title": "Summer 2027 Commercial Banking Intern Charlotte, NC",
-      "company": "Southstatebank",
-      "companyDomain": "southstatebank.com",
-      "location": "Charlotte Morrison",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-17T19:57:28.422Z",
-      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
-      "url": "https://www.dreamworkhq.com/job/a1f63fa0-fc0e-4ee6-90db-1d5761ec54cc?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "d85c63e0-4ff3-493a-8698-1f99ada45c3d",
-      "title": "Summer 2027 Commercial Banking Intern Orlando, FL",
-      "company": "Southstatebank",
-      "companyDomain": "southstatebank.com",
-      "location": "Orlando Downtown",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-17T19:57:27.927Z",
-      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
-      "url": "https://www.dreamworkhq.com/job/d85c63e0-4ff3-493a-8698-1f99ada45c3d?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "33c7b25f-dded-406e-bbb5-2afbacfc9320",
-      "title": "Summer 2027 Commercial Banking Intern  Richmond, VA",
-      "company": "Southstatebank",
-      "companyDomain": "southstatebank.com",
-      "location": "Richmond James Center",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": 34587,
-      "salaryMax": 51879,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-08-17T19:57:28.033Z",
-      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
-      "url": "https://www.dreamworkhq.com/job/33c7b25f-dded-406e-bbb5-2afbacfc9320?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "80188e2a-2964-4ef2-85b2-abaec594b62f",
-      "title": "Summer 2027 Commercial Banking Intern Waco, TX",
-      "company": "Southstatebank",
-      "companyDomain": "southstatebank.com",
-      "location": "Waco Woodway",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-17T19:57:28.558Z",
-      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
-      "url": "https://www.dreamworkhq.com/job/80188e2a-2964-4ef2-85b2-abaec594b62f?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "40f277f4-6abd-46c0-a449-e9aef1a26f5c",
-      "title": "Summer 2027 Commercial Banking Intern Denver, CO",
-      "company": "Southstatebank",
-      "companyDomain": "southstatebank.com",
-      "location": "Denver Downtown",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": 34587,
-      "salaryMax": 51879,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-08-17T19:57:28.350Z",
-      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
-      "url": "https://www.dreamworkhq.com/job/40f277f4-6abd-46c0-a449-e9aef1a26f5c?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "6f48f8ca-d0c4-4cdc-8f55-faf1b24d822f",
-      "title": "Summer 2027 Commercial Banking Intern Atlanta, GA",
-      "company": "Southstatebank",
-      "companyDomain": "southstatebank.com",
-      "location": "Atlanta Midtown",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-14T19:57:28.920Z",
-      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
-      "url": "https://www.dreamworkhq.com/job/6f48f8ca-d0c4-4cdc-8f55-faf1b24d822f?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "9b6d02b3-0842-4567-8863-688b82223a84",
-      "title": "Summer 2027 Commercial Banking Intern Columbia, SC",
-      "company": "Southstatebank",
-      "companyDomain": "southstatebank.com",
-      "location": "Columbia Gervais",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-17T19:57:28.457Z",
-      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
-      "url": "https://www.dreamworkhq.com/job/9b6d02b3-0842-4567-8863-688b82223a84?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "5c856ffc-ee2f-4ec3-9134-2f1cb86eda2c",
-      "title": "Summer 2027 Commercial Banking Intern Raleigh, NC",
-      "company": "Southstatebank",
-      "companyDomain": "southstatebank.com",
-      "location": "Raleigh Glenwood",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-17T19:57:28.482Z",
-      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
-      "url": "https://www.dreamworkhq.com/job/5c856ffc-ee2f-4ec3-9134-2f1cb86eda2c?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "613e0503-9132-4309-8b0e-aa660d1e7bf7",
       "title": "Summer 2027 Commercial Banking Intern Houston, TX",
       "company": "Southstatebank",
@@ -964,21 +844,6 @@
       "postedAt": "2026-08-17T19:57:28.448Z",
       "firstIndexedAt": "2026-08-05T07:45:22.503Z",
       "url": "https://www.dreamworkhq.com/job/613e0503-9132-4309-8b0e-aa660d1e7bf7?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "4da62e9d-4662-4695-b274-2922431d7634",
-      "title": "Summer 2027 Commercial Banking Intern Birmingham, AL",
-      "company": "Southstatebank",
-      "companyDomain": "southstatebank.com",
-      "location": "Birmingham Luckie Drive",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-17T19:57:28.667Z",
-      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
-      "url": "https://www.dreamworkhq.com/job/4da62e9d-4662-4695-b274-2922431d7634?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "c5410afb-9408-420f-b5ef-fcec480b8aa8",
@@ -1011,19 +876,124 @@
       "url": "https://www.dreamworkhq.com/job/1d3eb29f-56fd-4773-a8f3-452752f6ecaa?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "445a87d5-ad20-4376-9c1c-b6b5a43b2685",
-      "title": "Summer 2027 Commercial Banking Intern Austin, TX",
+      "id": "80188e2a-2964-4ef2-85b2-abaec594b62f",
+      "title": "Summer 2027 Commercial Banking Intern Waco, TX",
       "company": "Southstatebank",
       "companyDomain": "southstatebank.com",
-      "location": "Austin Downtown",
+      "location": "Waco Woodway",
       "functionPrimary": "Finance",
       "remoteType": "onsite",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-08-14T19:57:29.173Z",
+      "postedAt": "2026-08-17T19:57:28.558Z",
       "firstIndexedAt": "2026-08-05T07:45:22.503Z",
-      "url": "https://www.dreamworkhq.com/job/445a87d5-ad20-4376-9c1c-b6b5a43b2685?utm_source=github&utm_campaign=gh-tech-internships"
+      "url": "https://www.dreamworkhq.com/job/80188e2a-2964-4ef2-85b2-abaec594b62f?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "6f48f8ca-d0c4-4cdc-8f55-faf1b24d822f",
+      "title": "Summer 2027 Commercial Banking Intern Atlanta, GA",
+      "company": "Southstatebank",
+      "companyDomain": "southstatebank.com",
+      "location": "Atlanta Midtown",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-08-14T19:57:28.920Z",
+      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
+      "url": "https://www.dreamworkhq.com/job/6f48f8ca-d0c4-4cdc-8f55-faf1b24d822f?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "4da62e9d-4662-4695-b274-2922431d7634",
+      "title": "Summer 2027 Commercial Banking Intern Birmingham, AL",
+      "company": "Southstatebank",
+      "companyDomain": "southstatebank.com",
+      "location": "Birmingham Luckie Drive",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-08-17T19:57:28.667Z",
+      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
+      "url": "https://www.dreamworkhq.com/job/4da62e9d-4662-4695-b274-2922431d7634?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "9b6d02b3-0842-4567-8863-688b82223a84",
+      "title": "Summer 2027 Commercial Banking Intern Columbia, SC",
+      "company": "Southstatebank",
+      "companyDomain": "southstatebank.com",
+      "location": "Columbia Gervais",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-08-17T19:57:28.457Z",
+      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
+      "url": "https://www.dreamworkhq.com/job/9b6d02b3-0842-4567-8863-688b82223a84?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "5c856ffc-ee2f-4ec3-9134-2f1cb86eda2c",
+      "title": "Summer 2027 Commercial Banking Intern Raleigh, NC",
+      "company": "Southstatebank",
+      "companyDomain": "southstatebank.com",
+      "location": "Raleigh Glenwood",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-08-17T19:57:28.482Z",
+      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
+      "url": "https://www.dreamworkhq.com/job/5c856ffc-ee2f-4ec3-9134-2f1cb86eda2c?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "33c7b25f-dded-406e-bbb5-2afbacfc9320",
+      "title": "Summer 2027 Commercial Banking Intern  Richmond, VA",
+      "company": "Southstatebank",
+      "companyDomain": "southstatebank.com",
+      "location": "Richmond James Center",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": 34587,
+      "salaryMax": 51879,
+      "salaryPeriod": "annual",
+      "postedAt": "2026-08-17T19:57:28.033Z",
+      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
+      "url": "https://www.dreamworkhq.com/job/33c7b25f-dded-406e-bbb5-2afbacfc9320?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "d85c63e0-4ff3-493a-8698-1f99ada45c3d",
+      "title": "Summer 2027 Commercial Banking Intern Orlando, FL",
+      "company": "Southstatebank",
+      "companyDomain": "southstatebank.com",
+      "location": "Orlando Downtown",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-08-17T19:57:27.927Z",
+      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
+      "url": "https://www.dreamworkhq.com/job/d85c63e0-4ff3-493a-8698-1f99ada45c3d?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "40f277f4-6abd-46c0-a449-e9aef1a26f5c",
+      "title": "Summer 2027 Commercial Banking Intern Denver, CO",
+      "company": "Southstatebank",
+      "companyDomain": "southstatebank.com",
+      "location": "Denver Downtown",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": 34587,
+      "salaryMax": 51879,
+      "salaryPeriod": "annual",
+      "postedAt": "2026-08-17T19:57:28.350Z",
+      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
+      "url": "https://www.dreamworkhq.com/job/40f277f4-6abd-46c0-a449-e9aef1a26f5c?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "17ae0b56-1501-4aab-88d1-20566b741020",
@@ -1039,6 +1009,36 @@
       "postedAt": "2026-08-17T19:57:28.450Z",
       "firstIndexedAt": "2026-08-05T07:45:22.503Z",
       "url": "https://www.dreamworkhq.com/job/17ae0b56-1501-4aab-88d1-20566b741020?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "a1f63fa0-fc0e-4ee6-90db-1d5761ec54cc",
+      "title": "Summer 2027 Commercial Banking Intern Charlotte, NC",
+      "company": "Southstatebank",
+      "companyDomain": "southstatebank.com",
+      "location": "Charlotte Morrison",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-08-17T19:57:28.422Z",
+      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
+      "url": "https://www.dreamworkhq.com/job/a1f63fa0-fc0e-4ee6-90db-1d5761ec54cc?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "445a87d5-ad20-4376-9c1c-b6b5a43b2685",
+      "title": "Summer 2027 Commercial Banking Intern Austin, TX",
+      "company": "Southstatebank",
+      "companyDomain": "southstatebank.com",
+      "location": "Austin Downtown",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-08-14T19:57:29.173Z",
+      "firstIndexedAt": "2026-08-05T07:45:22.503Z",
+      "url": "https://www.dreamworkhq.com/job/445a87d5-ad20-4376-9c1c-b6b5a43b2685?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "17ca24be-10bc-4d01-98b3-b693858d95ea",
@@ -1146,6 +1146,21 @@
       "url": "https://www.dreamworkhq.com/job/f953213f-a56b-48da-be64-62845c5983cc?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
+      "id": "373bf579-c317-4717-b66d-9d4122f822f1",
+      "title": "Internal Audit Department - Quality Assurance Intern",
+      "company": "Bocusa",
+      "companyDomain": "bankofchina.com",
+      "location": "New York, NY, US",
+      "functionPrimary": "Finance",
+      "remoteType": "onsite",
+      "salaryMin": 39520,
+      "salaryMax": 39520,
+      "salaryPeriod": "annual",
+      "postedAt": "2026-03-03T05:00:00.000Z",
+      "firstIndexedAt": "2026-08-02T14:30:11.313Z",
+      "url": "https://www.dreamworkhq.com/job/373bf579-c317-4717-b66d-9d4122f822f1?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
       "id": "64853f28-f3ec-4443-b75d-5b636e1c06e4",
       "title": "Internal Audit Department Data Analytics Audit Intern",
       "company": "Bocusa",
@@ -1174,21 +1189,6 @@
       "postedAt": "2026-03-23T04:00:00.000Z",
       "firstIndexedAt": "2026-08-02T14:30:11.313Z",
       "url": "https://www.dreamworkhq.com/job/2679bf53-7662-4afa-ae15-e3bca478d58f?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "373bf579-c317-4717-b66d-9d4122f822f1",
-      "title": "Internal Audit Department - Quality Assurance Intern",
-      "company": "Bocusa",
-      "companyDomain": "bankofchina.com",
-      "location": "New York, NY, US",
-      "functionPrimary": "Finance",
-      "remoteType": "onsite",
-      "salaryMin": 39520,
-      "salaryMax": 39520,
-      "salaryPeriod": "annual",
-      "postedAt": "2026-03-03T05:00:00.000Z",
-      "firstIndexedAt": "2026-08-02T14:30:11.313Z",
-      "url": "https://www.dreamworkhq.com/job/373bf579-c317-4717-b66d-9d4122f822f1?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "274bd9a5-f5af-4604-9410-a252a84203a3",
@@ -1506,19 +1506,19 @@
       "url": "https://www.dreamworkhq.com/job/faa7ab82-ef40-4b16-9b0b-ab4caf6a7bdf?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "72a1677f-1f5e-413a-8be4-b7da6960b194",
-      "title": "2027 Amazon Finance Rotation Program - Business Unit Finance Intern",
+      "id": "1f578027-9ebc-4ee4-b561-dfcf5d5be3a1",
+      "title": "2027 Amazon Finance Rotation Program - Accounting Intern",
       "company": "Amazon",
       "companyDomain": "amazon.com",
       "location": "US, WA, Seattle",
       "functionPrimary": "Finance",
-      "remoteType": "remote",
+      "remoteType": null,
       "salaryMin": 80200,
       "salaryMax": 99300,
       "salaryPeriod": "annual",
       "postedAt": "2026-06-01T00:00:00.000Z",
       "firstIndexedAt": "2026-06-02T06:01:31.125Z",
-      "url": "https://www.dreamworkhq.com/job/72a1677f-1f5e-413a-8be4-b7da6960b194?utm_source=github&utm_campaign=gh-tech-internships"
+      "url": "https://www.dreamworkhq.com/job/1f578027-9ebc-4ee4-b561-dfcf5d5be3a1?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "dada6d6e-fb74-4f68-80ff-6ba77fd162ce",
@@ -1534,6 +1534,21 @@
       "postedAt": "2026-06-01T00:00:00.000Z",
       "firstIndexedAt": "2026-06-02T06:01:31.125Z",
       "url": "https://www.dreamworkhq.com/job/dada6d6e-fb74-4f68-80ff-6ba77fd162ce?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "72a1677f-1f5e-413a-8be4-b7da6960b194",
+      "title": "2027 Amazon Finance Rotation Program - Business Unit Finance Intern",
+      "company": "Amazon",
+      "companyDomain": "amazon.com",
+      "location": "US, WA, Seattle",
+      "functionPrimary": "Finance",
+      "remoteType": "remote",
+      "salaryMin": 80200,
+      "salaryMax": 99300,
+      "salaryPeriod": "annual",
+      "postedAt": "2026-06-01T00:00:00.000Z",
+      "firstIndexedAt": "2026-06-02T06:01:31.125Z",
+      "url": "https://www.dreamworkhq.com/job/72a1677f-1f5e-413a-8be4-b7da6960b194?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "b017663f-3e3e-4183-bffc-b529b1bacbf7",

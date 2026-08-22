@@ -1,8 +1,8 @@
 # Tech internships in Poland
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**23 currently open roles** · Updated **2026-08-21**
+**23 currently open roles** · Updated **2026-08-22**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -31,8 +31,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[Hitachi](https://www.dreamworkhq.com/c/hitachi.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - R&D Software Development in QA](https://www.dreamworkhq.com/job/7b7f36e1-ce8b-4dcd-8d0e-345efefba97f?utm_source=github&utm_campaign=gh-tech-internships) | Krakow, Lesser Poland, Poland |  | 1mo |
 | **[GEHC External Site](https://www.dreamworkhq.com/c/gehc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/104e2c02-a6f8-4bab-b75d-3ab24fbc0fb9?utm_source=github&utm_campaign=gh-tech-internships) | Krakow (Hybrid) |  | 1mo |
 | **[Tenstorrent](https://www.dreamworkhq.com/c/tenstorrent.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Infrastructure and Platform Development Intern](https://www.dreamworkhq.com/job/e9559560-152a-4f3b-bde7-e07da091cbb7?utm_source=github&utm_campaign=gh-tech-internships) | Gdańsk, Pomeranian Voivodeship, Poland; War… (Hybrid) |  | 2mo |
-| **[Tenstorrent](https://www.dreamworkhq.com/c/tenstorrent.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Infrastructure Automation Engineering Intern](https://www.dreamworkhq.com/job/efd4f7b4-3850-4826-8d09-093f9fb96660?utm_source=github&utm_campaign=gh-tech-internships) | Warszawa, Masovian Voivodeship, Poland (Hybrid) |  | 2mo |
 | **[Tenstorrent](https://www.dreamworkhq.com/c/tenstorrent.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Machine Learning Engineer Intern](https://www.dreamworkhq.com/job/737f85bd-c779-4c22-b3ce-daaaf936072b?utm_source=github&utm_campaign=gh-tech-internships) | Warszawa, Masovian Voivodeship, Poland |  | 2mo |
+| **[Tenstorrent](https://www.dreamworkhq.com/c/tenstorrent.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Infrastructure Automation Engineering Intern](https://www.dreamworkhq.com/job/efd4f7b4-3850-4826-8d09-093f9fb96660?utm_source=github&utm_campaign=gh-tech-internships) | Warszawa, Masovian Voivodeship, Poland (Hybrid) |  | 2mo |
 | **[Point72](https://www.dreamworkhq.com/c/point72.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2026 Warsaw MI Data – Web Scraping Internship](https://www.dreamworkhq.com/job/70689042-2863-4f76-82d8-dc96edfc256b?utm_source=github&utm_campaign=gh-tech-internships) | Warsaw, Poland |  | 2mo |
 | **[Cisco](https://www.dreamworkhq.com/c/cisco.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Development Intern (Cracow, Poland)](https://www.dreamworkhq.com/job/8e7b9f52-679e-4875-bf38-7da666d4633f?utm_source=github&utm_campaign=gh-tech-internships) | Krakow, Poland (Hybrid) |  | 3mo |
 

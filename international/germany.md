@@ -1,13 +1,13 @@
 # Tech internships in Germany
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**61 currently open roles** · Updated **2026-08-21**
+**62 currently open roles** · Updated **2026-08-22**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-43) · 43 roles
-- [Data Science](#data-science-12) · 12 roles
+- [Data Science](#data-science-13) · 13 roles
 - [Other](#other-6) · 6 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
@@ -60,12 +60,13 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[Tesla](https://www.dreamworkhq.com/c/tesla.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Vehicle Integration Engineering - Mechanical Design Internship (m/w/d)](https://www.dreamworkhq.com/job/99b7f9e5-f35a-4111-9f17-f3c300789bb9?utm_source=github&utm_campaign=gh-tech-internships) | Kreisfreie Stadt Berlin |  | 3mo |
 | **[Tesla](https://www.dreamworkhq.com/c/tesla.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Mechanical Design Engineering Internship (m/w/d)](https://www.dreamworkhq.com/job/0b99ef6f-8475-4c1c-9a00-7de2f3c4b01f?utm_source=github&utm_campaign=gh-tech-internships) | Berlin |  | 3mo |
 
-### Data Science (12)
+### Data Science (13)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
 | **[Deutsche Börse](https://www.dreamworkhq.com/c/deutsche-boerse.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Business Analytics &amp; Partnership Program (f/m/d)](https://www.dreamworkhq.com/job/f7874844-b6f8-4d20-af7d-34fed7e7cccc?utm_source=github&utm_campaign=gh-tech-internships) | — |  | 3d |
 | **[Tesla](https://www.dreamworkhq.com/c/tesla.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Visualization Internship (m/f/d) - Gigafactory Berlin-Brandenburg](https://www.dreamworkhq.com/job/27e6cb65-fa29-4003-9944-11928648a632?utm_source=github&utm_campaign=gh-tech-internships) | Grünheide (mark), Brandenburg |  | 7d |
+| **[Airbus](https://www.dreamworkhq.com/c/airbus.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern (d/f/m) Data Scientist - Engineering Strategy & Make-or-Buy Opti…](https://www.dreamworkhq.com/job/8d6e5674-67c7-4363-86a1-ac6a366a52e4?utm_source=github&utm_campaign=gh-tech-internships) | Donauwörth |  | 7d |
 | **[Fa Evlj Saasfaprod1](https://www.dreamworkhq.com/c/iom.int?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Displacement Tracking Matrix (DTM) Regional Evidence for Migra…](https://www.dreamworkhq.com/job/c3b6e72b-6460-460c-981b-39e4b8b29606?utm_source=github&utm_campaign=gh-tech-internships) | Berlin, Germany |  | 7d |
 | **[Vodafone](https://www.dreamworkhq.com/c/vodafone.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Geospatial Data Scientist (m/w/d) for Vantage Towers - limit…](https://www.dreamworkhq.com/job/d55431ba-1afc-4e87-b38d-c5f12d444ebd?utm_source=github&utm_campaign=gh-tech-internships) | Germany (Hybrid) |  | 7d |
 | **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship AI Automation and Data Analysis](https://www.dreamworkhq.com/job/8da040f5-00ea-40c6-9008-4431ba322d9c?utm_source=github&utm_campaign=gh-tech-internships) | Kusterdingen, BW, Germany |  | 8d |

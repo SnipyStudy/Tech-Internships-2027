@@ -1,19 +1,20 @@
 # Tech internships in Ukraine
 
-[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md)
+[← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**11 currently open roles** · Updated **2026-08-21**
+**12 currently open roles** · Updated **2026-08-22**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-11) · 11 roles
+- [Engineering](#engineering-12) · 12 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (11)
+### Engineering (12)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
+| **[QATestLab](https://www.dreamworkhq.com/c/qatestlab.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern QA Engineer (E-commerce)](https://www.dreamworkhq.com/job/97fa8f30-8808-4ace-8f94-4c26d6a57165?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Ukraine) |  | 0d |
 | **[VReal Soft](https://www.dreamworkhq.com/c/vreal.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Developer (Intern) MS Dynamics 365 Power Platform](https://www.dreamworkhq.com/job/c4b9238e-e838-4764-9137-11023a80aee1?utm_source=github&utm_campaign=gh-tech-internships) | Dnipro, Cherkasy, Ukraine |  | 1d |
 | **Monitaet Technology** | [Trainee/Intern Java Developer (стажування)](https://www.dreamworkhq.com/job/bce9e377-90d1-436c-a267-53cd0ae1c257?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Ukraine) |  | 6d |
 | **[Sigma Software](https://www.dreamworkhq.com/c/sigma.software?utm_source=github&utm_campaign=gh-tech-internships)** | [Machine Learning Intern](https://www.dreamworkhq.com/job/ddd4abb3-7637-4450-8e6e-e81a2781a25b?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Kyiv, Kyiv city, Ukraine) |  | 17d |
