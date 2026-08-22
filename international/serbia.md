@@ -14,7 +14,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Tenstorrent](https://www.dreamworkhq.com/c/tenstorrent.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Software Engineer – Low Level SW Engineering](https://www.dreamworkhq.com/job/eb5216d6-ef47-417e-bc2e-4089266c3fa6?utm_source=github&utm_campaign=gh-tech-internships) | Belgrade, Serbia |  | 28d |
+| **[Tenstorrent](https://www.dreamworkhq.com/c/tenstorrent.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Software Engineer – Low Level SW Engineering](https://www.dreamworkhq.com/job/eb5216d6-ef47-417e-bc2e-4089266c3fa6?utm_source=github&utm_campaign=gh-tech-internships) | Belgrade, Serbia |  | 29d |
 | **[Xsolla](https://www.dreamworkhq.com/c/xsolla.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI-First Engineering Intern](https://www.dreamworkhq.com/job/7dba4343-9346-409e-93a5-9d818c936e24?utm_source=github&utm_campaign=gh-tech-internships) | Serbia |  | 1mo |
 
 <!-- TABLE_END -->

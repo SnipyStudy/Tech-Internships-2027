@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[We Work Remotely (Design)](https://www.dreamworkhq.com/c/weworkremotely.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Prismfly: Product Data Analyst Internship](https://www.dreamworkhq.com/job/df48c834-94c1-4bc8-8393-cabf753508bf?utm_source=github&utm_campaign=gh-tech-internships) | Remote |  | 15d |
+| **[We Work Remotely (Design)](https://www.dreamworkhq.com/c/weworkremotely.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Prismfly: Product Data Analyst Internship](https://www.dreamworkhq.com/job/df48c834-94c1-4bc8-8393-cabf753508bf?utm_source=github&utm_campaign=gh-tech-internships) | Remote |  | 16d |
 
 <!-- TABLE_END -->

@@ -14,10 +14,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern - Software Developer for Circular Economy Cloud Applicat…](https://www.dreamworkhq.com/job/94f4fb50-46c9-4f89-9568-0b8eb1c87e6b?utm_source=github&utm_campaign=gh-tech-internships) | Europe, Bulgaria, Sofia (Hybrid) |  | 3d |
-| **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [iXP Intern Developer Security](https://www.dreamworkhq.com/job/3c437ed7-cefa-4642-a87b-3de63a5080f9?utm_source=github&utm_campaign=gh-tech-internships) | Europe, Bulgaria, Sofia (Hybrid) |  | 3d |
+| **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern - Software Developer for Circular Economy Cloud Applicat…](https://www.dreamworkhq.com/job/94f4fb50-46c9-4f89-9568-0b8eb1c87e6b?utm_source=github&utm_campaign=gh-tech-internships) | Europe, Bulgaria, Sofia (Hybrid) |  | 4d |
+| **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [iXP Intern Developer Security](https://www.dreamworkhq.com/job/3c437ed7-cefa-4642-a87b-3de63a5080f9?utm_source=github&utm_campaign=gh-tech-internships) | Europe, Bulgaria, Sofia (Hybrid) |  | 4d |
 | **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern - DevOps Cloud Software Engineer](https://www.dreamworkhq.com/job/9324290b-e23d-4e61-b25d-e4202968009d?utm_source=github&utm_campaign=gh-tech-internships) | Europe, Bulgaria, Sofia (Hybrid) |  | 10d |
-| **[Roche](https://www.dreamworkhq.com/c/roche.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Business Analytics & Digital Intern](https://www.dreamworkhq.com/job/58151ab5-f524-48dc-984b-f0e6e2388d22?utm_source=github&utm_campaign=gh-tech-internships) | Sofia |  | 10d |
+| **[Roche](https://www.dreamworkhq.com/c/roche.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Business Analytics & Digital Intern](https://www.dreamworkhq.com/job/58151ab5-f524-48dc-984b-f0e6e2388d22?utm_source=github&utm_campaign=gh-tech-internships) | Sofia |  | 11d |
 | **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXP Intern - Software Engineer in Gardener with Go and Kubernetes](https://www.dreamworkhq.com/job/86b09910-6cc7-46a2-a645-659a57bcc10b?utm_source=github&utm_campaign=gh-tech-internships) | Europe, Bulgaria, Sofia (Hybrid) |  | 1mo |
 
 <!-- TABLE_END -->

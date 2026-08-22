@@ -26,7 +26,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Cermati](https://www.dreamworkhq.com/c/cermati.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/1f85fca9-55fa-4f83-bd15-92898882e11b?utm_source=github&utm_campaign=gh-tech-internships) | Jakarta, Jakarta, Indonesia |  | 1d |
+| **[Cermati](https://www.dreamworkhq.com/c/cermati.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/1f85fca9-55fa-4f83-bd15-92898882e11b?utm_source=github&utm_campaign=gh-tech-internships) | Jakarta, Jakarta, Indonesia |  | 2d |
 | **[Xendit](https://www.dreamworkhq.com/c/xendit.co?utm_source=github&utm_campaign=gh-tech-internships)** | [Full Stack Developer Intern](https://www.dreamworkhq.com/job/af9adeec-ea6c-4b7a-9b04-13c567e6edd1?utm_source=github&utm_campaign=gh-tech-internships) | Jakarta, Indonesia |  | 19d |
 
 <!-- TABLE_END -->

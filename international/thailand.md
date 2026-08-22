@@ -27,6 +27,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[SEEK](https://www.dreamworkhq.com/c/seek.com.au?utm_source=github&utm_campaign=gh-tech-internships)** | [Content Designer Intern](https://www.dreamworkhq.com/job/62f3b7a6-8323-462f-aefd-6f86651d0b25?utm_source=github&utm_campaign=gh-tech-internships) | Bangkok, Bangkok, Thailand (Hybrid) |  | 9d |
+| **[SEEK](https://www.dreamworkhq.com/c/seek.com.au?utm_source=github&utm_campaign=gh-tech-internships)** | [Content Designer Intern](https://www.dreamworkhq.com/job/62f3b7a6-8323-462f-aefd-6f86651d0b25?utm_source=github&utm_campaign=gh-tech-internships) | Bangkok, Bangkok, Thailand (Hybrid) |  | 10d |
 
 <!-- TABLE_END -->
