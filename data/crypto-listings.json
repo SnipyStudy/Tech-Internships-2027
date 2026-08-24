@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-23T19:44:11.068Z",
+  "generatedAt": "2026-08-24T19:56:12.169Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
-  "count": 90,
+  "count": 89,
   "listings": [
     {
       "id": "26c0f7c8-ab7a-44da-9c21-f08db10f335b",
@@ -358,22 +358,6 @@
       "url": "https://www.dreamworkhq.com/job/64875b00-7d22-4b2c-a755-8f1f7cf1a1fa?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "efff3894-52b1-4d71-9c12-7de6f65e96d0",
-      "title": "Security Engineering Intern, Blue Team",
-      "company": "Coinhako",
-      "companyDomain": "coinhako.com",
-      "location": "Vietnam",
-      "locationCountryCode": "VN",
-      "functionPrimary": "Security",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-07-24T02:39:16.817Z",
-      "firstIndexedAt": "2026-07-25T10:45:18.545Z",
-      "url": "https://www.dreamworkhq.com/job/efff3894-52b1-4d71-9c12-7de6f65e96d0?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "609b0f4c-3147-436d-9556-7088d26e62b9",
       "title": "Security Engineering Intern, GRC",
       "company": "Coinhako",
@@ -388,6 +372,22 @@
       "postedAt": "2026-07-24T02:38:52.938Z",
       "firstIndexedAt": "2026-07-25T10:45:18.545Z",
       "url": "https://www.dreamworkhq.com/job/609b0f4c-3147-436d-9556-7088d26e62b9?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "efff3894-52b1-4d71-9c12-7de6f65e96d0",
+      "title": "Security Engineering Intern, Blue Team",
+      "company": "Coinhako",
+      "companyDomain": "coinhako.com",
+      "location": "Vietnam",
+      "locationCountryCode": "VN",
+      "functionPrimary": "Security",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-07-24T02:39:16.817Z",
+      "firstIndexedAt": "2026-07-25T10:45:18.545Z",
+      "url": "https://www.dreamworkhq.com/job/efff3894-52b1-4d71-9c12-7de6f65e96d0?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "0fd2bb8a-4879-4058-8d63-9f1651e126a2",
@@ -932,22 +932,6 @@
       "postedAt": "2025-07-15T21:59:14.257Z",
       "firstIndexedAt": "2026-05-28T09:35:44.196Z",
       "url": "https://www.dreamworkhq.com/job/968e2ad3-6a09-4f11-999b-8a81f14b5755?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "ad8e93f2-0a59-4d20-8da9-0c81bc7cf471",
-      "title": "Golang Development Engineer Intern",
-      "company": "Bybit",
-      "companyDomain": "bybit.com",
-      "location": "APAC - Remote",
-      "locationCountryCode": null,
-      "functionPrimary": "Engineering",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-05-14T12:50:05.000Z",
-      "firstIndexedAt": "2026-05-28T04:45:40.045Z",
-      "url": "https://www.dreamworkhq.com/job/ad8e93f2-0a59-4d20-8da9-0c81bc7cf471?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "a10e03af-d9bf-4e79-9a80-1c7adfa11668",
