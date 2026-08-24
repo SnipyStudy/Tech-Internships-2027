@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-08-23**
+**1 currently open roles** · Updated **2026-08-24**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Novo Nordisk](https://www.dreamworkhq.com/c/novonordisk.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Visualization &amp; Analysis Intern](https://www.dreamworkhq.com/job/99e2732c-b68a-4d17-b0f4-35ae79ca5efd?utm_source=github&utm_campaign=gh-tech-internships) | Denmark, Capital Region of Denmark, Hillerød |  | 5d |
+| **[Novo Nordisk](https://www.dreamworkhq.com/c/novonordisk.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Visualization &amp; Analysis Intern](https://www.dreamworkhq.com/job/99e2732c-b68a-4d17-b0f4-35ae79ca5efd?utm_source=github&utm_campaign=gh-tech-internships) | Denmark, Capital Region of Denmark, Hillerød |  | 6d |
 
 <!-- TABLE_END -->
