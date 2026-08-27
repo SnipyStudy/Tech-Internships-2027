@@ -1,4 +1,4 @@
-# Tech internships in Armenia
+# Tech internships in Algeria
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[We Work Remotely (Design)](https://www.dreamworkhq.com/c/weworkremotely.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Prismfly: Product Data Analyst Internship](https://www.dreamworkhq.com/job/df48c834-94c1-4bc8-8393-cabf753508bf?utm_source=github&utm_campaign=gh-tech-internships) | Remote |  | 21d |
+| **[GE Vernova](https://www.dreamworkhq.com/c/gevernova.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Grid Automation & Software Intern](https://www.dreamworkhq.com/job/97c767d4-b733-43b6-a6fb-e639010d9697?utm_source=github&utm_campaign=gh-tech-internships) | Remote |  | 2d |
 
 <!-- TABLE_END -->

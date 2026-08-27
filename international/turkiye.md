@@ -1,8 +1,8 @@
-# Tech internships in Honduras
+# Tech internships in Türkiye
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-08-25**
+**1 currently open roles** · Updated **2026-08-27**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Goalhonduras](https://www.dreamworkhq.com/c/goal.ie?utm_source=github&utm_campaign=gh-tech-internships)** | [Professional University Intern– Humanitarian AI](https://www.dreamworkhq.com/job/9b580063-403d-47b7-863c-db5fe83e940a?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Honduras) |  | 2mo |
+| **[GE Aerospace](https://www.dreamworkhq.com/c/geaerospace.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Additive and Test Enabling Hardware Mechanical Design Intern (6 Months)](https://www.dreamworkhq.com/job/d87fa317-14a8-46a1-b2e1-87fd42bb4dac?utm_source=github&utm_campaign=gh-tech-internships) | Istanbul |  | 14d |
 
 <!-- TABLE_END -->
