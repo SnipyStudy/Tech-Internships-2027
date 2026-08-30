@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-08-29**
+**1 currently open roles** · Updated **2026-08-30**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[GE Vernova](https://www.dreamworkhq.com/c/gevernova.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Grid Automation & Software Intern](https://www.dreamworkhq.com/job/97c767d4-b733-43b6-a6fb-e639010d9697?utm_source=github&utm_campaign=gh-tech-internships) | Remote |  | 3d |
+| **[GE Vernova](https://www.dreamworkhq.com/c/gevernova.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Grid Automation & Software Intern](https://www.dreamworkhq.com/job/97c767d4-b733-43b6-a6fb-e639010d9697?utm_source=github&utm_campaign=gh-tech-internships) | Remote |  | 4d |
 
 <!-- TABLE_END -->

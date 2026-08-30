@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**11 currently open roles** · Updated **2026-08-29**
+**11 currently open roles** · Updated **2026-08-30**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,10 +14,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Viamericas](https://www.dreamworkhq.com/c/viamericas.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Infrastructure Intern](https://www.dreamworkhq.com/job/541bfb51-c51f-45b9-9742-49bbfbe385de?utm_source=github&utm_campaign=gh-tech-internships) | Medellin, Antioquia |  | 7d |
-| **[Fticonsulting](https://www.dreamworkhq.com/c/fticonsulting.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern \| Digital, Strategic Communications](https://www.dreamworkhq.com/job/6bd0fd91-3ab7-4ed7-8969-fb2cfc47b5bd?utm_source=github&utm_campaign=gh-tech-internships) | Bogota, Colombia |  | 10d |
-| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Design Intern](https://www.dreamworkhq.com/job/b2d8b7c0-6e25-4e41-9674-77d5892496f4?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Colombia, Remote) |  | 10d |
-| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Data Intern](https://www.dreamworkhq.com/job/cc1f955d-1512-4ddf-8ec5-a67da6f8ed04?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Colombia, Remote) |  | 10d |
+| **[Viamericas](https://www.dreamworkhq.com/c/viamericas.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Infrastructure Intern](https://www.dreamworkhq.com/job/541bfb51-c51f-45b9-9742-49bbfbe385de?utm_source=github&utm_campaign=gh-tech-internships) | Medellin, Antioquia |  | 8d |
+| **[Fticonsulting](https://www.dreamworkhq.com/c/fticonsulting.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern \| Digital, Strategic Communications](https://www.dreamworkhq.com/job/6bd0fd91-3ab7-4ed7-8969-fb2cfc47b5bd?utm_source=github&utm_campaign=gh-tech-internships) | Bogota, Colombia |  | 11d |
+| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Design Intern](https://www.dreamworkhq.com/job/b2d8b7c0-6e25-4e41-9674-77d5892496f4?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Colombia, Remote) |  | 11d |
+| **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Data Intern](https://www.dreamworkhq.com/job/cc1f955d-1512-4ddf-8ec5-a67da6f8ed04?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Colombia, Remote) |  | 11d |
 | **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SRE / Platform Infrastructure Engineer Intern](https://www.dreamworkhq.com/job/3eb45c6f-0f05-4d7b-b88b-ef6d74e7e989?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Colombia, Remote) |  | 3mo |
 | **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/1bd55892-cb78-4903-aaf0-b10a72068221?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Colombia, Remote) |  | 3mo |
 | **[Sezzle](https://www.dreamworkhq.com/c/sezzle.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Intern](https://www.dreamworkhq.com/job/216b3715-7ff4-4e3a-9dc1-571806156354?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Colombia, Remote) |  | 3mo |
