@@ -1,8 +1,8 @@
-# Tech internships in Chile
+# Tech internships in Türkiye
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-08-30**
+**1 currently open roles** · Updated **2026-08-31**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Mastercard](https://www.dreamworkhq.com/c/mastercard.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Associate Consultant Intern, 2027 – Santiago, Chile](https://www.dreamworkhq.com/job/0abc96ad-b41a-420a-9ec4-b4c1d73abc0b?utm_source=github&utm_campaign=gh-tech-internships) | Santiago, Chile (Hybrid) |  | 1mo |
+| **[GE Aerospace](https://www.dreamworkhq.com/c/geaerospace.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Mechanical Design Engineering Intern (6 months)](https://www.dreamworkhq.com/job/578bb1df-9de7-4d67-8565-052baca757c9?utm_source=github&utm_campaign=gh-tech-internships) | Istanbul |  | 0d |
 
 <!-- TABLE_END -->
