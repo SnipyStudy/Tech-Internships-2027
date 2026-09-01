@@ -4,11 +4,11 @@ Verified-open crypto, blockchain, and web3 internships worldwide, updated daily.
 
 [← US tech internships](README.md) · [International internships](INTERNATIONAL.md) · [Business internships](BUSINESS.md)
 
-**87 open internships** · **17 companies** · **0 added in the last 24 hours** · Updated **2026-08-31**
+**88 open internships** · **18 companies** · **1 added in the last 24 hours** · Updated **2026-09-01**
 
 Click a role to view it and apply, or let [Dreamwork](https://www.dreamworkhq.com/?utm_source=github&utm_medium=crypto_readme&utm_campaign=gh-tech-internships) match the list against your resume.
 
-- [Engineering](#engineering-36) · 36 roles
+- [Engineering](#engineering-37) · 37 roles
 - [Marketing](#marketing-9) · 9 roles
 - [Data Science](#data-science-9) · 9 roles
 - [Security](#security-7) · 7 roles
@@ -19,14 +19,15 @@ Click a role to view it and apply, or let [Dreamwork](https://www.dreamworkhq.co
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (36)
+### Engineering (37)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - QA Engineer, Compliance (Java, SQL)](https://www.dreamworkhq.com/job/ced56d72-faef-46ce-bad6-092c22212bf1?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 4d |
-| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - QA Engineer, App testing (Java, SQL)](https://www.dreamworkhq.com/job/44818091-aa46-44a3-ade5-9eae50de587a?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 4d |
-| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - QA (Content)](https://www.dreamworkhq.com/job/26c0f7c8-ab7a-44da-9c21-f08db10f335b?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 11d |
-| **[Merklescience](https://www.dreamworkhq.com/c/merklescience.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer(Intern)- Backend](https://www.dreamworkhq.com/job/55340783-b58b-401e-93d7-fcf4d31b5436?utm_source=github&utm_campaign=gh-tech-internships) | Bangalore (Hybrid) |  | 22d |
+| **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Crypto Quality SW Process Internship](https://www.dreamworkhq.com/job/b38d8f84-ee4a-4a39-9b75-e74cad9658e7?utm_source=github&utm_campaign=gh-tech-internships) | Sibiu (Hybrid) |  | 0d |
+| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - QA Engineer, Compliance (Java, SQL)](https://www.dreamworkhq.com/job/ced56d72-faef-46ce-bad6-092c22212bf1?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 5d |
+| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - QA Engineer, App testing (Java, SQL)](https://www.dreamworkhq.com/job/44818091-aa46-44a3-ade5-9eae50de587a?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 5d |
+| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - QA (Content)](https://www.dreamworkhq.com/job/26c0f7c8-ab7a-44da-9c21-f08db10f335b?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 12d |
+| **[Merklescience](https://www.dreamworkhq.com/c/merklescience.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer(Intern)- Backend](https://www.dreamworkhq.com/job/55340783-b58b-401e-93d7-fcf4d31b5436?utm_source=github&utm_campaign=gh-tech-internships) | Bangalore (Hybrid) |  | 23d |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Backend Engineer (AI Pro / Agent Infrastr…](https://www.dreamworkhq.com/job/4958e693-c7b2-4fde-98e2-81d1ec3480c4?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 1mo |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Software Engineer (Cryptography)](https://www.dreamworkhq.com/job/f236f599-ea6d-4795-8838-a78f9cbbc93a?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 1mo |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Full Stack Engineer (AI)](https://www.dreamworkhq.com/job/6ff9bdc3-0b74-4ee2-865d-67f8ca1f051d?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 1mo |
@@ -64,13 +65,13 @@ Click a role to view it and apply, or let [Dreamwork](https://www.dreamworkhq.co
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Global Affiliate BD](https://www.dreamworkhq.com/job/6bc5eba1-c336-4118-8b79-c95cd8cc65bf?utm_source=github&utm_campaign=gh-tech-internships) | Philippines, Manila |  | 17d |
-| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Social Media (Meme and Creative Video)](https://www.dreamworkhq.com/job/632de3a0-7905-4da4-8a7a-db46b9351fa4?utm_source=github&utm_campaign=gh-tech-internships) | Remote (South East Asia) |  | 20d |
-| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Growth Marketing (MENA)](https://www.dreamworkhq.com/job/5b2c84f3-57d8-4202-a95d-357da854ac4c?utm_source=github&utm_campaign=gh-tech-internships) | UAE, Dubai |  | 22d |
-| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Brand KOL](https://www.dreamworkhq.com/job/d88e7166-f9aa-4e72-93c8-0af02474c590?utm_source=github&utm_campaign=gh-tech-internships) | Asia |  | 22d |
+| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Global Affiliate BD](https://www.dreamworkhq.com/job/6bc5eba1-c336-4118-8b79-c95cd8cc65bf?utm_source=github&utm_campaign=gh-tech-internships) | Philippines, Manila |  | 18d |
+| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Social Media (Meme and Creative Video)](https://www.dreamworkhq.com/job/632de3a0-7905-4da4-8a7a-db46b9351fa4?utm_source=github&utm_campaign=gh-tech-internships) | Remote (South East Asia) |  | 21d |
+| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Growth Marketing (MENA)](https://www.dreamworkhq.com/job/5b2c84f3-57d8-4202-a95d-357da854ac4c?utm_source=github&utm_campaign=gh-tech-internships) | UAE, Dubai |  | 23d |
+| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Brand KOL](https://www.dreamworkhq.com/job/d88e7166-f9aa-4e72-93c8-0af02474c590?utm_source=github&utm_campaign=gh-tech-internships) | Asia |  | 23d |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - User Growth Operations](https://www.dreamworkhq.com/job/b9724350-4f5e-49a6-b20e-d5f2d5d43467?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong (Hybrid) |  | 1mo |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Lifecycle Operations](https://www.dreamworkhq.com/job/9b0b8314-b470-4c13-8bde-26bfc51c8133?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Hong Kong) |  | 1mo |
-| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Brand Partnerships](https://www.dreamworkhq.com/job/d374bc06-e823-446a-8d80-95e78c456808?utm_source=github&utm_campaign=gh-tech-internships) | Asia |  | 1mo |
+| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Brand Partnerships](https://www.dreamworkhq.com/job/d374bc06-e823-446a-8d80-95e78c456808?utm_source=github&utm_campaign=gh-tech-internships) | Asia |  | 2mo |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Affiliate BD (Greater China)](https://www.dreamworkhq.com/job/6ce5f142-d61d-4a71-a23a-4052ae2dfb03?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 2mo |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - SEA Marketing](https://www.dreamworkhq.com/job/d90f3baa-e6e6-4216-bc8c-80bd54791752?utm_source=github&utm_campaign=gh-tech-internships) | Indonesia, Jakarta |  | 3mo |
 
@@ -78,9 +79,9 @@ Click a role to view it and apply, or let [Dreamwork](https://www.dreamworkhq.co
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [BAP - Data Analyst](https://www.dreamworkhq.com/job/0d3942fa-d0ad-4280-a5c6-9795ad5f8a99?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong (Hybrid) |  | 20d |
-| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Acceleration Program - Product Data Analyst](https://www.dreamworkhq.com/job/07a60ac5-aa8c-4592-b29c-b7ec75b05c1a?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 20d |
-| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Data Scientist (User Growth)](https://www.dreamworkhq.com/job/1b8ce626-fc22-40ae-a85c-cf95e7d2f0bf?utm_source=github&utm_campaign=gh-tech-internships) | Asia (Hybrid) |  | 22d |
+| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [BAP - Data Analyst](https://www.dreamworkhq.com/job/0d3942fa-d0ad-4280-a5c6-9795ad5f8a99?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong (Hybrid) |  | 21d |
+| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Acceleration Program - Product Data Analyst](https://www.dreamworkhq.com/job/07a60ac5-aa8c-4592-b29c-b7ec75b05c1a?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 21d |
+| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Data Scientist (User Growth)](https://www.dreamworkhq.com/job/1b8ce626-fc22-40ae-a85c-cf95e7d2f0bf?utm_source=github&utm_campaign=gh-tech-internships) | Asia (Hybrid) |  | 23d |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Data Scientist (KYB/KYC Ops), AI](https://www.dreamworkhq.com/job/b0a693a1-d63b-4dc3-b7b9-2c7951346bb4?utm_source=github&utm_campaign=gh-tech-internships) | Asia |  | 1mo |
 | **[Bybit](https://www.dreamworkhq.com/c/bybit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Risk Control Engineer Intern](https://www.dreamworkhq.com/job/16fe81be-4244-4b73-9f10-943cbd4d3db9?utm_source=github&utm_campaign=gh-tech-internships) | Remote (APAC - Remote) |  | 2mo |
 | **[Dialecticch](https://www.dreamworkhq.com/c/dialectic.ch?utm_source=github&utm_campaign=gh-tech-internships)** | [Data / ML / AI Intern](https://www.dreamworkhq.com/job/3171f855-afff-4881-8a5b-bd4dae095248?utm_source=github&utm_campaign=gh-tech-internships) | Zug, Switzerland |  | 3mo |
@@ -92,8 +93,8 @@ Click a role to view it and apply, or let [Dreamwork](https://www.dreamworkhq.co
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Skymavis](https://www.dreamworkhq.com/c/skymavis.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Security Operations Intern](https://www.dreamworkhq.com/job/1bb44a90-20df-4241-b362-17d3fa82b84a?utm_source=github&utm_campaign=gh-tech-internships) | Vietnam |  | 12d |
-| **[Certik](https://www.dreamworkhq.com/c/certik.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Compliance Engineer Intern](https://www.dreamworkhq.com/job/a2be243f-2753-455f-aa0e-e1174655ae71?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Europe / Asia) |  | 29d |
+| **[Skymavis](https://www.dreamworkhq.com/c/skymavis.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Security Operations Intern](https://www.dreamworkhq.com/job/1bb44a90-20df-4241-b362-17d3fa82b84a?utm_source=github&utm_campaign=gh-tech-internships) | Vietnam |  | 13d |
+| **[Certik](https://www.dreamworkhq.com/c/certik.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Compliance Engineer Intern](https://www.dreamworkhq.com/job/a2be243f-2753-455f-aa0e-e1174655ae71?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Europe / Asia) |  | 1mo |
 | **[Coinhako](https://www.dreamworkhq.com/c/coinhako.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Security Engineering Intern, GRC](https://www.dreamworkhq.com/job/609b0f4c-3147-436d-9556-7088d26e62b9?utm_source=github&utm_campaign=gh-tech-internships) | Vietnam |  | 1mo |
 | **[Coinhako](https://www.dreamworkhq.com/c/coinhako.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Security Engineering Intern, Red Team](https://www.dreamworkhq.com/job/fca082c6-7b8e-4d3b-8f2a-9895f7b86dc4?utm_source=github&utm_campaign=gh-tech-internships) | Vietnam |  | 1mo |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - DevSecOps Engineer](https://www.dreamworkhq.com/job/d13d0b07-c9a0-4605-a7c8-3dc6a5af1b1c?utm_source=github&utm_campaign=gh-tech-internships) | Asia |  | 1mo |
@@ -104,8 +105,8 @@ Click a role to view it and apply, or let [Dreamwork](https://www.dreamworkhq.co
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - User Experience Product Manager](https://www.dreamworkhq.com/job/09f62ab2-5981-41aa-bf52-0a555a8ba5e5?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Taipei |  | 6d |
-| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - AI & Platform Product Manager](https://www.dreamworkhq.com/job/7a6e058b-7343-47e8-9c0c-f23d7c440c84?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Hong Kong) |  | 11d |
+| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - User Experience Product Manager](https://www.dreamworkhq.com/job/09f62ab2-5981-41aa-bf52-0a555a8ba5e5?utm_source=github&utm_campaign=gh-tech-internships) | Taiwan, Taipei |  | 7d |
+| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - AI & Platform Product Manager](https://www.dreamworkhq.com/job/7a6e058b-7343-47e8-9c0c-f23d7c440c84?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Hong Kong) |  | 12d |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Data Product Manager (Derivatives)](https://www.dreamworkhq.com/job/64875b00-7d22-4b2c-a755-8f1f7cf1a1fa?utm_source=github&utm_campaign=gh-tech-internships) | Asia |  | 1mo |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Product Manager AI Agent & Harness](https://www.dreamworkhq.com/job/d4e103c5-c6bc-45ec-96cf-e2adc995f49f?utm_source=github&utm_campaign=gh-tech-internships) | Asia |  | 1mo |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - AI Product Manager](https://www.dreamworkhq.com/job/1d1640e5-6b25-4162-b850-cb92a3e612e9?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 3mo |
@@ -135,8 +136,8 @@ Click a role to view it and apply, or let [Dreamwork](https://www.dreamworkhq.co
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - HR Talent Acquisition](https://www.dreamworkhq.com/job/3d929dcf-092b-41e9-8104-8095259a6b48?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 6d |
-| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Compliance/Sanctions](https://www.dreamworkhq.com/job/1bf1bb10-7a1c-41ba-9eec-cd31c823c3b3?utm_source=github&utm_campaign=gh-tech-internships) | Asia |  | 17d |
+| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - HR Talent Acquisition](https://www.dreamworkhq.com/job/3d929dcf-092b-41e9-8104-8095259a6b48?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Asia) |  | 7d |
+| **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Compliance/Sanctions](https://www.dreamworkhq.com/job/1bf1bb10-7a1c-41ba-9eec-cd31c823c3b3?utm_source=github&utm_campaign=gh-tech-internships) | Asia |  | 18d |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - VIP Support (Gulf Binance)](https://www.dreamworkhq.com/job/90d39fd8-f9dc-47d7-aac0-f7bffa370760?utm_source=github&utm_campaign=gh-tech-internships) | Thailand, Bangkok |  | 1mo |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Talent Acquisition](https://www.dreamworkhq.com/job/04ba16df-b099-480c-bec9-42abda7ad11f?utm_source=github&utm_campaign=gh-tech-internships) | UAE, Dubai |  | 1mo |
 | **[Binance](https://www.dreamworkhq.com/c/binance.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Binance Accelerator Program - Talent Acquisition](https://www.dreamworkhq.com/job/0a593375-0c96-4592-a700-cb11bb4f0870?utm_source=github&utm_campaign=gh-tech-internships) | Hong Kong |  | 1mo |

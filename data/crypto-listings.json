@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-08-31T23:47:10.522Z",
+  "generatedAt": "2026-09-01T21:58:19.577Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
-  "count": 87,
+  "count": 88,
   "listings": [
+    {
+      "id": "b38d8f84-ee4a-4a39-9b75-e74cad9658e7",
+      "title": "Crypto Quality SW Process Internship",
+      "company": "NXP Semiconductors",
+      "companyDomain": "nxp.com",
+      "location": "Sibiu",
+      "locationCountryCode": "RO",
+      "functionPrimary": "Engineering",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-08-31T21:51:48.549Z",
+      "firstIndexedAt": "2026-09-01T21:52:21.114Z",
+      "url": "https://www.dreamworkhq.com/job/b38d8f84-ee4a-4a39-9b75-e74cad9658e7?utm_source=github&utm_campaign=gh-tech-internships"
+    },
     {
       "id": "ced56d72-faef-46ce-bad6-092c22212bf1",
       "title": "Binance Accelerator Program - QA Engineer, Compliance (Java, SQL)",
