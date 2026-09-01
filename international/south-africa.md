@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-08-31**
+**1 currently open roles** · Updated **2026-09-01**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Program/Product Manager Intern](https://www.dreamworkhq.com/job/5c6908ff-4940-42e5-b72f-c8c4e763ea3a?utm_source=github&utm_campaign=gh-tech-internships) | ZA, Cape Town |  | 17d |
+| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Program/Product Manager Intern](https://www.dreamworkhq.com/job/5c6908ff-4940-42e5-b72f-c8c4e763ea3a?utm_source=github&utm_campaign=gh-tech-internships) | ZA, Cape Town |  | 18d |
 
 <!-- TABLE_END -->

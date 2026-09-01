@@ -1,4 +1,4 @@
-# Tech internships in Denmark
+# Tech internships in Puerto Rico
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Netcompany1](https://www.dreamworkhq.com/c/netcompany.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship for Bachelor of Engineering students, Operations & Infrastru…](https://www.dreamworkhq.com/job/203fc128-5f25-4977-bd9f-b00d52f92032?utm_source=github&utm_campaign=gh-tech-internships) | Copenhagen, , Denmark |  | 3d |
+| **[Aerospace](https://www.dreamworkhq.com/c/aerospace.org?utm_source=github&utm_campaign=gh-tech-internships)** | [Puerto Rico - Software Engineering Intern - Summer 2027 (U.S. Person Re…](https://www.dreamworkhq.com/job/75b16460-afc3-4b9e-ad7d-e7068335b63c?utm_source=github&utm_campaign=gh-tech-internships) | Puerto Rico | $49K–$51K | 0d |
 
 <!-- TABLE_END -->
