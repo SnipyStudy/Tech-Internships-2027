@@ -2,24 +2,28 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**10 currently open roles** · Updated **2026-09-01**
+**14 currently open roles** · Updated **2026-09-02**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-8) · 8 roles
+- [Engineering](#engineering-12) · 12 roles
 - [Other](#other-2) · 2 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (8)
+### Engineering (12)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[JPMorgan Chase](https://www.dreamworkhq.com/c/careers.jpmorgan.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Software Engineer Program - Summer Internship - Dublin](https://www.dreamworkhq.com/job/19ccacb8-1399-4ac1-8608-ddbae88a73e9?utm_source=github&utm_campaign=gh-tech-internships) | Dublin, Ireland |  | 0d |
-| **[HPE](https://www.dreamworkhq.com/c/hpe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Cloud Quality Engineer – Internship](https://www.dreamworkhq.com/job/0bcb3ca8-d817-46dd-8dee-a1bdb013ff21?utm_source=github&utm_campaign=gh-tech-internships) | Galway, Galway, Ireland (Hybrid) |  | 5d |
-| **[Trend Micro](https://www.dreamworkhq.com/c/trendmicro.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Applied AI Engineer Internship](https://www.dreamworkhq.com/job/daf06803-5f6a-4747-bec4-4ba512dab301?utm_source=github&utm_campaign=gh-tech-internships) | Cork |  | 6d |
-| **[HPE](https://www.dreamworkhq.com/c/hpe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineering Intern](https://www.dreamworkhq.com/job/219ac9e0-f42d-4e01-b72b-5f6098a4759a?utm_source=github&utm_campaign=gh-tech-internships) | Galway, Galway, Ireland (Hybrid) |  | 7d |
-| **[Stripe](https://www.dreamworkhq.com/c/stripe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer, Intern (Summer or Winter)](https://www.dreamworkhq.com/job/f7eb2332-8022-4945-840c-52abae5ccad4?utm_source=github&utm_campaign=gh-tech-internships) | Dublin |  | 13d |
+| **[Intel](https://www.dreamworkhq.com/c/intel.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Hardware Engineering Intern](https://www.dreamworkhq.com/job/98a72941-2884-4439-b8b7-9541a1ec4765?utm_source=github&utm_campaign=gh-tech-internships) | Ireland, Leixlip | $34K | 0d |
+| **[HPE](https://www.dreamworkhq.com/c/hpe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Cloud Engineer - Intern Conversion](https://www.dreamworkhq.com/job/dade0487-1e18-4b01-814c-239657ced74f?utm_source=github&utm_campaign=gh-tech-internships) | Galway, Galway, Ireland (Hybrid) |  | 0d |
+| **[Stryker](https://www.dreamworkhq.com/c/stryker.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Embedded Software Engineering Co-Op Student](https://www.dreamworkhq.com/job/d125272a-08d2-4bab-aa58-cdc4d4db7db8?utm_source=github&utm_campaign=gh-tech-internships) | Carrigtwohill, Ireland | $32K | 0d |
+| **[Stryker](https://www.dreamworkhq.com/c/stryker.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Electrical Design Co-Op](https://www.dreamworkhq.com/job/7711573d-a784-40f4-8cdc-35c7ebe76f93?utm_source=github&utm_campaign=gh-tech-internships) | Carrigtwohill, Ireland | $32K | 0d |
+| **[JPMorgan Chase](https://www.dreamworkhq.com/c/careers.jpmorgan.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Software Engineer Program - Summer Internship - Dublin](https://www.dreamworkhq.com/job/19ccacb8-1399-4ac1-8608-ddbae88a73e9?utm_source=github&utm_campaign=gh-tech-internships) | Dublin, Ireland |  | 1d |
+| **[HPE](https://www.dreamworkhq.com/c/hpe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Cloud Quality Engineer – Internship](https://www.dreamworkhq.com/job/0bcb3ca8-d817-46dd-8dee-a1bdb013ff21?utm_source=github&utm_campaign=gh-tech-internships) | Galway, Galway, Ireland (Hybrid) |  | 6d |
+| **[Trend Micro](https://www.dreamworkhq.com/c/trendmicro.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Applied AI Engineer Internship](https://www.dreamworkhq.com/job/daf06803-5f6a-4747-bec4-4ba512dab301?utm_source=github&utm_campaign=gh-tech-internships) | Cork |  | 7d |
+| **[HPE](https://www.dreamworkhq.com/c/hpe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineering Intern](https://www.dreamworkhq.com/job/219ac9e0-f42d-4e01-b72b-5f6098a4759a?utm_source=github&utm_campaign=gh-tech-internships) | Galway, Galway, Ireland (Hybrid) |  | 8d |
+| **[Stripe](https://www.dreamworkhq.com/c/stripe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer, Intern (Summer or Winter)](https://www.dreamworkhq.com/job/f7eb2332-8022-4945-840c-52abae5ccad4?utm_source=github&utm_campaign=gh-tech-internships) | Dublin |  | 14d |
 | **[Virtu](https://www.dreamworkhq.com/c/virtu.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Internship - Software Engineer](https://www.dreamworkhq.com/job/14474136-03ac-4abd-8938-6d6c3a08eb43?utm_source=github&utm_campaign=gh-tech-internships) | Dublin, Ireland |  | 1mo |
 | **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Software Dev Engineer Intern](https://www.dreamworkhq.com/job/a8240184-a45b-46e1-8737-5d38cae43e3d?utm_source=github&utm_campaign=gh-tech-internships) | IE, Dublin |  | 2mo |
 | **[Analog Devices](https://www.dreamworkhq.com/c/analog.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Mechanical and Robotics Intern](https://www.dreamworkhq.com/job/52048dde-aeb3-4392-aaa5-c812fa19c809?utm_source=github&utm_campaign=gh-tech-internships) | Ireland, Limerick |  | 3mo |
@@ -28,7 +32,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Trend Micro](https://www.dreamworkhq.com/c/trendmicro.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Cyber Security Engineer Internship](https://www.dreamworkhq.com/job/582dc8da-75d1-4f2b-b061-45cff51045b3?utm_source=github&utm_campaign=gh-tech-internships) | Cork |  | 6d |
-| **[Trend Micro](https://www.dreamworkhq.com/c/trendmicro.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Security Incident Analyst Internship](https://www.dreamworkhq.com/job/569f1044-a666-4988-af5c-58863ea7aa60?utm_source=github&utm_campaign=gh-tech-internships) | Cork |  | 6d |
+| **[Trend Micro](https://www.dreamworkhq.com/c/trendmicro.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Security Incident Analyst Internship](https://www.dreamworkhq.com/job/569f1044-a666-4988-af5c-58863ea7aa60?utm_source=github&utm_campaign=gh-tech-internships) | Cork |  | 7d |
+| **[Trend Micro](https://www.dreamworkhq.com/c/trendmicro.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Cyber Security Engineer Internship](https://www.dreamworkhq.com/job/582dc8da-75d1-4f2b-b061-45cff51045b3?utm_source=github&utm_campaign=gh-tech-internships) | Cork |  | 7d |
 
 <!-- TABLE_END -->

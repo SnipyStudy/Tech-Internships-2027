@@ -1,4 +1,4 @@
-# Tech internships in South Africa
+# Tech internships in Mauritius
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Program/Product Manager Intern](https://www.dreamworkhq.com/job/5c6908ff-4940-42e5-b72f-c8c4e763ea3a?utm_source=github&utm_campaign=gh-tech-internships) | ZA, Cape Town |  | 19d |
+| **[Accenture](https://www.dreamworkhq.com/c/accenture.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/4dbec656-4f4d-471c-8e9e-69f2a110ae77?utm_source=github&utm_campaign=gh-tech-internships) | Ebene |  | 1mo |
 
 <!-- TABLE_END -->
