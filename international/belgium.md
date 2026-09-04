@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**14 currently open roles** · Updated **2026-09-03**
+**14 currently open roles** · Updated **2026-09-04**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -28,8 +28,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Devoteam](https://www.dreamworkhq.com/c/devoteam.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Internship (AI-Powered Software Factory)](https://www.dreamworkhq.com/job/94e08884-ae76-46ed-8390-dafeac466c16?utm_source=github&utm_campaign=gh-tech-internships) | Machelen, Vlaanderen, Belgium (Hybrid) |  | 1d |
-| **[Clarioclinical](https://www.dreamworkhq.com/c/clario.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, AI Prototyping](https://www.dreamworkhq.com/job/f8ca8302-2427-4833-9476-7a2f62ca4d20?utm_source=github&utm_campaign=gh-tech-internships) | Leuven, Belgium (Hybrid) |  | 15d |
+| **[Devoteam](https://www.dreamworkhq.com/c/devoteam.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Internship (AI-Powered Software Factory)](https://www.dreamworkhq.com/job/94e08884-ae76-46ed-8390-dafeac466c16?utm_source=github&utm_campaign=gh-tech-internships) | Machelen, Vlaanderen, Belgium (Hybrid) |  | 2d |
+| **[Clarioclinical](https://www.dreamworkhq.com/c/clario.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, AI Prototyping](https://www.dreamworkhq.com/job/f8ca8302-2427-4833-9476-7a2f62ca4d20?utm_source=github&utm_campaign=gh-tech-internships) | Leuven, Belgium (Hybrid) |  | 16d |
 | **[TechWolf](https://www.dreamworkhq.com/c/techwolf.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Software Engineer](https://www.dreamworkhq.com/job/03e09bf0-cb87-4ada-9eea-787af96ade3b?utm_source=github&utm_campaign=gh-tech-internships) | Ghent, Vlaams Gewest, Belgium |  | 1mo |
 | **[1000](https://www.dreamworkhq.com/c/1000company.com.br?utm_source=github&utm_campaign=gh-tech-internships)** | [Engineering Internship - Automation/Mechanical/Mechatronic/Data Science…](https://www.dreamworkhq.com/job/412c98ea-9787-4beb-b449-e6780ca5821e?utm_source=github&utm_campaign=gh-tech-internships) | Brussels | $31K | 1mo |
 | **[Brainsquare](https://www.dreamworkhq.com/c/brainsquare.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship – Java or .NET Software Engineer](https://www.dreamworkhq.com/job/bff8d078-a145-40e8-9eda-a06be3aa0b25?utm_source=github&utm_campaign=gh-tech-internships) | Zaventem, Vlaams-Brabant, Belgium (Hybrid) |  | 2mo |
@@ -38,7 +38,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Keysight](https://www.dreamworkhq.com/c/keysight.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Cybersecurity Intern](https://www.dreamworkhq.com/job/faf92473-3b7e-42a1-b0c4-144c9805f3db?utm_source=github&utm_campaign=gh-tech-internships) | Leuven, Vlaams Brabant, Belgium |  | 1d |
-| **[BETUNED](https://www.dreamworkhq.com/c/betuned.com?utm_source=github&utm_campaign=gh-tech-internships)** | [PULSE FOUNDATION - Product & Impact Analyst Intern H/F/X](https://www.dreamworkhq.com/job/c2300194-2692-42f0-96fc-876c0ae49918?utm_source=github&utm_campaign=gh-tech-internships) | Brussels, Belgium (Hybrid) |  | 25d |
+| **[Keysight](https://www.dreamworkhq.com/c/keysight.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Cybersecurity Intern](https://www.dreamworkhq.com/job/faf92473-3b7e-42a1-b0c4-144c9805f3db?utm_source=github&utm_campaign=gh-tech-internships) | Leuven, Vlaams Brabant, Belgium |  | 2d |
+| **[BETUNED](https://www.dreamworkhq.com/c/betuned.com?utm_source=github&utm_campaign=gh-tech-internships)** | [PULSE FOUNDATION - Product & Impact Analyst Intern H/F/X](https://www.dreamworkhq.com/job/c2300194-2692-42f0-96fc-876c0ae49918?utm_source=github&utm_campaign=gh-tech-internships) | Brussels, Belgium (Hybrid) |  | 26d |
 
 <!-- TABLE_END -->
