@@ -2,38 +2,38 @@
 
 [← US internships](README.md) · [Business internships](BUSINESS.md) · [Crypto internships](CRYPTO.md)
 
-**1270 country-located roles** across **60 countries** · **4 explicitly global remote** · Updated **2026-09-06**
+**1263 country-located roles** across **59 countries** · **4 explicitly global remote** · Updated **2026-09-07**
 
 This is the international view of the same verified-open internship corpus. Countries are based on the location in the company posting; unknown locations are excluded instead of being guessed. Every country has its own page so the list stays readable as coverage grows.
 
 | Country | Open roles |
 | --- | ---: |
-| [Canada](international/canada.md) | 197 |
-| [India](international/india.md) | 176 |
-| [Singapore](international/singapore.md) | 146 |
+| [Canada](international/canada.md) | 191 |
+| [India](international/india.md) | 177 |
+| [Singapore](international/singapore.md) | 151 |
 | [China](international/china.md) | 83 |
-| [Germany](international/germany.md) | 65 |
-| [Malaysia](international/malaysia.md) | 45 |
+| [Germany](international/germany.md) | 62 |
+| [Malaysia](international/malaysia.md) | 46 |
 | [United Kingdom](international/united-kingdom.md) | 39 |
-| [Italy](international/italy.md) | 37 |
-| [Vietnam](international/vietnam.md) | 37 |
-| [Netherlands](international/netherlands.md) | 35 |
+| [Italy](international/italy.md) | 36 |
+| [Netherlands](international/netherlands.md) | 36 |
+| [Vietnam](international/vietnam.md) | 36 |
 | [France](international/france.md) | 33 |
 | [Spain](international/spain.md) | 27 |
-| [Poland](international/poland.md) | 25 |
-| [Ireland](international/ireland.md) | 23 |
+| [Poland](international/poland.md) | 24 |
 | [New Zealand](international/new-zealand.md) | 23 |
 | [Taiwan](international/taiwan.md) | 23 |
+| [Ireland](international/ireland.md) | 22 |
 | [Brazil](international/brazil.md) | 20 |
 | [Switzerland](international/switzerland.md) | 19 |
-| [Mexico](international/mexico.md) | 18 |
+| [Mexico](international/mexico.md) | 17 |
 | [Belgium](international/belgium.md) | 14 |
 | [Portugal](international/portugal.md) | 14 |
 | [Australia](international/australia.md) | 12 |
+| [Colombia](international/colombia.md) | 12 |
 | [Philippines](international/philippines.md) | 12 |
-| [Colombia](international/colombia.md) | 11 |
 | [Indonesia](international/indonesia.md) | 10 |
-| [Ukraine](international/ukraine.md) | 10 |
+| [Ukraine](international/ukraine.md) | 9 |
 | [Austria](international/austria.md) | 8 |
 | [Serbia](international/serbia.md) | 8 |
 | [Czechia](international/czechia.md) | 7 |
@@ -67,7 +67,6 @@ This is the international view of the same verified-open internship corpus. Coun
 | [South Africa](international/south-africa.md) | 1 |
 | [Suriname](international/suriname.md) | 1 |
 | [Sweden](international/sweden.md) | 1 |
-| [Türkiye](international/turkiye.md) | 1 |
 
 ## Global remote (4)
 
@@ -75,8 +74,8 @@ Only roles whose listing explicitly says applicants can work from anywhere appea
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Lokainc](https://www.dreamworkhq.com/c/lokainc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineering Intern](https://www.dreamworkhq.com/job/6e07f617-19b8-4111-88f1-561fed69750f?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Portugal) |  | 3d |
-| **[Yotta](https://www.dreamworkhq.com/c/yottalabs.ai?utm_source=github&utm_campaign=gh-tech-internships)** | [Research Engineer Intern - AI Systems](https://www.dreamworkhq.com/job/8b4a8a28-5248-4a7c-9985-0db6583a0c85?utm_source=github&utm_campaign=gh-tech-internships) | Remote (United States) |  | 28d |
+| **[Lokainc](https://www.dreamworkhq.com/c/lokainc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineering Intern](https://www.dreamworkhq.com/job/6e07f617-19b8-4111-88f1-561fed69750f?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Portugal) |  | 4d |
+| **[Yotta](https://www.dreamworkhq.com/c/yottalabs.ai?utm_source=github&utm_campaign=gh-tech-internships)** | [Research Engineer Intern - AI Systems](https://www.dreamworkhq.com/job/8b4a8a28-5248-4a7c-9985-0db6583a0c85?utm_source=github&utm_campaign=gh-tech-internships) | Remote (United States) |  | 29d |
 | **[DeliveryHero](https://www.dreamworkhq.com/c/deliveryhero.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analyst Intern](https://www.dreamworkhq.com/job/99b4692a-4928-4f20-b509-2bcee4b68ba6?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Barcelona, , Spain) |  | 2mo |
 | **[Docugami](https://www.dreamworkhq.com/c/docugami.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Science Graduate Student Intern](https://www.dreamworkhq.com/job/f91668c1-7b55-42de-b2e5-5324b8679080?utm_source=github&utm_campaign=gh-tech-internships) | Remote (France) |  | 3mo |
 
