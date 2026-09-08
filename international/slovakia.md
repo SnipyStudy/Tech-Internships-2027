@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**3 currently open roles** · Updated **2026-09-07**
+**3 currently open roles** · Updated **2026-09-08**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,8 +14,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Zurich Insurance](https://www.dreamworkhq.com/c/zurich.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship opportunity for students:Automation Engineer Trainee](https://www.dreamworkhq.com/job/bf8d8052-2274-4f82-8d29-f4c9b56b08cc?utm_source=github&utm_campaign=gh-tech-internships) | Slovakia |  | 5d |
-| **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern - Site Reliability Engineer](https://www.dreamworkhq.com/job/a8797100-c62d-4e00-a8a4-9924834599f5?utm_source=github&utm_campaign=gh-tech-internships) | Europe, Slovakia, Bratislava (Hybrid) |  | 20d |
+| **[Zurich Insurance](https://www.dreamworkhq.com/c/zurich.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship opportunity for students:Automation Engineer Trainee](https://www.dreamworkhq.com/job/bf8d8052-2274-4f82-8d29-f4c9b56b08cc?utm_source=github&utm_campaign=gh-tech-internships) | Slovakia |  | 6d |
+| **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern - Site Reliability Engineer](https://www.dreamworkhq.com/job/a8797100-c62d-4e00-a8a4-9924834599f5?utm_source=github&utm_campaign=gh-tech-internships) | Europe, Slovakia, Bratislava (Hybrid) |  | 21d |
 | **[Kone](https://www.dreamworkhq.com/c/kone.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Automation & AI Solutions Intern (KONE BUSINESS SERVICES) F/M](https://www.dreamworkhq.com/job/12bb1943-d724-4210-adce-5b81f7950e19?utm_source=github&utm_campaign=gh-tech-internships) | Bratislava |  | 1mo |
 
 <!-- TABLE_END -->

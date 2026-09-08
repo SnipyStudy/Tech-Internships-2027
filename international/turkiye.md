@@ -1,4 +1,4 @@
-# Tech internships in Algeria
+# Tech internships in Türkiye
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[GE Vernova](https://www.dreamworkhq.com/c/gevernova.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Grid Automation & Software Intern](https://www.dreamworkhq.com/job/97c767d4-b733-43b6-a6fb-e639010d9697?utm_source=github&utm_campaign=gh-tech-internships) | Remote |  | 13d |
+| **[GE Aerospace](https://www.dreamworkhq.com/c/geaerospace.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Mechanical Design Engineering Intern (6 months)](https://www.dreamworkhq.com/job/578bb1df-9de7-4d67-8565-052baca757c9?utm_source=github&utm_campaign=gh-tech-internships) | Istanbul |  | 8d |
 
 <!-- TABLE_END -->

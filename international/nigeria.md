@@ -1,4 +1,4 @@
-# Tech internships in Algeria
+# Tech internships in Nigeria
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[GE Vernova](https://www.dreamworkhq.com/c/gevernova.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Grid Automation & Software Intern](https://www.dreamworkhq.com/job/97c767d4-b733-43b6-a6fb-e639010d9697?utm_source=github&utm_campaign=gh-tech-internships) | Remote |  | 13d |
+| **[Moniepoint](https://www.dreamworkhq.com/c/moniepoint.com?utm_source=github&utm_campaign=gh-tech-internships)** | [QA Engineer (Internship)](https://www.dreamworkhq.com/job/c6b8c596-0622-4c01-a6f4-a200e1fdc427?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Remote, Lagos, Nigeria) |  | 0d |
 
 <!-- TABLE_END -->

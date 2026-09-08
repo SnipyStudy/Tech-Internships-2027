@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**6 currently open roles** · Updated **2026-09-07**
+**6 currently open roles** · Updated **2026-09-08**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,16 +15,16 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Physical Design Intern](https://www.dreamworkhq.com/job/d13bee84-c15f-47de-a194-a542b684801d?utm_source=github&utm_campaign=gh-tech-internships) | Yokneam |  | 1d |
-| **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Part-Time Software Engineering BS/MS Intern, 2027](https://www.dreamworkhq.com/job/d44f3b62-e9dc-4d87-bebe-0d9eb039d550?utm_source=github&utm_campaign=gh-tech-internships) | Tel Aviv, Israel, Haifa, Israel |  | 2d |
-| **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Hardware/Silicon Engineering PhD Intern, 2027](https://www.dreamworkhq.com/job/011d2187-1bc3-452b-afae-dc843acd6d07?utm_source=github&utm_campaign=gh-tech-internships) | Tel Aviv, Israel |  | 20d |
-| **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Part-Time Software Engineering PhD Intern, 2027](https://www.dreamworkhq.com/job/db2bfb76-3a04-4f93-83ae-39665cbf762d?utm_source=github&utm_campaign=gh-tech-internships) | Tel Aviv, Israel |  | 20d |
-| **[HPE](https://www.dreamworkhq.com/c/hpe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Backend Intern](https://www.dreamworkhq.com/job/28becc6b-0184-43fd-b888-72aa88ce66b0?utm_source=github&utm_campaign=gh-tech-internships) | Herzliya, Israel (Hybrid) |  | 27d |
+| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Physical Design Intern](https://www.dreamworkhq.com/job/d13bee84-c15f-47de-a194-a542b684801d?utm_source=github&utm_campaign=gh-tech-internships) | Yokneam |  | 2d |
+| **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Part-Time Software Engineering BS/MS Intern, 2027](https://www.dreamworkhq.com/job/d44f3b62-e9dc-4d87-bebe-0d9eb039d550?utm_source=github&utm_campaign=gh-tech-internships) | Tel Aviv, Israel, Haifa, Israel |  | 3d |
+| **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Hardware/Silicon Engineering PhD Intern, 2027](https://www.dreamworkhq.com/job/011d2187-1bc3-452b-afae-dc843acd6d07?utm_source=github&utm_campaign=gh-tech-internships) | Tel Aviv, Israel |  | 21d |
+| **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Part-Time Software Engineering PhD Intern, 2027](https://www.dreamworkhq.com/job/db2bfb76-3a04-4f93-83ae-39665cbf762d?utm_source=github&utm_campaign=gh-tech-internships) | Tel Aviv, Israel |  | 21d |
+| **[HPE](https://www.dreamworkhq.com/c/hpe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Backend Intern](https://www.dreamworkhq.com/job/28becc6b-0184-43fd-b888-72aa88ce66b0?utm_source=github&utm_campaign=gh-tech-internships) | Herzliya, Israel (Hybrid) |  | 28d |
 
 ### Other (1)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[HPE](https://www.dreamworkhq.com/c/hpe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Owner - Part Time Intern](https://www.dreamworkhq.com/job/f599d1ce-a871-42af-a07c-481fe50bf8a4?utm_source=github&utm_campaign=gh-tech-internships) | Herzliya, Israel (Hybrid) |  | 27d |
+| **[HPE](https://www.dreamworkhq.com/c/hpe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Product Owner - Part Time Intern](https://www.dreamworkhq.com/job/f599d1ce-a871-42af-a07c-481fe50bf8a4?utm_source=github&utm_campaign=gh-tech-internships) | Herzliya, Israel (Hybrid) |  | 28d |
 
 <!-- TABLE_END -->
