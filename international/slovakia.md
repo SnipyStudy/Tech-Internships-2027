@@ -2,20 +2,22 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**3 currently open roles** · Updated **2026-09-08**
+**5 currently open roles** · Updated **2026-09-16**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Other](#other-3) · 3 roles
+- [Other](#other-5) · 5 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Other (3)
+### Other (5)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Zurich Insurance](https://www.dreamworkhq.com/c/zurich.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship opportunity for students:Automation Engineer Trainee](https://www.dreamworkhq.com/job/bf8d8052-2274-4f82-8d29-f4c9b56b08cc?utm_source=github&utm_campaign=gh-tech-internships) | Slovakia |  | 6d |
-| **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern - Site Reliability Engineer](https://www.dreamworkhq.com/job/a8797100-c62d-4e00-a8a4-9924834599f5?utm_source=github&utm_campaign=gh-tech-internships) | Europe, Slovakia, Bratislava (Hybrid) |  | 21d |
+| **[KanadeviaInova](https://www.dreamworkhq.com/c/kanadevia-inova.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analyst (Intern)](https://www.dreamworkhq.com/job/b980b024-fedc-4ee1-b17c-412a880dc92f?utm_source=github&utm_campaign=gh-tech-internships) | Petržalka, Bratislavský kraj, Slovakia (Slo… (Hybrid) | $20K | 4d |
+| **[KanadeviaInova](https://www.dreamworkhq.com/c/kanadevia-inova.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analyst (Intern)](https://www.dreamworkhq.com/job/ca360129-4f23-4878-a48b-f6fda3c46868?utm_source=github&utm_campaign=gh-tech-internships) | Levice, Nitriansky kraj, Slovakia (Slovak R… (Hybrid) | $20K | 4d |
+| **[Swiss Re](https://www.dreamworkhq.com/c/swissre.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Business Intelligence and Data Analytics Intern (Student Job)](https://www.dreamworkhq.com/job/4807d43f-bf3c-43b3-bb15-6d62f24ee2d8?utm_source=github&utm_campaign=gh-tech-internships) | Slovakia (Hybrid) |  | 6d |
+| **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern - Site Reliability Engineer](https://www.dreamworkhq.com/job/a8797100-c62d-4e00-a8a4-9924834599f5?utm_source=github&utm_campaign=gh-tech-internships) | Bratislava, Slovakia (Hybrid) |  | 29d |
 | **[Kone](https://www.dreamworkhq.com/c/kone.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Automation & AI Solutions Intern (KONE BUSINESS SERVICES) F/M](https://www.dreamworkhq.com/job/12bb1943-d724-4210-adce-5b81f7950e19?utm_source=github&utm_campaign=gh-tech-internships) | Bratislava |  | 1mo |
 
 <!-- TABLE_END -->

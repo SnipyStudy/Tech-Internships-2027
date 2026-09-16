@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**1 currently open roles** · Updated **2026-09-08**
+**1 currently open roles** · Updated **2026-09-16**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[NielsenIQ](https://www.dreamworkhq.com/c/nielseniq.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern](https://www.dreamworkhq.com/job/951f9713-0490-4281-bd78-50fb97db0220?utm_source=github&utm_campaign=gh-tech-internships) | Guayaquil, G, Ecuador (Hybrid) |  | 18d |
+| **[Roche](https://www.dreamworkhq.com/c/roche.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data&CX Intern](https://www.dreamworkhq.com/job/9375e2f8-b8ae-49c2-8a9f-9fd0e12741e2?utm_source=github&utm_campaign=gh-tech-internships) | Quito |  | 6d |
 
 <!-- TABLE_END -->

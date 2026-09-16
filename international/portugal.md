@@ -2,39 +2,39 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**16 currently open roles** · Updated **2026-09-08**
+**16 currently open roles** · Updated **2026-09-16**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-11) · 11 roles
-- [Other](#other-5) · 5 roles
+- [Engineering](#engineering-12) · 12 roles
+- [Other](#other-4) · 4 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (11)
+### Engineering (12)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Extracurricular Internship: Process Digitalization and Automation (f/m/…](https://www.dreamworkhq.com/job/1848d080-69a9-4367-8bb6-d82e1ced4b6d?utm_source=github&utm_campaign=gh-tech-internships) | Aveiro, , Portugal (Hybrid) |  | 0d |
-| **[Lokainc](https://www.dreamworkhq.com/c/lokainc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineering Intern](https://www.dreamworkhq.com/job/6e07f617-19b8-4111-88f1-561fed69750f?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Portugal) |  | 5d |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Extracurricular Internship: Design for Environment Engineer (f/m/div.)](https://www.dreamworkhq.com/job/1af7d2bb-049c-4a4a-b82a-30932d31ea99?utm_source=github&utm_campaign=gh-tech-internships) | Aveiro, , Portugal (Hybrid) |  | 7d |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Extracurricular Internship: Product Compliance Engineer (f/m/div.)](https://www.dreamworkhq.com/job/04561c8c-afbf-4bfe-a6e2-b8fae6a48cd9?utm_source=github&utm_campaign=gh-tech-internships) | Aveiro, , Portugal (Hybrid) |  | 7d |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Extracurricular Internship: AI & Automation Development (f/m/div.)](https://www.dreamworkhq.com/job/cc3d8391-3c74-4214-827c-83382ca1b504?utm_source=github&utm_campaign=gh-tech-internships) | Aveiro, , Portugal |  | 10d |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Academic Internship in Software Engineering (f/m/div.)](https://www.dreamworkhq.com/job/3f768469-d672-4aff-8e94-7f05c7f5dedd?utm_source=github&utm_campaign=gh-tech-internships) | Braga, Braga, Portugal (Hybrid) |  | 16d |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Extracurricular Internship: Mechanical Design Engineer (f/m/div.)](https://www.dreamworkhq.com/job/798c0ee2-8bf4-456a-8d22-5b8d43ee9451?utm_source=github&utm_campaign=gh-tech-internships) | Ovar, , Portugal (Hybrid) |  | 18d |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [DevOps Engineer - Internship (f/m/div.)](https://www.dreamworkhq.com/job/7967e446-6e83-416c-af5b-ed6defeaee31?utm_source=github&utm_campaign=gh-tech-internships) | Ovar, , Portugal (Hybrid) |  | 24d |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [C# Developer - Internship (f/m/div.)](https://www.dreamworkhq.com/job/05045190-e0a8-49bc-a998-fe74965b6e40?utm_source=github&utm_campaign=gh-tech-internships) | Ovar, , Portugal (Hybrid) |  | 24d |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Extracurricular Internship: Hardware Test Engineer - eBike (f/m/div.)](https://www.dreamworkhq.com/job/660f73dc-c39a-486e-93e0-8d008576971a?utm_source=github&utm_campaign=gh-tech-internships) | Ovar, , Portugal (Hybrid) |  | 1mo |
-| **[Transperfect](https://www.dreamworkhq.com/c/transperfect.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineering \| Intern \| Lisbon](https://www.dreamworkhq.com/job/53016cc7-6b66-482a-9b57-802c9698d02b?utm_source=github&utm_campaign=gh-tech-internships) | Lisbon, Lisboa, Portugal (Hybrid) |  | 1mo |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Extracurricular Internship: Product Compliance Engineer (f/m/div.)](https://www.dreamworkhq.com/job/00bb3548-b628-4333-b6e4-6059e522f9d2?utm_source=github&utm_campaign=gh-tech-internships) | Aveiro, , Portugal (Hybrid) |  | 5d |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Extracurricular Internship: Gateway Firmware Engineer (f/m/div.)](https://www.dreamworkhq.com/job/1861e69b-2283-4fe2-8684-e6bfcfb4f6ce?utm_source=github&utm_campaign=gh-tech-internships) | Aveiro, , Portugal (Hybrid) |  | 5d |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Extracurricular Internship: Infrastructure & DevOps Engineer (f/m/div.)](https://www.dreamworkhq.com/job/6dcd87c1-7791-49f9-9d45-ea9672e08b7f?utm_source=github&utm_campaign=gh-tech-internships) | Aveiro, , Portugal (Hybrid) |  | 5d |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Extracurricular Internship: Process Digitalization and Automation (f/m/…](https://www.dreamworkhq.com/job/9e336cdc-0310-438c-abd1-84bc6212bcc1?utm_source=github&utm_campaign=gh-tech-internships) | Aveiro, , Portugal (Hybrid) |  | 5d |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Extracurricular Internship: AI & Automation Development (f/m/div.)](https://www.dreamworkhq.com/job/ed3007a6-acb1-4d34-a551-a20d736754b1?utm_source=github&utm_campaign=gh-tech-internships) | Aveiro, , Portugal |  | 5d |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Extracurricular Internship: Agile Moderator & Data Engineering (f/m/div…](https://www.dreamworkhq.com/job/fdcf4146-33d5-4607-9c0b-4fbe010ee471?utm_source=github&utm_campaign=gh-tech-internships) | Aveiro, , Portugal (Hybrid) |  | 5d |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Extracurricular Internship: Design for Environment Engineer (f/m/div.)](https://www.dreamworkhq.com/job/fe58b4d4-743b-4de3-ad83-fa4375cd09e2?utm_source=github&utm_campaign=gh-tech-internships) | Aveiro, , Portugal (Hybrid) |  | 5d |
+| **[Lokainc](https://www.dreamworkhq.com/c/lokainc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineering Intern](https://www.dreamworkhq.com/job/6e07f617-19b8-4111-88f1-561fed69750f?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Portugal) |  | 13d |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Academic Internship in Software Engineering (f/m/div.)](https://www.dreamworkhq.com/job/3f768469-d672-4aff-8e94-7f05c7f5dedd?utm_source=github&utm_campaign=gh-tech-internships) | Braga, Braga, Portugal (Hybrid) |  | 24d |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [C# Developer - Internship (f/m/div.)](https://www.dreamworkhq.com/job/05045190-e0a8-49bc-a998-fe74965b6e40?utm_source=github&utm_campaign=gh-tech-internships) | Ovar, , Portugal (Hybrid) |  | 1mo |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [DevOps Engineer - Internship (f/m/div.)](https://www.dreamworkhq.com/job/7967e446-6e83-416c-af5b-ed6defeaee31?utm_source=github&utm_campaign=gh-tech-internships) | Ovar, , Portugal (Hybrid) |  | 1mo |
+| **[Transperfect](https://www.dreamworkhq.com/c/transperfect.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineering \| Intern \| Lisbon](https://www.dreamworkhq.com/job/53016cc7-6b66-482a-9b57-802c9698d02b?utm_source=github&utm_campaign=gh-tech-internships) | Lisbon, Lisboa, Portugal (Hybrid) |  | 2mo |
 
-### Other (5)
+### Other (4)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Extracurricular Internship: UX/UI Designer (f/m/div.)](https://www.dreamworkhq.com/job/fd48f60f-c6df-4687-82cc-e7c2d4992339?utm_source=github&utm_campaign=gh-tech-internships) | Aveiro, , Portugal (Hybrid) |  | 0d |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Academic Internship in Service & Visual Communication Designer Intern (…](https://www.dreamworkhq.com/job/b70706d5-d76c-4c99-9f90-f5d65ccb7c8f?utm_source=github&utm_campaign=gh-tech-internships) | Braga, Braga, Portugal (Hybrid) |  | 10d |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Extracurricular Internship: UX and Product Documentation (f/m/div.)](https://www.dreamworkhq.com/job/59878c16-4049-438b-93f0-e7d792b1cff9?utm_source=github&utm_campaign=gh-tech-internships) | Aveiro, , Portugal (Hybrid) |  | 18d |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Academic Internship in Corporate Governance Information Security & Data…](https://www.dreamworkhq.com/job/8fa60284-82ab-46e2-bb91-f9cff260d0c4?utm_source=github&utm_campaign=gh-tech-internships) | Braga, Braga, Portugal (Hybrid) |  | 18d |
-| **[Devoteam](https://www.dreamworkhq.com/c/devoteam.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Devoteam Cyber Trust \| Cybersecurity Engineer \| IEFP Internship](https://www.dreamworkhq.com/job/476e212a-32c0-42bd-9512-275668e51783?utm_source=github&utm_campaign=gh-tech-internships) | Lisboa, Lisboa, Portugal (Hybrid) |  | 1mo |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Extracurricular Internship: UX/UI Designer (f/m/div.)](https://www.dreamworkhq.com/job/24076018-26c2-4561-ace8-8c4717a371ea?utm_source=github&utm_campaign=gh-tech-internships) | Aveiro, , Portugal (Hybrid) |  | 5d |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Extracurricular Internship: UX and Product Documentation (f/m/div.)](https://www.dreamworkhq.com/job/8862d667-f776-46be-8dcc-995b7a4af701?utm_source=github&utm_campaign=gh-tech-internships) | Aveiro, , Portugal (Hybrid) |  | 5d |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Academic Internship in Service & Visual Communication Designer Intern (…](https://www.dreamworkhq.com/job/b70706d5-d76c-4c99-9f90-f5d65ccb7c8f?utm_source=github&utm_campaign=gh-tech-internships) | Braga, Braga, Portugal (Hybrid) |  | 18d |
+| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Academic Internship in Corporate Governance Information Security & Data…](https://www.dreamworkhq.com/job/8fa60284-82ab-46e2-bb91-f9cff260d0c4?utm_source=github&utm_campaign=gh-tech-internships) | Braga, Braga, Portugal (Hybrid) |  | 26d |
 
 <!-- TABLE_END -->
