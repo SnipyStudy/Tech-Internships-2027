@@ -2,21 +2,20 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**7 currently open roles** · Updated **2026-09-16**
+**6 currently open roles** · Updated **2026-09-17**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-6) · 6 roles
+- [Engineering](#engineering-5) · 5 roles
 - [Other](#other-1) · 1 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (6)
+### Engineering (5)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Equinix](https://www.dreamworkhq.com/c/equinix.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2026년 에퀴닉스 코리아 데이터센터 엔지니어 하반기 인턴／Equinix Korea Data Center Engineering …](https://www.dreamworkhq.com/job/04e3dbdc-a020-4395-8c5f-1568ca4519d9?utm_source=github&utm_campaign=gh-tech-internships) | Seoul (Hybrid) |  | 5d |
-| **[RenesasElectronics](https://www.dreamworkhq.com/c/renesas.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Analog Design Engineer](https://www.dreamworkhq.com/job/e0fad8a8-6731-4900-b4e0-b738a1721063?utm_source=github&utm_campaign=gh-tech-internships) | Seongnam-si, Gyeonggi-do, Korea, republic of |  | 21d |
+| **[RenesasElectronics](https://www.dreamworkhq.com/c/renesas.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Analog Design Engineer](https://www.dreamworkhq.com/job/e0fad8a8-6731-4900-b4e0-b738a1721063?utm_source=github&utm_campaign=gh-tech-internships) | Seongnam-si, Gyeonggi-do, Korea, republic of |  | 22d |
 | **[Palantir](https://www.dreamworkhq.com/c/palantir.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Forward Deployed Software Engineer, Internship - Commercial](https://www.dreamworkhq.com/job/06198623-e39b-4a37-bf60-f86188b21b71?utm_source=github&utm_campaign=gh-tech-internships) | Seoul, South Korea (Hybrid) |  | 1mo |
 | **[42dot](https://www.dreamworkhq.com/c/42dot.ai?utm_source=github&utm_campaign=gh-tech-internships)** | [\[MS/PhD Intern\] AI Engineer (정규직 전환형)](https://www.dreamworkhq.com/job/8af6cb82-89e1-480a-817a-68b9308887d6?utm_source=github&utm_campaign=gh-tech-internships) | Pangyo (Software Dream Center), South Korea (Hybrid) |  | 1mo |
 | **[Sendbird](https://www.dreamworkhq.com/c/delight.ai?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Agent Engineer, Intern](https://www.dreamworkhq.com/job/b1de5eb5-9fb0-4431-b48a-abf710b64d84?utm_source=github&utm_campaign=gh-tech-internships) | Seoul, South Korea |  | 3mo |
@@ -26,6 +25,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[General Motors](https://www.dreamworkhq.com/c/generalmotors.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Program Management Intern](https://www.dreamworkhq.com/job/b9e2ac69-d606-450b-a72e-93cddcc63d72?utm_source=github&utm_campaign=gh-tech-internships) | Incheon, Korea, Republic of |  | 6d |
+| **[General Motors](https://www.dreamworkhq.com/c/generalmotors.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Program Management Intern](https://www.dreamworkhq.com/job/b9e2ac69-d606-450b-a72e-93cddcc63d72?utm_source=github&utm_campaign=gh-tech-internships) | Incheon, Korea, Republic of |  | 7d |
 
 <!-- TABLE_END -->
