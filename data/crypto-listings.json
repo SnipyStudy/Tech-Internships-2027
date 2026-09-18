@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-09-17T22:19:12.926Z",
+  "generatedAt": "2026-09-18T21:50:36.421Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
-  "count": 106,
+  "count": 108,
   "listings": [
+    {
+      "id": "9e77fa45-c909-4001-aacc-0d8e3fd998ca",
+      "title": "Binance Accelerator Program - Quantitative Trading Strategy Algorithm",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "Hong Kong",
+      "locationCountryCode": "HK",
+      "functionPrimary": "Engineering",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-09-17T09:30:34.807Z",
+      "firstIndexedAt": "2026-09-18T13:01:31.607Z",
+      "url": "https://www.dreamworkhq.com/job/9e77fa45-c909-4001-aacc-0d8e3fd998ca?utm_source=github&utm_campaign=gh-tech-internships"
+    },
     {
       "id": "80beecfb-8abe-4581-bb9d-70b1155b179f",
       "title": "Software Intern Engineer for Crypto and Cross Domain Solutions",
@@ -385,7 +401,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-08-31T18:06:05.804Z",
+      "postedAt": "2026-08-31T20:18:02.956Z",
       "firstIndexedAt": "2026-09-01T21:52:21.114Z",
       "url": "https://www.dreamworkhq.com/job/b38d8f84-ee4a-4a39-9b75-e74cad9658e7?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -636,7 +652,7 @@
       "companyDomain": "certik.com",
       "location": "Europe / Asia",
       "locationCountryCode": null,
-      "functionPrimary": "Security",
+      "functionPrimary": "Engineering",
       "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
@@ -932,22 +948,6 @@
       "postedAt": "2026-07-09T07:09:11.201Z",
       "firstIndexedAt": "2026-07-10T06:11:17.871Z",
       "url": "https://www.dreamworkhq.com/job/90d39fd8-f9dc-47d7-aac0-f7bffa370760?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "04ba16df-b099-480c-bec9-42abda7ad11f",
-      "title": "Binance Accelerator Program - Talent Acquisition",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "UAE, Dubai",
-      "locationCountryCode": "AE",
-      "functionPrimary": "HR",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-07-08T15:33:39.653Z",
-      "firstIndexedAt": "2026-07-09T06:02:27.387Z",
-      "url": "https://www.dreamworkhq.com/job/04ba16df-b099-480c-bec9-42abda7ad11f?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "264fe936-8a95-49a0-8c7a-e629c40fc043",
@@ -1398,6 +1398,22 @@
       "url": "https://www.dreamworkhq.com/job/07adc214-1f66-48e2-a1db-d04bdc1a5116?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
+      "id": "1d1640e5-6b25-4162-b850-cb92a3e612e9",
+      "title": "Binance Accelerator Program - AI Product Manager",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "Hong Kong",
+      "locationCountryCode": "HK",
+      "functionPrimary": "Product",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-01-26T06:27:50.305Z",
+      "firstIndexedAt": "2026-05-15T18:04:57.164Z",
+      "url": "https://www.dreamworkhq.com/job/1d1640e5-6b25-4162-b850-cb92a3e612e9?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
       "id": "2a08bbf1-54e4-484e-9663-8a4b08dd5449",
       "title": "Binance Accelerator Program - UI/UX Design",
       "company": "Binance",
@@ -1588,6 +1604,22 @@
       "postedAt": "2026-05-13T06:45:44.654Z",
       "firstIndexedAt": "2026-05-15T18:04:56.718Z",
       "url": "https://www.dreamworkhq.com/job/3e9dbee8-4c36-44a2-8c6f-5bf55ec88e39?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "4dff08ac-fd78-4ede-9b85-e190332f8bab",
+      "title": "Binance Accelerator Program - Blockchain Data Scientist (AI/LLM)",
+      "company": "Binance",
+      "companyDomain": "binance.com",
+      "location": "Taiwan, Taipei",
+      "locationCountryCode": "TW",
+      "functionPrimary": "Data Science",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2024-06-28T08:19:49.110Z",
+      "firstIndexedAt": "2026-05-15T18:04:56.718Z",
+      "url": "https://www.dreamworkhq.com/job/4dff08ac-fd78-4ede-9b85-e190332f8bab?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "501a8699-3c72-4359-8579-5f3f6670b57b",
