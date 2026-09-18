@@ -2,30 +2,30 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**42 currently open roles** · Updated **2026-09-17**
+**39 currently open roles** · Updated **2026-09-18**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Engineering](#engineering-26) · 26 roles
-- [Data Science](#data-science-11) · 11 roles
+- [Engineering](#engineering-25) · 25 roles
+- [Data Science](#data-science-9) · 9 roles
 - [Other](#other-5) · 5 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Engineering (26)
+### Engineering (25)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[EURES Netherlands](https://www.dreamworkhq.com/c/greenpeace.nl?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Tester Intern](https://www.dreamworkhq.com/job/aee01a66-74c4-41ba-a0f1-1eadd3caa21e?utm_source=github&utm_campaign=gh-tech-internships) | Overijssel, Netherlands |  | 9d |
-| **[Thermo Fisher Scientific](https://www.dreamworkhq.com/c/thermofisher.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Software Engineer - Infrastructure as Code](https://www.dreamworkhq.com/job/8e0f2cda-ae39-4696-abfc-e23171b8fde5?utm_source=github&utm_campaign=gh-tech-internships) | Eindhoven, Netherlands |  | 9d |
-| **[EURES Netherlands (Professional)](https://www.dreamworkhq.com/c/smartconnections.nl?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Tester Intern](https://www.dreamworkhq.com/job/cafcd90e-634b-423f-b168-50a0f674968c?utm_source=github&utm_campaign=gh-tech-internships) | Overijssel, Netherlands |  | 9d |
-| **[Kinaxis](https://www.dreamworkhq.com/c/kinaxis.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Software Developer Quality Assurance](https://www.dreamworkhq.com/job/5511f980-aa1a-4739-85a9-af1ef9c8b261?utm_source=github&utm_campaign=gh-tech-internships) | Rotterdam, NL (Hybrid) |  | 12d |
-| **[EURES Netherlands (Professional)](https://www.dreamworkhq.com/c/solutionnow.nl?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Intern](https://www.dreamworkhq.com/job/de74e8e3-f6c4-4d97-83e7-3bb85d844152?utm_source=github&utm_campaign=gh-tech-internships) | Noord-Holland, Netherlands |  | 19d |
-| **[EURES Netherlands](https://www.dreamworkhq.com/c/dish.nl?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Intern](https://www.dreamworkhq.com/job/1230e9ee-1504-423a-9285-6f1f4f408b53?utm_source=github&utm_campaign=gh-tech-internships) | Noord-Holland, Netherlands |  | 19d |
-| **[Brunswick](https://www.dreamworkhq.com/c/brunswick.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineering Intern](https://www.dreamworkhq.com/job/1a0ef1e1-4654-40bc-ad7c-14f09f734cbc?utm_source=github&utm_campaign=gh-tech-internships) | Amsterdam, Netherlands |  | 20d |
-| **[Workwize](https://www.dreamworkhq.com/c/goworkwize.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Product Engineer](https://www.dreamworkhq.com/job/08d2b25e-4c70-444e-ab94-daa0d40183a3?utm_source=github&utm_campaign=gh-tech-internships) | Amsterdam (Hybrid) |  | 26d |
+| **[Keenfinity](https://www.dreamworkhq.com/c/keenfinity-group.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Research Intern – AI-Based Audio Optimization](https://www.dreamworkhq.com/job/8e578d98-38ac-4a78-b1a6-95a20ef504b7?utm_source=github&utm_campaign=gh-tech-internships) | Eindhoven, NB, Netherlands (Hybrid) |  | 0d |
+| **[EURES Netherlands](https://www.dreamworkhq.com/c/greenpeace.nl?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Tester Intern](https://www.dreamworkhq.com/job/aee01a66-74c4-41ba-a0f1-1eadd3caa21e?utm_source=github&utm_campaign=gh-tech-internships) | Overijssel, Netherlands |  | 10d |
+| **[Thermo Fisher Scientific](https://www.dreamworkhq.com/c/thermofisher.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Software Engineer - Infrastructure as Code](https://www.dreamworkhq.com/job/8e0f2cda-ae39-4696-abfc-e23171b8fde5?utm_source=github&utm_campaign=gh-tech-internships) | Eindhoven, Netherlands |  | 10d |
+| **[EURES Netherlands (Professional)](https://www.dreamworkhq.com/c/smartconnections.nl?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Tester Intern](https://www.dreamworkhq.com/job/cafcd90e-634b-423f-b168-50a0f674968c?utm_source=github&utm_campaign=gh-tech-internships) | Overijssel, Netherlands |  | 10d |
+| **[Kinaxis](https://www.dreamworkhq.com/c/kinaxis.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Software Developer Quality Assurance](https://www.dreamworkhq.com/job/5511f980-aa1a-4739-85a9-af1ef9c8b261?utm_source=github&utm_campaign=gh-tech-internships) | Rotterdam, NL (Hybrid) |  | 13d |
+| **[EURES Netherlands (Professional)](https://www.dreamworkhq.com/c/solutionnow.nl?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Intern](https://www.dreamworkhq.com/job/de74e8e3-f6c4-4d97-83e7-3bb85d844152?utm_source=github&utm_campaign=gh-tech-internships) | Noord-Holland, Netherlands |  | 20d |
+| **[EURES Netherlands](https://www.dreamworkhq.com/c/dish.nl?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Intern](https://www.dreamworkhq.com/job/1230e9ee-1504-423a-9285-6f1f4f408b53?utm_source=github&utm_campaign=gh-tech-internships) | Noord-Holland, Netherlands |  | 20d |
+| **[Brunswick](https://www.dreamworkhq.com/c/brunswick.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineering Intern](https://www.dreamworkhq.com/job/1a0ef1e1-4654-40bc-ad7c-14f09f734cbc?utm_source=github&utm_campaign=gh-tech-internships) | Amsterdam, Netherlands |  | 21d |
+| **[Workwize](https://www.dreamworkhq.com/c/goworkwize.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Product Engineer](https://www.dreamworkhq.com/job/08d2b25e-4c70-444e-ab94-daa0d40183a3?utm_source=github&utm_campaign=gh-tech-internships) | Amsterdam (Hybrid) |  | 27d |
 | **[Optiverus](https://www.dreamworkhq.com/c/optiver.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Internship (2027 Start)](https://www.dreamworkhq.com/job/944108f4-2c86-47a9-8500-cb0c01212cee?utm_source=github&utm_campaign=gh-tech-internships) | Amsterdam, North Holland, Netherlands |  | 1mo |
-| **[Tencent](https://www.dreamworkhq.com/c/tencent.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Product Engineer Intern — Game Development](https://www.dreamworkhq.com/job/b29e634b-8668-44f8-b215-79d1260264cb?utm_source=github&utm_campaign=gh-tech-internships) | Netherlands-Amsterdam |  | 1mo |
 | **[Imc](https://www.dreamworkhq.com/c/imc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/f3eba291-e79c-4e7d-8dce-9a334cd1f05f?utm_source=github&utm_campaign=gh-tech-internships) | Amsterdam, Netherlands |  | 1mo |
 | **[Imc](https://www.dreamworkhq.com/c/imc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Hardware Engineer Intern](https://www.dreamworkhq.com/job/f866878d-45b7-455e-ace7-2acc6676dd35?utm_source=github&utm_campaign=gh-tech-internships) | Amsterdam, Netherlands |  | 1mo |
 | **[Damen](https://www.dreamworkhq.com/c/damen.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Solution Developer](https://www.dreamworkhq.com/job/b16af6f7-decb-4619-8c4a-795d7ef599da?utm_source=github&utm_campaign=gh-tech-internships) | Gorinchem |  | 1mo |
@@ -39,24 +39,21 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[International Criminal Court](https://www.dreamworkhq.com/c/icc-cpi.int?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Database and ERP Administration](https://www.dreamworkhq.com/job/4cb191e7-1192-4838-91ff-adca00741c15?utm_source=github&utm_campaign=gh-tech-internships) | The Hague - NL |  | 2mo |
 | **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Hardware Robustness for SMI Register Interfaces in Automot…](https://www.dreamworkhq.com/job/83aa9914-6ace-415a-81fe-f592ea3fd846?utm_source=github&utm_campaign=gh-tech-internships) | Eindhoven (Hybrid) |  | 2mo |
 | **[Akqa](https://www.dreamworkhq.com/c/akqa.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Developer Intern (AI)](https://www.dreamworkhq.com/job/59b2598f-a10f-4ac6-9c47-5b9db28137a3?utm_source=github&utm_campaign=gh-tech-internships) | Amsterdam (Hybrid) |  | 3mo |
-| **[Keenfinity](https://www.dreamworkhq.com/c/keenfinity-group.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Research Intern – AI-Based Audio Optimization](https://www.dreamworkhq.com/job/db91ce4a-504c-40c0-ba96-6cfd88be5fd4?utm_source=github&utm_campaign=gh-tech-internships) | Eindhoven, NB, Netherlands (Hybrid) |  | 3mo |
 | **[Lely1](https://www.dreamworkhq.com/c/lely.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Flutter on Embedded Linux with Hardware Acceleration](https://www.dreamworkhq.com/job/66efb6e6-aec3-4190-8def-997cb4f6a00c?utm_source=github&utm_campaign=gh-tech-internships) | Maassluis, ZH, Netherlands |  | 3mo |
 | **[Keysight](https://www.dreamworkhq.com/c/keysight.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Electrical Hardware & Test Automation Engineering Intern (Python & PCB …](https://www.dreamworkhq.com/job/46caa2c0-c58b-4ef3-9d2c-135d5f8cb316?utm_source=github&utm_campaign=gh-tech-internships) | Delft, Netherlands |  | 3mo |
 
-### Data Science (11)
+### Data Science (9)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Philips](https://www.dreamworkhq.com/c/philips.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Data Science for Multidimensional Market Modelling](https://www.dreamworkhq.com/job/286d5809-3548-451c-9091-05d6a7274e75?utm_source=github&utm_campaign=gh-tech-internships) | Amsterdam |  | 0d |
-| **[Rabobank](https://www.dreamworkhq.com/c/rabobank.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Data Quality Support](https://www.dreamworkhq.com/job/1d1f4099-3547-4a6d-9cdd-5e96abba7993?utm_source=github&utm_campaign=gh-tech-internships) | Utrecht Croeselaan 18 (Hybrid) |  | 5d |
-| **[ICSGBLCOR](https://www.dreamworkhq.com/c/ing.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship Scalable Data & Analytics Services](https://www.dreamworkhq.com/job/f83df0de-46f1-4a7d-adff-e113d8a7cd3e?utm_source=github&utm_campaign=gh-tech-internships) | CDR (Amsterdam - Cedar) (Hybrid) |  | 7d |
-| **[Nngroup](https://www.dreamworkhq.com/c/nngroup.com?utm_source=github&utm_campaign=gh-tech-internships)** | [HBO/WO Thesis Internship KPI Analytics](https://www.dreamworkhq.com/job/3dba218d-a581-497a-8b98-36a705f143c7?utm_source=github&utm_campaign=gh-tech-internships) | Rotterdam |  | 11d |
-| **[Lely1](https://www.dreamworkhq.com/c/lely.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Data Analysis & Advisory](https://www.dreamworkhq.com/job/e43cf137-a199-4b91-9b71-650f4de5a015?utm_source=github&utm_campaign=gh-tech-internships) | Maassluis, ZH, Netherlands |  | 21d |
-| **[Fugro](https://www.dreamworkhq.com/c/fugro.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data & Analytics Internship](https://www.dreamworkhq.com/job/ec340b65-1fca-4f2d-8db7-fc2390863e34?utm_source=github&utm_campaign=gh-tech-internships) | Prismastraat 3 Nootdorp NL |  | 27d |
+| **[Philips](https://www.dreamworkhq.com/c/philips.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Data Science for Multidimensional Market Modelling](https://www.dreamworkhq.com/job/286d5809-3548-451c-9091-05d6a7274e75?utm_source=github&utm_campaign=gh-tech-internships) | Amsterdam |  | 1d |
+| **[Rabobank](https://www.dreamworkhq.com/c/rabobank.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Data Quality Support](https://www.dreamworkhq.com/job/1d1f4099-3547-4a6d-9cdd-5e96abba7993?utm_source=github&utm_campaign=gh-tech-internships) | Utrecht Croeselaan 18 (Hybrid) |  | 6d |
+| **[Nngroup](https://www.dreamworkhq.com/c/nngroup.com?utm_source=github&utm_campaign=gh-tech-internships)** | [HBO/WO Thesis Internship KPI Analytics](https://www.dreamworkhq.com/job/3dba218d-a581-497a-8b98-36a705f143c7?utm_source=github&utm_campaign=gh-tech-internships) | Rotterdam |  | 12d |
+| **[Lely1](https://www.dreamworkhq.com/c/lely.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship: Data Analysis & Advisory](https://www.dreamworkhq.com/job/e43cf137-a199-4b91-9b71-650f4de5a015?utm_source=github&utm_campaign=gh-tech-internships) | Maassluis, ZH, Netherlands |  | 22d |
+| **[Fugro](https://www.dreamworkhq.com/c/fugro.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data & Analytics Internship](https://www.dreamworkhq.com/job/ec340b65-1fca-4f2d-8db7-fc2390863e34?utm_source=github&utm_campaign=gh-tech-internships) | Prismastraat 3 Nootdorp NL |  | 28d |
 | **[Bynder](https://www.dreamworkhq.com/c/bynder.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Customer Analytics Internship](https://www.dreamworkhq.com/job/c29ccb39-96a1-4255-972b-be6e1143f654?utm_source=github&utm_campaign=gh-tech-internships) | Amsterdam (Hybrid) |  | 1mo |
 | **[Myhrabc](https://www.dreamworkhq.com/c/cencora.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, Data](https://www.dreamworkhq.com/job/879fc4bf-3b08-460a-8a73-76ae2c7726e8?utm_source=github&utm_campaign=gh-tech-internships) | WEMEA > Netherlands > Veghel Campus |  | 1mo |
 | **[VARO](https://www.dreamworkhq.com/c/varo.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Commercial Analytics Intern](https://www.dreamworkhq.com/job/02ae31c8-23f9-483c-87e5-da9524e430ff?utm_source=github&utm_campaign=gh-tech-internships) | Rotterdam, Netherlands |  | 2mo |
-| **[Mars Incorporated](https://www.dreamworkhq.com/c/mars.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Thesis internship – Forecast analytics](https://www.dreamworkhq.com/job/1481e8ac-c6a2-48a1-b733-3f40c56e65c0?utm_source=github&utm_campaign=gh-tech-internships) | NLD-North Brabant-Veghel (Hybrid) | $45K–$51K | 2mo |
 | **[Workwize](https://www.dreamworkhq.com/c/goworkwize.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data & AI Intern](https://www.dreamworkhq.com/job/7e262c9b-a932-4d26-865f-44ec4f2082d6?utm_source=github&utm_campaign=gh-tech-internships) | Amsterdam (Hybrid) |  | 2mo |
 
 ### Other (5)
