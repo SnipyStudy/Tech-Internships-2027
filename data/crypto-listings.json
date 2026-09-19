@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T21:50:36.421Z",
+  "generatedAt": "2026-09-19T21:37:49.252Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
-  "count": 108,
+  "count": 109,
   "listings": [
     {
       "id": "9e77fa45-c909-4001-aacc-0d8e3fd998ca",
@@ -214,22 +214,6 @@
       "url": "https://www.dreamworkhq.com/job/2cd9118e-305a-4351-848a-bbb15de4a451?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "75198d6b-8b2d-4889-bed3-16cba3d9f1f1",
-      "title": "[Intern] Test Development Engineer Intern",
-      "company": "Bybit",
-      "companyDomain": "bybit.com",
-      "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
-      "locationCountryCode": "MY",
-      "functionPrimary": "Engineering",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-09T05:07:06.000Z",
-      "firstIndexedAt": "2026-09-09T15:30:43.343Z",
-      "url": "https://www.dreamworkhq.com/job/75198d6b-8b2d-4889-bed3-16cba3d9f1f1?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "b32a6e9a-819a-4072-9856-4513512b6348",
       "title": "[Intern] Test Development Engineer Intern （Trading Engine）",
       "company": "Bybit",
@@ -244,6 +228,22 @@
       "postedAt": "2026-09-09T04:26:41.000Z",
       "firstIndexedAt": "2026-09-09T15:30:43.343Z",
       "url": "https://www.dreamworkhq.com/job/b32a6e9a-819a-4072-9856-4513512b6348?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "ba4ac05c-2ad7-48cd-bf33-993d86e8b105",
+      "title": "[Intern] Test Development Engineer Intern",
+      "company": "Bybit",
+      "companyDomain": "bybit.com",
+      "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
+      "locationCountryCode": "MY",
+      "functionPrimary": "Engineering",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-09-09T06:56:44.000Z",
+      "firstIndexedAt": "2026-09-09T15:30:43.343Z",
+      "url": "https://www.dreamworkhq.com/job/ba4ac05c-2ad7-48cd-bf33-993d86e8b105?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "e37426e2-d0d1-4600-b0e1-01f2c0236399",
@@ -401,7 +401,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-08-31T20:18:02.956Z",
+      "postedAt": "2026-08-31T15:15:59.988Z",
       "firstIndexedAt": "2026-09-01T21:52:21.114Z",
       "url": "https://www.dreamworkhq.com/job/b38d8f84-ee4a-4a39-9b75-e74cad9658e7?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -743,11 +743,11 @@
     },
     {
       "id": "afada5bd-1851-482f-9140-98c2a78ec41c",
-      "title": "Binance Accelerator Program- CEO Office (Monitorship)",
+      "title": "Binance Accelerator Program- Monitorship",
       "company": "Binance",
       "companyDomain": "binance.com",
-      "location": "Asia",
-      "locationCountryCode": null,
+      "location": "Mexico, Mexico City",
+      "locationCountryCode": "MX",
       "functionPrimary": "Operations",
       "remoteType": "remote",
       "salaryMin": null,
@@ -1220,6 +1220,22 @@
       "postedAt": "2026-03-26T19:40:01.700Z",
       "firstIndexedAt": "2026-05-28T11:03:02.801Z",
       "url": "https://www.dreamworkhq.com/job/035a204c-8d01-46b6-9a9c-ff77d9e588e1?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
+      "id": "92894c54-3a6a-481e-b512-618de6c82bc5",
+      "title": "Software Engineer - 2027 New Grads",
+      "company": "Ellipsislabs",
+      "companyDomain": "ellipsislabs.com",
+      "location": "New York, New York",
+      "locationCountryCode": "US",
+      "functionPrimary": "Engineering",
+      "remoteType": "hybrid",
+      "salaryMin": 150000,
+      "salaryMax": 200000,
+      "salaryPeriod": "annual",
+      "postedAt": "2026-03-26T19:41:41.029Z",
+      "firstIndexedAt": "2026-05-28T11:03:02.801Z",
+      "url": "https://www.dreamworkhq.com/job/92894c54-3a6a-481e-b512-618de6c82bc5?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "7f57b282-6729-4c91-82f4-455bd835b694",
