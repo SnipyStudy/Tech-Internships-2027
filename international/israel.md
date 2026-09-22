@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**7 currently open roles** · Updated **2026-09-21**
+**7 currently open roles** · Updated **2026-09-22**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,9 +15,9 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Verification Intern](https://www.dreamworkhq.com/job/3b054fcb-fa55-4936-bcbd-0e890f7eabb5?utm_source=github&utm_campaign=gh-tech-internships) | Petah-Tikva |  | 4d |
-| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Infrastructure Engineer Intern](https://www.dreamworkhq.com/job/71ba3ad5-fcc8-4610-8edb-6b939a57bb6e?utm_source=github&utm_campaign=gh-tech-internships) | Petah-Tikva |  | 12d |
-| **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Part-Time Software Engineering BS/MS Intern, 2027](https://www.dreamworkhq.com/job/d44f3b62-e9dc-4d87-bebe-0d9eb039d550?utm_source=github&utm_campaign=gh-tech-internships) | Tel Aviv, Israel, Haifa, Israel |  | 16d |
+| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Design Verification Intern](https://www.dreamworkhq.com/job/3b054fcb-fa55-4936-bcbd-0e890f7eabb5?utm_source=github&utm_campaign=gh-tech-internships) | Petah-Tikva |  | 5d |
+| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Infrastructure Engineer Intern](https://www.dreamworkhq.com/job/71ba3ad5-fcc8-4610-8edb-6b939a57bb6e?utm_source=github&utm_campaign=gh-tech-internships) | Petah-Tikva |  | 13d |
+| **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Part-Time Software Engineering BS/MS Intern, 2027](https://www.dreamworkhq.com/job/d44f3b62-e9dc-4d87-bebe-0d9eb039d550?utm_source=github&utm_campaign=gh-tech-internships) | Tel Aviv, Israel, Haifa, Israel |  | 17d |
 | **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Hardware/Silicon Engineering PhD Intern, 2027](https://www.dreamworkhq.com/job/011d2187-1bc3-452b-afae-dc843acd6d07?utm_source=github&utm_campaign=gh-tech-internships) | Tel Aviv, Israel |  | 1mo |
 | **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Part-Time Software Engineering PhD Intern, 2027](https://www.dreamworkhq.com/job/db2bfb76-3a04-4f93-83ae-39665cbf762d?utm_source=github&utm_campaign=gh-tech-internships) | Tel Aviv, Israel |  | 1mo |
 | **[HPE](https://www.dreamworkhq.com/c/hpe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Backend Intern](https://www.dreamworkhq.com/job/28becc6b-0184-43fd-b888-72aa88ce66b0?utm_source=github&utm_campaign=gh-tech-internships) | Herzliya, Israel (Hybrid) |  | 1mo |

@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**10 currently open roles** · Updated **2026-09-21**
+**10 currently open roles** · Updated **2026-09-22**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,7 +15,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Devoteam](https://www.dreamworkhq.com/c/devoteam.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Internship (AI-Powered Software Factory)](https://www.dreamworkhq.com/job/94e08884-ae76-46ed-8390-dafeac466c16?utm_source=github&utm_campaign=gh-tech-internships) | Machelen, Vlaanderen, Belgium (Hybrid) |  | 19d |
+| **[Devoteam](https://www.dreamworkhq.com/c/devoteam.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Internship (AI-Powered Software Factory)](https://www.dreamworkhq.com/job/94e08884-ae76-46ed-8390-dafeac466c16?utm_source=github&utm_campaign=gh-tech-internships) | Machelen, Vlaanderen, Belgium (Hybrid) |  | 20d |
 | **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [School Internship in AI Agent Development in Deals M&A (2026-2027)](https://www.dreamworkhq.com/job/24dae90f-079f-4a72-b9b9-9e7db95d0245?utm_source=github&utm_campaign=gh-tech-internships) | Brussels (Hybrid) |  | 2mo |
 | **[TechWolf](https://www.dreamworkhq.com/c/techwolf.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship - Software Engineer](https://www.dreamworkhq.com/job/03e09bf0-cb87-4ada-9eea-787af96ade3b?utm_source=github&utm_campaign=gh-tech-internships) | Ghent, Vlaams Gewest, Belgium |  | 2mo |
 | **[1000](https://www.dreamworkhq.com/c/1000company.com.br?utm_source=github&utm_campaign=gh-tech-internships)** | [Engineering Internship - Automation/Mechanical/Mechatronic/Data Science…](https://www.dreamworkhq.com/job/412c98ea-9787-4beb-b449-e6780ca5821e?utm_source=github&utm_campaign=gh-tech-internships) | Brussels | $31K | 2mo |
