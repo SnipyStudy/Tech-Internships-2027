@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**8 currently open roles** · Updated **2026-09-22**
+**8 currently open roles** · Updated **2026-09-23**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,12 +14,12 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Software Dev Engineer Intern - Iași, Romania](https://www.dreamworkhq.com/job/2b088f51-aaf3-4dcc-bd10-792f7df790d0?utm_source=github&utm_campaign=gh-tech-internships) | RO, Iasi |  | 1d |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Software Dev Engineer Intern - Bucharest, Romania](https://www.dreamworkhq.com/job/bfa33365-2606-439a-9dae-01eb62f049f9?utm_source=github&utm_campaign=gh-tech-internships) | RO, Bucharest |  | 1d |
-| **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Software Engineer – Embedded Benchmarking & Thermal Characteriza…](https://www.dreamworkhq.com/job/be66ca81-e29e-4143-aa5f-20b040d4819d?utm_source=github&utm_campaign=gh-tech-internships) | Bucharest (Hybrid) |  | 13d |
-| **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineering BS/MS Intern, 2027](https://www.dreamworkhq.com/job/e600cb22-fd9b-4d52-9937-79dc6e59cf23?utm_source=github&utm_campaign=gh-tech-internships) | Bucharest, Romania |  | 17d |
-| **[Stripe](https://www.dreamworkhq.com/c/stripe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer, Intern](https://www.dreamworkhq.com/job/4d54816c-bce3-4715-8bcb-9e890bd744a8?utm_source=github&utm_campaign=gh-tech-internships) | Bucharest | $31K | 21d |
-| **[Axpo Group](https://www.dreamworkhq.com/c/axpo.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Design Engineer / BIM Modeler (f/m/d)](https://www.dreamworkhq.com/job/851180e8-78d0-45cd-b4c8-3c38539688dc?utm_source=github&utm_campaign=gh-tech-internships) | Cluj-Napoca, RO |  | 25d |
+| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Software Dev Engineer Intern - Iași, Romania](https://www.dreamworkhq.com/job/2b088f51-aaf3-4dcc-bd10-792f7df790d0?utm_source=github&utm_campaign=gh-tech-internships) | RO, Iasi |  | 2d |
+| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Software Dev Engineer Intern - Bucharest, Romania](https://www.dreamworkhq.com/job/bfa33365-2606-439a-9dae-01eb62f049f9?utm_source=github&utm_campaign=gh-tech-internships) | RO, Bucharest |  | 2d |
+| **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Software Engineer – Embedded Benchmarking & Thermal Characteriza…](https://www.dreamworkhq.com/job/be66ca81-e29e-4143-aa5f-20b040d4819d?utm_source=github&utm_campaign=gh-tech-internships) | Bucharest (Hybrid) |  | 14d |
+| **[Google](https://www.dreamworkhq.com/c/google.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineering BS/MS Intern, 2027](https://www.dreamworkhq.com/job/e600cb22-fd9b-4d52-9937-79dc6e59cf23?utm_source=github&utm_campaign=gh-tech-internships) | Bucharest, Romania |  | 18d |
+| **[Stripe](https://www.dreamworkhq.com/c/stripe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer, Intern](https://www.dreamworkhq.com/job/4d54816c-bce3-4715-8bcb-9e890bd744a8?utm_source=github&utm_campaign=gh-tech-internships) | Bucharest | $31K | 22d |
+| **[Axpo Group](https://www.dreamworkhq.com/c/axpo.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Design Engineer / BIM Modeler (f/m/d)](https://www.dreamworkhq.com/job/851180e8-78d0-45cd-b4c8-3c38539688dc?utm_source=github&utm_campaign=gh-tech-internships) | Cluj-Napoca, RO |  | 26d |
 | **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Web Application Developer Intern](https://www.dreamworkhq.com/job/90ce3262-3072-4622-a8ec-2bda7a305ae8?utm_source=github&utm_campaign=gh-tech-internships) | Sibiu (Hybrid) |  | 4mo |
 | **[NXP Semiconductors](https://www.dreamworkhq.com/c/nxp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Intern Student - RealTime Drivers](https://www.dreamworkhq.com/job/cf22a57c-7810-4e1d-adb5-516200cff041?utm_source=github&utm_campaign=gh-tech-internships) | Bucharest (Hybrid) |  | 4mo |
 
