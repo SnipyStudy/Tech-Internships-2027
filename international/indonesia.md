@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**10 currently open roles** · Updated **2026-09-23**
+**10 currently open roles** · Updated **2026-09-24**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -15,7 +15,7 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Go To Group](https://www.dreamworkhq.com/c/gotgroup.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analyst Intern](https://www.dreamworkhq.com/job/8051c2f1-d245-4d43-9124-c5397a8c64cd?utm_source=github&utm_campaign=gh-tech-internships) | Jakarta |  | 19d |
+| **[Go To Group](https://www.dreamworkhq.com/c/gotgroup.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analyst Intern](https://www.dreamworkhq.com/job/8051c2f1-d245-4d43-9124-c5397a8c64cd?utm_source=github&utm_campaign=gh-tech-internships) | Jakarta |  | 20d |
 | **[Xendit](https://www.dreamworkhq.com/c/xendit.co?utm_source=github&utm_campaign=gh-tech-internships)** | [Data / ML Automation Intern](https://www.dreamworkhq.com/job/1655cc69-9d76-41be-8d7f-dae3faa6860d?utm_source=github&utm_campaign=gh-tech-internships) | Jakarta, Indonesia |  | 1mo |
 | **[Go To Group](https://www.dreamworkhq.com/c/goto.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Scientist Intern](https://www.dreamworkhq.com/job/0cd15551-5375-4482-9f30-dd1ca7a87441?utm_source=github&utm_campaign=gh-tech-internships) | Jakarta |  | 2mo |
 | **[Artefact](https://www.dreamworkhq.com/c/artefact.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Scientist Intern (2024)](https://www.dreamworkhq.com/job/6fd0b3ff-0396-4099-8b4d-a3677d47b89a?utm_source=github&utm_campaign=gh-tech-internships) | Jakarta, Jakarta, Indonesia |  | 3mo |
@@ -26,8 +26,8 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Cermati](https://www.dreamworkhq.com/c/cermati.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/ca7433c7-1021-4d27-8103-1f3e85c40811?utm_source=github&utm_campaign=gh-tech-internships) | Jakarta, Jakarta, Indonesia |  | 0d |
-| **[Nttlimited](https://www.dreamworkhq.com/c/nttlimitedinternal.service-now.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Technical Developer Intern](https://www.dreamworkhq.com/job/b057268c-36a1-413f-8ed4-f39f9c69fbdd?utm_source=github&utm_campaign=gh-tech-internships) | Jakarta, Indonesia |  | 11d |
+| **[Cermati](https://www.dreamworkhq.com/c/cermati.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/ca7433c7-1021-4d27-8103-1f3e85c40811?utm_source=github&utm_campaign=gh-tech-internships) | Jakarta, Jakarta, Indonesia |  | 1d |
+| **[Nttlimited](https://www.dreamworkhq.com/c/nttlimitedinternal.service-now.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Technical Developer Intern](https://www.dreamworkhq.com/job/b057268c-36a1-413f-8ed4-f39f9c69fbdd?utm_source=github&utm_campaign=gh-tech-internships) | Jakarta, Indonesia |  | 12d |
 | **[Global Campus](https://www.dreamworkhq.com/c/globalcampus.sdsu.edu?utm_source=github&utm_campaign=gh-tech-internships)** | [FY 27 - Internship - Enterprise System and Transformation Assurance](https://www.dreamworkhq.com/job/dc5a3c04-2c18-49fc-b919-c7da0c79a3d8?utm_source=github&utm_campaign=gh-tech-internships) | Jakarta |  | 1mo |
 | **[Xendit](https://www.dreamworkhq.com/c/xendit.co?utm_source=github&utm_campaign=gh-tech-internships)** | [Full Stack Developer Intern](https://www.dreamworkhq.com/job/af9adeec-ea6c-4b7a-9b04-13c567e6edd1?utm_source=github&utm_campaign=gh-tech-internships) | Jakarta, Indonesia |  | 1mo |
 

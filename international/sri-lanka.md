@@ -2,7 +2,7 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**6 currently open roles** · Updated **2026-09-23**
+**6 currently open roles** · Updated **2026-09-24**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
@@ -14,10 +14,10 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Sysco](https://www.dreamworkhq.com/c/sysco.jobs?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Software Engineering](https://www.dreamworkhq.com/job/0549a170-81d8-4f23-a6ff-52f521269cff?utm_source=github&utm_campaign=gh-tech-internships) | Sysco LABS - Sri Lanka |  | 0d |
-| **[Sysco](https://www.dreamworkhq.com/c/sysco.jobs?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Site Reliability Engineering](https://www.dreamworkhq.com/job/9df82b59-47ed-4bb1-a647-c4175172ebc7?utm_source=github&utm_campaign=gh-tech-internships) | Sysco LABS - Sri Lanka |  | 0d |
-| **[Sysco](https://www.dreamworkhq.com/c/sysco.jobs?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - DevOps](https://www.dreamworkhq.com/job/4ae5aae3-2754-4ff9-80d2-bd3540190db4?utm_source=github&utm_campaign=gh-tech-internships) | Sysco LABS - Sri Lanka |  | 0d |
-| **[Candidateexp](https://www.dreamworkhq.com/c/candidateexp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Associate, Cloud Engineer (Intern)](https://www.dreamworkhq.com/job/b035a0cb-3212-4aec-8027-194e027997c0?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Sri Lanka) |  | 7d |
+| **[Sysco](https://www.dreamworkhq.com/c/sysco.jobs?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Software Engineering](https://www.dreamworkhq.com/job/0549a170-81d8-4f23-a6ff-52f521269cff?utm_source=github&utm_campaign=gh-tech-internships) | Sysco LABS - Sri Lanka |  | 1d |
+| **[Sysco](https://www.dreamworkhq.com/c/sysco.jobs?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Site Reliability Engineering](https://www.dreamworkhq.com/job/9df82b59-47ed-4bb1-a647-c4175172ebc7?utm_source=github&utm_campaign=gh-tech-internships) | Sysco LABS - Sri Lanka |  | 1d |
+| **[Sysco](https://www.dreamworkhq.com/c/sysco.jobs?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - DevOps](https://www.dreamworkhq.com/job/4ae5aae3-2754-4ff9-80d2-bd3540190db4?utm_source=github&utm_campaign=gh-tech-internships) | Sysco LABS - Sri Lanka |  | 1d |
+| **[Candidateexp](https://www.dreamworkhq.com/c/candidateexp.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Associate, Cloud Engineer (Intern)](https://www.dreamworkhq.com/job/b035a0cb-3212-4aec-8027-194e027997c0?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Sri Lanka) |  | 8d |
 | **[Zebra](https://www.dreamworkhq.com/c/zebra.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2026(6 months) Internship(Sri Lanka) -Software Engineering](https://www.dreamworkhq.com/job/e5d45b1a-c4c9-44d6-97ab-da25da1781cb?utm_source=github&utm_campaign=gh-tech-internships) | Colombo, Sri Lanka (Hybrid) |  | 1mo |
 | **[Zebra](https://www.dreamworkhq.com/c/zebra.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2026(6 months) Internship (Sri Lanka) -Software Engineering](https://www.dreamworkhq.com/job/c1dff3ce-0754-4ddc-b8ad-e97a842f4981?utm_source=github&utm_campaign=gh-tech-internships) | Colombo, Sri Lanka (Hybrid) |  | 1mo |
 
