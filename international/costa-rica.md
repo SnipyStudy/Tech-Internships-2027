@@ -2,20 +2,19 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**3 currently open roles** · Updated **2026-09-25**
+**2 currently open roles** · Updated **2026-09-26**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
-- [Other](#other-3) · 3 roles
+- [Other](#other-2) · 2 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
-### Other (3)
+### Other (2)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [DATA ANALYST INTERN](https://www.dreamworkhq.com/job/423b1f2f-cf9b-4c38-8e70-6d6f51fe941c?utm_source=github&utm_campaign=gh-tech-internships) | San Francisco, Heredia, Costa Rica (Hybrid) |  | 7d |
-| **[Bosch](https://www.dreamworkhq.com/c/bosch.com?utm_source=github&utm_campaign=gh-tech-internships)** | [WEB DEVELOPER INTERN (PYTHON & AUTOMATION)](https://www.dreamworkhq.com/job/329f6368-5003-4f4c-aa3e-c55f7a23c104?utm_source=github&utm_campaign=gh-tech-internships) | San Francisco, Heredia, Costa Rica (Hybrid) |  | 8d |
-| **[JCI](https://www.dreamworkhq.com/c/johnsoncontrols.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Security Application Intern](https://www.dreamworkhq.com/job/82c6fdf7-d6ee-406d-85f2-d63921af60ec?utm_source=github&utm_campaign=gh-tech-internships) | San Jose-San Jose-Costa Rica |  | 20d |
+| **[Moody's](https://www.dreamworkhq.com/c/moodys.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Let's begin! Software Engineer Intern](https://www.dreamworkhq.com/job/20e6312c-f752-4c88-b51f-203ed614c404?utm_source=github&utm_campaign=gh-tech-internships) | Heredia - East Tower |  | 0d |
+| **[JCI](https://www.dreamworkhq.com/c/johnsoncontrols.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Security Application Intern](https://www.dreamworkhq.com/job/82c6fdf7-d6ee-406d-85f2-d63921af60ec?utm_source=github&utm_campaign=gh-tech-internships) | San Jose-San Jose-Costa Rica |  | 21d |
 
 <!-- TABLE_END -->

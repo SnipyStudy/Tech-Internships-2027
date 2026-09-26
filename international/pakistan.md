@@ -1,4 +1,4 @@
-# Tech internships in Saudi Arabia
+# Tech internships in Pakistan
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[HPE](https://www.dreamworkhq.com/c/hpe.com?utm_source=github&utm_campaign=gh-tech-internships)** | [00440K - Data Solutions and Storage Intern (COOP)](https://www.dreamworkhq.com/job/5c57e89a-5a31-4301-aa5a-3e7895741031?utm_source=github&utm_campaign=gh-tech-internships) | Riyadh, Riyadh, Saudi Arabia (Hybrid) |  | 6d |
+| **[Game District](https://www.dreamworkhq.com/c/gamedistrict.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Game Design Intern](https://www.dreamworkhq.com/job/052c73d1-df7e-415e-8568-a360900e101f?utm_source=github&utm_campaign=gh-tech-internships) | Lahore, Pakistan |  | 0d |
 
 <!-- TABLE_END -->
