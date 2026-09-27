@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-26T22:07:18.573Z",
+  "generatedAt": "2026-09-27T22:17:29.270Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
-  "count": 115,
+  "count": 111,
   "listings": [
     {
       "id": "2021f91f-666c-43c5-99fd-1844065b4d0d",
@@ -513,7 +513,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-08-31T14:07:45.414Z",
+      "postedAt": "2026-08-31T18:37:59.101Z",
       "firstIndexedAt": "2026-09-01T21:52:21.114Z",
       "url": "https://www.dreamworkhq.com/job/b38d8f84-ee4a-4a39-9b75-e74cad9658e7?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -612,22 +612,6 @@
       "postedAt": "2026-08-18T13:34:07.260Z",
       "firstIndexedAt": "2026-08-19T06:45:51.826Z",
       "url": "https://www.dreamworkhq.com/job/1bb44a90-20df-4241-b362-17d3fa82b84a?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "1bf1bb10-7a1c-41ba-9eec-cd31c823c3b3",
-      "title": "Binance Accelerator Program - Compliance/Sanctions",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "Asia",
-      "locationCountryCode": null,
-      "functionPrimary": "Legal",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-08-14T05:57:40.439Z",
-      "firstIndexedAt": "2026-08-14T17:15:07.144Z",
-      "url": "https://www.dreamworkhq.com/job/1bf1bb10-7a1c-41ba-9eec-cd31c823c3b3?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "6bc5eba1-c336-4118-8b79-c95cd8cc65bf",
@@ -772,38 +756,6 @@
       "postedAt": "2026-07-29T10:12:20.423Z",
       "firstIndexedAt": "2026-07-30T15:45:24.680Z",
       "url": "https://www.dreamworkhq.com/job/2c91cb27-77df-48e9-818b-34e01320d8e0?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "b0a693a1-d63b-4dc3-b7b9-2c7951346bb4",
-      "title": "Binance Accelerator Program - Data Scientist, AI (KYB/KYC Transaction Monitoring)",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "Asia",
-      "locationCountryCode": null,
-      "functionPrimary": "Data Science",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2024-11-08T02:51:49.048Z",
-      "firstIndexedAt": "2026-07-30T15:45:22.021Z",
-      "url": "https://www.dreamworkhq.com/job/b0a693a1-d63b-4dc3-b7b9-2c7951346bb4?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "2e2922f4-ac4e-4d5a-95ae-5fd6efb5bc58",
-      "title": "Binance Accelerator Program - Operations & PMO (Earn Regulatory & Growth)",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "Asia",
-      "locationCountryCode": null,
-      "functionPrimary": "Operations",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-07-28T03:28:56.387Z",
-      "firstIndexedAt": "2026-07-29T02:45:28.989Z",
-      "url": "https://www.dreamworkhq.com/job/2e2922f4-ac4e-4d5a-95ae-5fd6efb5bc58?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "4958e693-c7b2-4fde-98e2-81d1ec3480c4",
@@ -1812,22 +1764,6 @@
       "postedAt": "2026-01-22T07:20:28.927Z",
       "firstIndexedAt": "2026-05-15T18:04:56.718Z",
       "url": "https://www.dreamworkhq.com/job/d7bca00e-04dd-49c3-8d99-c30492b58837?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "f514b724-8ff5-430e-951d-aaf55a6e0f05",
-      "title": "Binance Accelerator Program - Frontend Engineer (for current students)",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "Asia",
-      "locationCountryCode": null,
-      "functionPrimary": "Engineering",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-01-30T10:40:16.379Z",
-      "firstIndexedAt": "2026-05-15T18:04:56.718Z",
-      "url": "https://www.dreamworkhq.com/job/f514b724-8ff5-430e-951d-aaf55a6e0f05?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "4e73356c-6a62-4ebc-80ba-57777db750e8",
