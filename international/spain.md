@@ -2,12 +2,12 @@
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
-**27 currently open roles** · Updated **2026-09-27**
+**25 currently open roles** · Updated **2026-09-28**
 
 These roles are grouped by their posted work location. Check each listing for work authorization, visa, and relocation requirements.
 
 - [Engineering](#engineering-19) · 19 roles
-- [Data Science](#data-science-8) · 8 roles
+- [Data Science](#data-science-6) · 6 roles
 
 <!-- TABLE_START (auto-generated: do not edit by hand; edits are overwritten daily) -->
 
@@ -15,13 +15,13 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[External Career Page](https://www.dreamworkhq.com/c/external-careers.jobs.unsw.edu.au?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship:Implementation of the Salesforce-ServIS-SAP-FSL Pulsar data …](https://www.dreamworkhq.com/job/15020657-d685-4d79-83bd-fb75f2bff5b7?utm_source=github&utm_campaign=gh-tech-internships) | Madrid, Madrid, Spain |  | 1d |
-| **[Rti](https://www.dreamworkhq.com/c/rti.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer, Intern](https://www.dreamworkhq.com/job/afb55c38-5c37-4ff2-a4bd-7febf03b777b?utm_source=github&utm_campaign=gh-tech-internships) | Granada, Spain |  | 3d |
-| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/9a139e14-dfec-41be-8894-4782f627200f?utm_source=github&utm_campaign=gh-tech-internships) | Madrid | $25K–$36K | 4d |
-| **[Eurofins](https://www.dreamworkhq.com/c/eurofins.com?utm_source=github&utm_campaign=gh-tech-internships)** | [6-month paid internship - AI & Automation](https://www.dreamworkhq.com/job/e956f96f-c6d1-4406-b7ac-3603d5f6b4ec?utm_source=github&utm_campaign=gh-tech-internships) | Barcelona, CT, Spain |  | 5d |
-| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Software Dev Engineer Intern - Spain](https://www.dreamworkhq.com/job/ccbc887e-6970-44e8-ab20-bbc13e2dd845?utm_source=github&utm_campaign=gh-tech-internships) | ES, M, Madrid |  | 5d |
-| **[Apriorit](https://www.dreamworkhq.com/c/apriorit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern C++ Developer](https://www.dreamworkhq.com/job/5b81ef4c-2c73-4eaf-a4ea-f2f0325fbbb1?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Alicante, Alicante) |  | 11d |
-| **[Datadog](https://www.dreamworkhq.com/c/datadoghq.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineering Intern](https://www.dreamworkhq.com/job/06280a18-7b17-40c1-bb20-e47536e62b26?utm_source=github&utm_campaign=gh-tech-internships) | Madrid, Spain (Hybrid) |  | 18d |
+| **[External Career Page](https://www.dreamworkhq.com/c/external-careers.jobs.unsw.edu.au?utm_source=github&utm_campaign=gh-tech-internships)** | [Internship:Implementation of the Salesforce-ServIS-SAP-FSL Pulsar data …](https://www.dreamworkhq.com/job/15020657-d685-4d79-83bd-fb75f2bff5b7?utm_source=github&utm_campaign=gh-tech-internships) | Madrid, Madrid, Spain |  | 2d |
+| **[Rti](https://www.dreamworkhq.com/c/rti.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer, Intern](https://www.dreamworkhq.com/job/afb55c38-5c37-4ff2-a4bd-7febf03b777b?utm_source=github&utm_campaign=gh-tech-internships) | Granada, Spain |  | 4d |
+| **[Eurofins](https://www.dreamworkhq.com/c/eurofins.com?utm_source=github&utm_campaign=gh-tech-internships)** | [6-month paid internship - AI & Automation](https://www.dreamworkhq.com/job/6b41c2ee-23f5-4a96-8ca8-2a6be0b26920?utm_source=github&utm_campaign=gh-tech-internships) | Barcelona, Spain |  | 4d |
+| **[Marvell Technology](https://www.dreamworkhq.com/c/marvell.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineer Intern](https://www.dreamworkhq.com/job/9a139e14-dfec-41be-8894-4782f627200f?utm_source=github&utm_campaign=gh-tech-internships) | Madrid | $25K–$36K | 5d |
+| **[Amazon](https://www.dreamworkhq.com/c/amazon.com?utm_source=github&utm_campaign=gh-tech-internships)** | [2027 Software Dev Engineer Intern - Spain](https://www.dreamworkhq.com/job/ccbc887e-6970-44e8-ab20-bbc13e2dd845?utm_source=github&utm_campaign=gh-tech-internships) | ES, M, Madrid |  | 6d |
+| **[Apriorit](https://www.dreamworkhq.com/c/apriorit.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern C++ Developer](https://www.dreamworkhq.com/job/5b81ef4c-2c73-4eaf-a4ea-f2f0325fbbb1?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Alicante, Alicante) |  | 12d |
+| **[Datadog](https://www.dreamworkhq.com/c/datadoghq.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Engineering Intern](https://www.dreamworkhq.com/job/06280a18-7b17-40c1-bb20-e47536e62b26?utm_source=github&utm_campaign=gh-tech-internships) | Madrid, Spain (Hybrid) |  | 19d |
 | **[Zurich Insurance](https://www.dreamworkhq.com/c/zurich.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Junior Powerapps Developer Intern](https://www.dreamworkhq.com/job/1383729f-909b-4ba2-aa29-02ea0156d2b5?utm_source=github&utm_campaign=gh-tech-internships) | Spain |  | 1mo |
 | **[Analog Devices](https://www.dreamworkhq.com/c/analog.com?utm_source=github&utm_campaign=gh-tech-internships)** | [FY27 Engineering Intern – Hardware, Software & Systems](https://www.dreamworkhq.com/job/fa0d55d0-9e5f-4128-8402-4d931bc63674?utm_source=github&utm_campaign=gh-tech-internships) | Spain, Valencia, Cortes Valencianas |  | 1mo |
 | **[Boeing](https://www.dreamworkhq.com/c/boeing.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Software Engineering](https://www.dreamworkhq.com/job/437cfdd3-522f-4e64-b209-31effdb69831?utm_source=github&utm_campaign=gh-tech-internships) | ESP - Madrid, Spain |  | 1mo |
@@ -29,23 +29,21 @@ These roles are grouped by their posted work location. Check each listing for wo
 | **[Bitpanda](https://www.dreamworkhq.com/c/bitpanda.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern, QA Engineering](https://www.dreamworkhq.com/job/565a7d0a-f518-4c9e-8da5-566cf26b01ec?utm_source=github&utm_campaign=gh-tech-internships) | Barcelona, Spain (Hybrid) |  | 1mo |
 | **[Monolithicpower](https://www.dreamworkhq.com/c/monolithicpower.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Physical Design Engineer Intern](https://www.dreamworkhq.com/job/cff92aca-9b21-42ac-a851-75b77e18ab9b?utm_source=github&utm_campaign=gh-tech-internships) | Barcelona, Spain |  | 1mo |
 | **[Zurich Insurance](https://www.dreamworkhq.com/c/zurich.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineering & Visualization Intern](https://www.dreamworkhq.com/job/d1034a68-83ba-4160-b995-c35b6e1da93f?utm_source=github&utm_campaign=gh-tech-internships) | Spain (Hybrid) |  | 1mo |
-| **[Zurich Insurance](https://www.dreamworkhq.com/c/zurich.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Developer Intern](https://www.dreamworkhq.com/job/5763ad58-1157-4b83-9511-2c41b47cfc68?utm_source=github&utm_campaign=gh-tech-internships) | Spain (Hybrid) |  | 1mo |
+| **[Zurich Insurance](https://www.dreamworkhq.com/c/zurich.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Developer Intern](https://www.dreamworkhq.com/job/5763ad58-1157-4b83-9511-2c41b47cfc68?utm_source=github&utm_campaign=gh-tech-internships) | Spain (Hybrid) |  | 2mo |
 | **[1000](https://www.dreamworkhq.com/c/1000company.com.br?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineer Internship (m/f/x)](https://www.dreamworkhq.com/job/f763fd11-0efa-4cad-8b41-f5489c9f8cae?utm_source=github&utm_campaign=gh-tech-internships) | JIJONA PLANT |  | 2mo |
 | **[1000](https://www.dreamworkhq.com/c/1000company.com.br?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Engineer Internship (m/f/x)](https://www.dreamworkhq.com/job/9ebd6df2-1bbd-4198-92cb-659dae1ecaa7?utm_source=github&utm_campaign=gh-tech-internships) | MADRID GENERAL OFFICE |  | 2mo |
 | **[Nestlé](https://www.dreamworkhq.com/c/nestlehealthscience.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Spain Youth \| Internship IT - September 2026](https://www.dreamworkhq.com/job/c32c63ea-9bdd-4952-bca7-8146b73736ef?utm_source=github&utm_campaign=gh-tech-internships) | Spain |  | 2mo |
 | **[SAP](https://www.dreamworkhq.com/c/sap.com?utm_source=github&utm_campaign=gh-tech-internships)** | [SAP iXp Intern - SAP Customer Support AI Automation Engineer](https://www.dreamworkhq.com/job/cf7f5824-83ef-4417-bc58-5b32dc2c23d2?utm_source=github&utm_campaign=gh-tech-internships) | Madrid, Spain (Hybrid) |  | 2mo |
 
-### Data Science (8)
+### Data Science (6)
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[GEHC External Site](https://www.dreamworkhq.com/c/gehc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Service Analytics](https://www.dreamworkhq.com/job/ac7d0cfc-f97f-475c-a152-9db6910f3e82?utm_source=github&utm_campaign=gh-tech-internships) | Madrid |  | 3d |
-| **[HP Inc.](https://www.dreamworkhq.com/c/hpwolf.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analyst Intern](https://www.dreamworkhq.com/job/9a1be8cc-371b-45ab-a71b-f51c1354a4d6?utm_source=github&utm_campaign=gh-tech-internships) | Sant Cugat del Valles, Barcelona, Spain |  | 23d |
-| **[Ailylabs](https://www.dreamworkhq.com/c/ailylabs.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern Data Practitioner – Barcelona / Madrid (Hybrid)](https://www.dreamworkhq.com/job/f00cf080-7afa-42d3-98ea-566343a56952?utm_source=github&utm_campaign=gh-tech-internships) | Madrid - Hybrid (Hybrid) |  | 1mo |
+| **[GEHC External Site](https://www.dreamworkhq.com/c/gehc.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Intern - Service Analytics](https://www.dreamworkhq.com/job/ac7d0cfc-f97f-475c-a152-9db6910f3e82?utm_source=github&utm_campaign=gh-tech-internships) | Madrid |  | 4d |
+| **[HP Inc.](https://www.dreamworkhq.com/c/hpwolf.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analyst Intern](https://www.dreamworkhq.com/job/9a1be8cc-371b-45ab-a71b-f51c1354a4d6?utm_source=github&utm_campaign=gh-tech-internships) | Sant Cugat del Valles, Barcelona, Spain |  | 24d |
 | **[Zurich Insurance](https://www.dreamworkhq.com/c/zurich.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Ai Analyst Intern](https://www.dreamworkhq.com/job/66f52ee6-e0bf-4fb1-b5f3-d6d5c8d2ccd7?utm_source=github&utm_campaign=gh-tech-internships) | Spain (Hybrid) |  | 2mo |
 | **[DeliveryHero](https://www.dreamworkhq.com/c/deliveryhero.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Analyst Intern](https://www.dreamworkhq.com/job/99b4692a-4928-4f20-b509-2bcee4b68ba6?utm_source=github&utm_campaign=gh-tech-internships) | Remote (Barcelona, , Spain) |  | 3mo |
 | **[Shifttechnology](https://www.dreamworkhq.com/c/shift-technology.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data Science internship - Spanish speaker (6months)](https://www.dreamworkhq.com/job/f65c70d5-39b1-4b33-b99a-6e268c9a26a5?utm_source=github&utm_campaign=gh-tech-internships) | Spain - Madrid (Hybrid) |  | 4mo |
 | **[Morningstar](https://www.dreamworkhq.com/c/morningstar.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Multilingual Data Analyst Intern](https://www.dreamworkhq.com/job/dcbdae14-ff5c-4dc1-9e43-a54b729240c4?utm_source=github&utm_campaign=gh-tech-internships) | Madrid (Hybrid) |  | 4mo |
-| **[Veepee](https://www.dreamworkhq.com/c/veepee.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Data & AI Intern - Production Quality - Internship W/M/X](https://www.dreamworkhq.com/job/429fe147-e9d3-4f76-ac6e-ade8aa8f980b?utm_source=github&utm_campaign=gh-tech-internships) | Barcelona |  | 4mo |
 
 <!-- TABLE_END -->
