@@ -1,4 +1,4 @@
-# Tech internships in Morocco
+# Tech internships in Malta
 
 [← International index](../INTERNATIONAL.md) · [US internships](../README.md) · [Business internships](../BUSINESS.md) · [Crypto internships](../CRYPTO.md)
 
@@ -14,6 +14,6 @@ These roles are grouped by their posted work location. Check each listing for wo
 
 | Company | Role | Location | Pay | Added |
 | --- | --- | --- | --- | --- |
-| **[Capgemini](https://www.dreamworkhq.com/c/capgemini.com?utm_source=github&utm_campaign=gh-tech-internships)** | [Software Developer Intern](https://www.dreamworkhq.com/job/0aaa687d-c952-4060-920f-d442fc8e96f6?utm_source=github&utm_campaign=gh-tech-internships) | — |  | 2mo |
+| **[Betsson](https://www.dreamworkhq.com/c/betsson.com?utm_source=github&utm_campaign=gh-tech-internships)** | [AI Engineering Intern](https://www.dreamworkhq.com/job/6686305f-e7e9-459e-b857-2a44a6fa41ee?utm_source=github&utm_campaign=gh-tech-internships) | Malta |  | 0d |
 
 <!-- TABLE_END -->
