@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-27T22:17:29.270Z",
+  "generatedAt": "2026-09-29T00:12:55.844Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Tech-Internships-2027",
   "scope": "crypto",
-  "count": 111,
+  "count": 108,
   "listings": [
     {
       "id": "2021f91f-666c-43c5-99fd-1844065b4d0d",
@@ -326,22 +326,6 @@
       "url": "https://www.dreamworkhq.com/job/b32a6e9a-819a-4072-9856-4513512b6348?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "ba4ac05c-2ad7-48cd-bf33-993d86e8b105",
-      "title": "[Intern] Test Development Engineer Intern",
-      "company": "Bybit",
-      "companyDomain": "bybit.com",
-      "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
-      "locationCountryCode": "MY",
-      "functionPrimary": "Engineering",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-09T06:56:44.000Z",
-      "firstIndexedAt": "2026-09-09T15:30:43.343Z",
-      "url": "https://www.dreamworkhq.com/job/ba4ac05c-2ad7-48cd-bf33-993d86e8b105?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "e37426e2-d0d1-4600-b0e1-01f2c0236399",
       "title": "Big Data Development Engineer Intern",
       "company": "Bybit",
@@ -390,6 +374,22 @@
       "url": "https://www.dreamworkhq.com/job/edeeee59-ade0-46e2-8911-5c7ea7360bfd?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
+      "id": "f629d222-4507-43ee-ac50-feeca0c75e6c",
+      "title": "[Intern] Test Development Engineer Intern",
+      "company": "Bybit",
+      "companyDomain": "bybit.com",
+      "location": "Hong Kong SAR; Kuala Lumpur, Malaysia",
+      "locationCountryCode": "MY",
+      "functionPrimary": "Engineering",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "postedAt": "2026-09-09T08:26:18.000Z",
+      "firstIndexedAt": "2026-09-09T15:30:43.343Z",
+      "url": "https://www.dreamworkhq.com/job/f629d222-4507-43ee-ac50-feeca0c75e6c?utm_source=github&utm_campaign=gh-tech-internships"
+    },
+    {
       "id": "21b93a50-079a-4f39-84a3-49c22693ccc1",
       "title": "Crypto Inventory Operations Intern",
       "company": "Coinbase",
@@ -436,22 +436,6 @@
       "postedAt": "2026-09-04T14:46:40.936Z",
       "firstIndexedAt": "2026-09-08T10:45:36.557Z",
       "url": "https://www.dreamworkhq.com/job/394f5c80-3295-4e58-ba98-315c1ab88044?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "f3b40f24-aab8-41bb-8e48-a8d501c3ec55",
-      "title": "Binance Accelerator Program - Events",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "UAE, Dubai",
-      "locationCountryCode": "AE",
-      "functionPrimary": "Marketing",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-09-03T21:59:53.624Z",
-      "firstIndexedAt": "2026-09-04T06:00:57.623Z",
-      "url": "https://www.dreamworkhq.com/job/f3b40f24-aab8-41bb-8e48-a8d501c3ec55?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "c7db128c-9d38-482e-bfb8-8a18c8630a34",
@@ -513,7 +497,7 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "postedAt": "2026-08-31T18:37:59.101Z",
+      "postedAt": "2026-08-31T23:11:44.689Z",
       "firstIndexedAt": "2026-09-01T21:52:21.114Z",
       "url": "https://www.dreamworkhq.com/job/b38d8f84-ee4a-4a39-9b75-e74cad9658e7?utm_source=github&utm_campaign=gh-tech-internships"
     },
@@ -774,22 +758,6 @@
       "url": "https://www.dreamworkhq.com/job/4958e693-c7b2-4fde-98e2-81d1ec3480c4?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
-      "id": "dc273561-3b82-4249-aa50-20a9cc67c098",
-      "title": "Binance Accelerator Program - Content Media",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "UAE, Dubai",
-      "locationCountryCode": "AE",
-      "functionPrimary": "Marketing",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-07-28T07:12:44.094Z",
-      "firstIndexedAt": "2026-07-28T08:30:17.761Z",
-      "url": "https://www.dreamworkhq.com/job/dc273561-3b82-4249-aa50-20a9cc67c098?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
       "id": "b9724350-4f5e-49a6-b20e-d5f2d5d43467",
       "title": "Binance Accelerator Program - User Growth Operations",
       "company": "Binance",
@@ -868,22 +836,6 @@
       "postedAt": "2026-07-22T02:28:05.316Z",
       "firstIndexedAt": "2026-07-24T11:00:31.098Z",
       "url": "https://www.dreamworkhq.com/job/0fd2bb8a-4879-4058-8d63-9f1651e126a2?utm_source=github&utm_campaign=gh-tech-internships"
-    },
-    {
-      "id": "561ccfcf-b54e-4986-a83b-312ec22f0eb7",
-      "title": "Binance Accelerator Program - PK Social Media",
-      "company": "Binance",
-      "companyDomain": "binance.com",
-      "location": "Pakistan, Islamabad",
-      "locationCountryCode": "PK",
-      "functionPrimary": "Marketing",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "postedAt": "2026-07-24T10:37:39.906Z",
-      "firstIndexedAt": "2026-07-24T11:00:31.098Z",
-      "url": "https://www.dreamworkhq.com/job/561ccfcf-b54e-4986-a83b-312ec22f0eb7?utm_source=github&utm_campaign=gh-tech-internships"
     },
     {
       "id": "6ff9bdc3-0b74-4ee2-865d-67f8ca1f051d",
